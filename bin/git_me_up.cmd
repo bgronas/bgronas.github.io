@@ -10,8 +10,8 @@ IF %errorlevel%==0 (
         echo cool
     )
 echo "Deleting old publication"
-del /F /S /Q public
-RMDIR /S /Q public
+DEL /F /S public
+RMDIR /S public
 MKDIR public
 hugo 
 del /F /S /Q ".git\worktrees\public"
