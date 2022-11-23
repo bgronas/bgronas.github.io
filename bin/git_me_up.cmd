@@ -21,5 +21,4 @@ git add --all
 git add *
 git commit -m "Update: %DATE% %TIME%" 
 git push --all
-
-
+cd ..
