@@ -1,0 +1,5 @@
+baseURL = 'https://bgronas.github.io/'
+languageCode = 'en-us'
+title = 'Tech Docs'
+theme = 'techdoc'
+
