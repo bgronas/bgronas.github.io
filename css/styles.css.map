@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "D:/UTIL",
+	"sourceRoot": "C:/Windows/System32",
 	"sources": [
 		"themes/clarity/assets/sass/main.sass",
 		"themes/clarity/assets/sass/_variables.sass",
