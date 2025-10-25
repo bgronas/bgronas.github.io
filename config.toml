@@ -4,6 +4,9 @@ title = "Bengt's Stash"
 theme = "hugo-clarity"
 enableRobotsTXT = true
 canonifyURLs = true
+publishDir = "public"
+
+
 
 # -------------------------
 # Pagination & General
