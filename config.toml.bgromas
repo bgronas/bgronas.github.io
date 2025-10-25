@@ -1,0 +1,87 @@
+baseURL = "https://bgronas.github.io/"
+languageCode = "en-us"
+title = "Bengt's Stash"
+theme = "hugo-clarity"
+
+[pagination]
+  pagerSize = 12
+
+[params]
+  author = "Bengt Grønås"
+  email = "mail@bengt.no"
+  description = "Stuff for People"
+  introDescription = "Stuff for People"
+  introURL = true
+
+  # Visuals and layout
+  usePageBundles = true
+  mainSections = ["post", "blog"]
+  numberOfTagsShown = 6
+  numberOfRecentPosts = 10
+  numberOfFeaturedPosts = 0
+  showRelatedInSidebar = true
+  showRelatedInArticle = true
+  enforceDarkMode = true
+  enforceLightMode = false
+  custom_background_color = "#0b0b0b"
+  custom_font_color = "#e0e0e0"
+  logo = "logo.png"
+  footerLogo = "logo.png"
+  fallBackOgImage = "thumbnail.png"
+  mobileNavigation = "left"
+  titleSeparator = "|"
+  iconsDir = "icons/"
+  figurePositionShow = true
+
+  # Code blocks
+  codeMaxLines = 10
+  codeLineNumbers = false
+
+  # Math & analytics
+  enableMathNotation = true
+  googleAnalytics = "G-63N9K3EZWP"
+
+  # Meta, share & drafts
+  largeTwitterCard = true
+  shareImage = "share.png"
+  showShare = false
+  comments = false
+  draft = false
+
+  # RSS & footer
+  rss_summary = true
+  dateFormat = "Mon. 02-01-2006"
+  since = 2021
+
+[params.footer]
+  copyright = "© {year} Bengt Grønås — Some Rights Reserved"
+
+[social]
+  twitter = "bgronas"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/bgronas"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[outputs]
+home = ["HTML", "RSS"]
+section = ["HTML", "RSS"]
+taxonomy = ["HTML", "RSS"]
+term = ["HTML", "RSS"]
+page = ["HTML"]
+
+[services]
+  [services.rss]
+    limit = 42
