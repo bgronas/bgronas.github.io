@@ -4,7 +4,7 @@ title: "2025 12 09 ÆøåÆØÅ Tesing"  # Title of the blog post.
 date: 2025-12-09T22:11:27+01:00                            # Date of post creation.
 description: "Article description."           # Used by SEO engines and social cards.
 featured: false                               # Appears on homepage sidebar if true.
-draft: true                                   # Drafts aren’t rendered until published.
+draft: false                                   # Drafts aren’t rendered until published.
 toc: false                                    # Auto table of contents.
 
 usePageBundles: true                          # Keep images & media with each post.

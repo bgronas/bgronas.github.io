@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Bengt Blog</title>
-    <link>https://bgronas.github.io/post/feed.xml</link>
-    <description>Recent content in Posts on Bengt Blog</description>
+    <title>Your TAG! on Bengt Blog</title>
+    <link>https://bgronas.github.io/tags/your-tag/feed.xml</link>
+    <description>Recent content in Your TAG! on Bengt Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-NO</language>
-    <lastBuildDate>Tue, 09 Dec 2025 22:11:27 +0100</lastBuildDate><atom:link href="https://bgronas.github.io/post/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Dec 2025 22:11:27 +0100</lastBuildDate><atom:link href="https://bgronas.github.io/tags/your-tag/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2025 12 09 ÆøåÆØÅ Tesing</title>
       <link>https://bgronas.github.io/post/2025-12-09-%C3%A6%C3%B8%C3%A5%C3%A6%C3%B8%C3%A5-tesing/</link>
@@ -28,24 +28,6 @@
 &lt;li&gt;How can I improve and organize my …&lt;/li&gt;
 &lt;li&gt;What’s the best way to …&lt;/li&gt;
 &lt;/ul&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Himalaya p� MC</title>
-      <link>https://bgronas.github.io/post/2025-12-09-himalaya-p%C3%A5-mc/</link>
-      <pubDate>Tue, 09 Dec 2025 21:35:24 +0100</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2025-12-09-himalaya-p%C3%A5-mc/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;himalaya-p-mc&#34;&gt;Himalaya p� MC&lt;/h1&gt;
-&lt;p&gt;Dette er til deg som lurer p� om dette kan v�re noe for deg&amp;hellip;&lt;/p&gt;
-&lt;p&gt;I september 2025 var vi med Norind Adventures p� en episk motorsykkeltur i Himalaya. Blant tingene vi opplevde var dager med MC ekspedisjoner i regionen Ladakh. Vi kj�rte gjennom ganske mye ekstreme landskap � sn�dekte fjell, gj�rme og regn, t�rre �rkener, daler, h�ydedaler, alpine innsj�er og sanddyner og sist men ikke minst Kj�ring over pass&lt;/p&gt;
           
           
         
