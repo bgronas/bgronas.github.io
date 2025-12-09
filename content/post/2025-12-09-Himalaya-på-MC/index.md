@@ -1,8 +1,8 @@
 ---
-author: "Bengt Grønås"
-title: "Himalaya på MC"
+author: "Bengt Grï¿½nï¿½s"
+title: "Himalaya pï¿½ MC"
 date: 2025-12-09T21:35:24+01:00                            # Date of post creation.
-description: "Motorsykkeltur i Himalaya med Norind Adventures – høyderekspedisjon gjennom Ladakh, ørkendaler, fjellpass og innsjøer."
+description: "Motorsykkeltur i Himalaya med Norind Adventures ï¿½ hï¿½yderekspedisjon gjennom Ladakh, ï¿½rkendaler, fjellpass og innsjï¿½er."
 
 featured: false                               # Appears on homepage sidebar if true.
 draft: false                                   # Drafts arenâ€™t rendered until published.
@@ -30,9 +30,9 @@ tags:
   - Motorcycle Touring
   - High Altitude Ride
 keywords: "Himalaya, Ladakh, motorcycle touring, Royal Enfield, Norind Adventures, adventure travel, high altitude riding, Himalayan passes, Nubra Valley, Pangong Tso"
-subjects: "Motorsykkel, Eventyrtur, Høyfjell, Reise, Himalaya"
+subjects: "Motorsykkel, Eventyrtur, Hï¿½yfjell, Reise, Himalaya"
 
-owner: "Bengt Grønås"
+owner: "Bengt Grï¿½nï¿½s"
 
 comment: false
 showShare: false
@@ -40,75 +40,76 @@ showRelatedInSidebar: true
 showRelatedInArticle: true
 ---
 
-# Himalaya på MC 
+# Himalaya pï¿½ MC 
 
-Dette er til deg som lurer på om dette kan være noe for deg... 
+Dette er til deg som lurer pï¿½ om dette kan vï¿½re noe for deg... 
 
-I september 2025 var vi med Norind Adventures på en episk motorsykkeltur i Himalaya. Blant tingene vi opplevde var dager med MC ekspedisjoner i regionen Ladakh. Vi kjørte gjennom ganske mye ekstreme landskap — snødekte fjell, gjørme og regn, tørre ørkener, daler, høydedaler, alpine innsjøer og sanddyner og sist men ikke minst Kjøring over pass
+I september 2025 var vi med Norind Adventures pï¿½ en episk motorsykkeltur i Himalaya. Blant tingene vi opplevde var dager med MC ekspedisjoner i regionen Ladakh. Vi kjï¿½rte gjennom ganske mye ekstreme landskap ï¿½ snï¿½dekte fjell, gjï¿½rme og regn, tï¿½rre ï¿½rkener, daler, hï¿½ydedaler, alpine innsjï¿½er og sanddyner og sist men ikke minst Kjï¿½ring over pass
 
-Terrenget varierer fra asfalt til røff stein, grus og sand. Noen ganger var det hardt arbeid, andre ganger følelsen av å seile gjennom eventyrlige Himalaya-landskap. 
+Terrenget varierer fra asfalt til rï¿½ff stein, grus og sand. Noen ganger var det hardt arbeid, andre ganger fï¿½lelsen av ï¿½ seile gjennom eventyrlige Himalaya-landskap. 
 
 ## Hvorfor Himalaya 
 
-Jeg har kjørt mye motorsykkel før, men Himalaya er i en annen liga. Det er ikke bare høyden, men kombinasjonen av kultur, landskap og det å vite at feilside av grøfta ikke er en åker – men et juv. Derfor var det viktig å reise med noen som faktisk kan området. Dette er en del av verden der veiene nesten ikke finnes :-) 
+Jeg har kjï¿½rt mye motorsykkel fï¿½r, men Himalaya er i en annen liga. Det er ikke bare hï¿½yden, men kombinasjonen av kultur, landskap og det ï¿½ vite at feilside av grï¿½fta ikke er en ï¿½ker ï¿½ men et juv. Derfor var det viktig ï¿½ reise med noen som faktisk kan omrï¿½det. Dette er en del av verden der veiene nesten ikke finnes :-) 
 
-Royal Enfield Himalayan 411/450 er ikke raske, men de er bygget for dette – grus, stein, gjørme og veier som egentlig bare er forslag.  Vi vasser i månelandskap, gamle klostre, trange daler, høye pass, panoramautsikt og en følelse av at du er veldig langt unna alt. 
+Royal Enfield Himalayan 411/450 er ikke raske, men de er bygget for dette ï¿½ grus, stein, gjï¿½rme og veier som egentlig bare er forslag.  Vi vasser i mï¿½nelandskap, gamle klostre, trange daler, hï¿½ye pass, panoramautsikt og en fï¿½lelse av at du er veldig langt unna alt. 
 
-En av de beste mc-dagene: rundtur fra Hanle opp til Umling La (5798 moh) - Å stå der oppe, med Himalaya i alle retninger, er vanskelig å beskrive. Man får en helt annen respekt for høyde, vær og logistikk. Denne MC-opplevelsen handlet mer om flyt og utholdenhet enn fart. For min del var dette ikke en ferietur, men en rekalibrering. Det er vanskelig å komme hjem og irritere seg over småting når du nettopp har stått på nesten 6000 moh og kjent på …. livet. 
+En av de beste mc-dagene: rundtur fra Hanle opp til Umling La (5798 moh) - ï¿½ stï¿½ der oppe, med Himalaya i alle retninger, er vanskelig ï¿½ beskrive. Man fï¿½r en helt annen respekt for hï¿½yde, vï¿½r og logistikk. Denne MC-opplevelsen handlet mer om flyt og utholdenhet enn fart. For min del var dette ikke en ferietur, men en rekalibrering. Det er vanskelig ï¿½ komme hjem og irritere seg over smï¿½ting nï¿½r du nettopp har stï¿½tt pï¿½ nesten 6000 moh og kjent pï¿½ ï¿½. livet. 
 
-Uansett - Det du får, er dramatiske naturopplevelser, fjell, kultur og adrenalin. Hva er feilen med å ligge på en strand? Jo, dette er ikke definitivt en standard ferie — det er en reise du husker, ikke polert «MC-tur light» - Her lager du minner for livet! 
+Uansett - Det du fï¿½r, er dramatiske naturopplevelser, fjell, kultur og adrenalin. Hva er feilen med ï¿½ ligge pï¿½ en strand? Jo, dette er ikke definitivt en standard ferie ï¿½ det er en reise du husker, ikke polert ï¿½MC-tur lightï¿½ - Her lager du minner for livet! 
 
-Turen passer bra for alle, men det er ofte en grei ting om du føler at du mestrer litt grus før du kommer. Men ikke frykt noe, hverken politiske problemer med nabolandene, skremsels-videoer eller synsinger fra youtube og instagram om alt fra politisk klima til dårlige veier. Du blir ivaretatt og sett, og alle starter samtidig og kommer i mål samtidig, dette er ikke en konkurranse. 
+Turen passer bra for alle, men det er ofte en grei ting om du fï¿½ler at du mestrer litt grus fï¿½r du kommer. Men ikke frykt noe, hverken politiske problemer med nabolandene, skremsels-videoer eller synsinger fra youtube og instagram om alt fra politisk klima til dï¿½rlige veier. Du blir ivaretatt og sett, og alle starter samtidig og kommer i mï¿½l samtidig, dette er ikke en konkurranse. 
 
-Til slutt sitter du med dette som en "referanse-opplevelse" og måler etterhvert alle opplevelsene både tidligere og kommende opp mot Himalaya MC-turen din. 
+Til slutt sitter du med dette som en "referanse-opplevelse" og mï¿½ler etterhvert alle opplevelsene bï¿½de tidligere og kommende opp mot Himalaya MC-turen din. 
 
 # Her er min erfaring :
 
-Reisen til/fra India er lang og det kan bli venting. Ta fram det flegmatiske i deg. Det kan være greit med noe å dra over hodet når du skal stunt-sove litt her og der.  Noen kalde kvelder kan det bli, men en enkel tynn jakke (hooded insulator) er nok. 
-MC-Jakke og bukse -foret kan legges igjen hjemme. Du trenger ikke dette. Jeg syntes det var VELDIG greit å ha med egen hjelm og dobbel-visir. En lang syntetisk stilongs og etpar langermet syntetisk eller ull-undertøy er fint. Enkelte pass kan være delvis kalde. Noen frossenpinner kjører med tjukke fleece under. For min del var vinterhansker det eneste tjukke jeg hadde. Jeg angrer aldri på det.
-Vi ble alle "rare" i kroppen da vi landet på 3500moh. Vi startet i byen Leh – Vi hadde et fantastisk hotell. Et døgn der gjorde underverker. Kroppen må faktisk «bo» i høyden. Ikke-no' macho-opplegg, bare utrolig smart akklimatisering.
-Du bør litt MC-erfaring og være greit komfortabel på grus/ujevn vei. Du trenger ikke være ekstrem, men du må tåle lange dager og anpassing til høyde. 
-Etter dag 2 er det kanskje lov å være litt verdensmester om du kjenner deg comfy. Men husk at det er guiden som kjenner veien, selv om du vil forbi.  Mye av veien i Himalaya går jo bare en vei, så der vil være rom for å "stikke ifra" om du vil kjøre hardere på i tungt svingete grusveier om du er erfaren. Helt greit om man avtaler på forhånd hva man har tenkt. 
-«VEI» i Himalaya betyr alt fra fin asfalt til grove elveleier. Syklene tåler det utrolig nok, selv om du er en stor person.  Du trenger ikke ha utstyrs-angst, det triller fremover uansett. 
-Selv om mekanikeren ser ung og uerfaren ut, og du sier at "du har prøvd alt", og kjenner at du vet best.. STFU - Trust the mecanic! Disse gutta kjenner syklenes luner.  De er Indias *"fjorden cowboys"* og får start på skiten uansett hva du måtte tro og mene. 
+Reisen til/fra India er lang og det kan bli venting. Ta fram det flegmatiske i deg. Det kan vï¿½re greit med noe ï¿½ dra over hodet nï¿½r du skal stunt-sove litt her og der.  Noen kalde kvelder kan det bli, men en enkel tynn jakke (hooded insulator) er nok. 
+MC-Jakke og bukse -foret kan legges igjen hjemme. Du trenger ikke dette. Jeg syntes det var VELDIG greit ï¿½ ha med egen hjelm og dobbel-visir. En lang syntetisk stilongs og etpar langermet syntetisk eller ull-undertï¿½y er fint. Enkelte pass kan vï¿½re delvis kalde. Noen frossenpinner kjï¿½rer med tjukke fleece under. For min del var vinterhansker det eneste tjukke jeg hadde. Jeg angrer aldri pï¿½ det.
+Vi ble alle "rare" i kroppen da vi landet pï¿½ 3500moh. Vi startet i byen Leh ï¿½ Vi hadde et fantastisk hotell. Et dï¿½gn der gjorde underverker. Kroppen mï¿½ faktisk ï¿½boï¿½ i hï¿½yden. Ikke-no' macho-opplegg, bare utrolig smart akklimatisering.
+Du bï¿½r litt MC-erfaring og vï¿½re greit komfortabel pï¿½ grus/ujevn vei. Du trenger ikke vï¿½re ekstrem, men du mï¿½ tï¿½le lange dager og anpassing til hï¿½yde. 
+Etter dag 2 er det kanskje lov ï¿½ vï¿½re litt verdensmester om du kjenner deg comfy. Men husk at det er guiden som kjenner veien, selv om du vil forbi.  Mye av veien i Himalaya gï¿½r jo bare en vei, sï¿½ der vil vï¿½re rom for ï¿½ "stikke ifra" om du vil kjï¿½re hardere pï¿½ i tungt svingete grusveier om du er erfaren. Helt greit om man avtaler pï¿½ forhï¿½nd hva man har tenkt. 
+ï¿½VEIï¿½ i Himalaya betyr alt fra fin asfalt til grove elveleier. Syklene tï¿½ler det utrolig nok, selv om du er en stor person.  Du trenger ikke ha utstyrs-angst, det triller fremover uansett. 
+Selv om mekanikeren ser ung og uerfaren ut, og du sier at "du har prï¿½vd alt", og kjenner at du vet best.. STFU - Trust the mecanic! Disse gutta kjenner syklenes luner.  De er Indias *"fjorden cowboys"* og fï¿½r start pï¿½ skiten uansett hva du mï¿½tte tro og mene. 
 
-Royal Enfield Himalayan – den har ikke hastverk, den bare går. Jeg tror at om man er litt 'villmann', er dette den perfekte Himalaya sykkelen.  En tung R1300GSA doning for dette eventyret er bare tull. 
+Royal Enfield Himalayan ï¿½ den har ikke hastverk, den bare gï¿½r. Jeg tror at om man er litt 'villmann', er dette den perfekte Himalaya sykkelen.  En tung R1300GSA doning for dette eventyret er bare tull. 
 
-Du bør like å være ute av komfortsonen – på den gode måten.  Ta steget, Ikke frykt noe, det er ingeting å være redd for. 
-Ikke snakk deg selv ned før du drar. Du kjører der "Itchyboots" har kjørt før. Klarte hun dette alene, klarer du dette i gruppa di :-) Se videoene hennes på youtube.
+Du bï¿½r like ï¿½ vï¿½re ute av komfortsonen ï¿½ pï¿½ den gode mï¿½ten.  Ta steget, Ikke frykt noe, det er ingeting ï¿½ vï¿½re redd for. 
+Ikke snakk deg selv ned fï¿½r du drar. Du kjï¿½rer der "Itchyboots" har kjï¿½rt fï¿½r. Klarte hun dette alene, klarer du dette i gruppa di :-) Se videoene hennes pï¿½ youtube.
 
-Før du drar, ikke kom opp med dårlige unnskyldninger hvorfor du ikke skal dra. Ikke avlys uansett hva om givelsene krever av deg. Husk at jobben din står med åpne armer og tar i mot alt du har å gi når du kommer tilbake. Det samme gjør din bedre halvdel og ungene.. 
+Fï¿½r du drar, ikke kom opp med dï¿½rlige unnskyldninger hvorfor du ikke skal dra. Ikke avlys uansett hva om givelsene krever av deg. Husk at jobben din stï¿½r med ï¿½pne armer og tar i mot alt du har ï¿½ gi nï¿½r du kommer tilbake. Det samme gjï¿½r din bedre halvdel og ungene.. 
 
-Du blir sveiset sammen med de du drar med, uansett hvor 'quirky' de måtte være. Gjengen din blir ditt sosiale nettverk og diskusjonspartner mens du er på tur. Skulle du være litt filosof eller konversasjonsstarter er det bare fint, eller så kan man jo bare diskutere magetrøbbel etter middag ;-)
+Du blir sveiset sammen med de du drar med, uansett hvor 'quirky' de mï¿½tte vï¿½re. Gjengen din blir ditt sosiale nettverk og diskusjonspartner mens du er pï¿½ tur. Skulle du vï¿½re litt filosof eller konversasjonsstarter er det bare fint, eller sï¿½ kan man jo bare diskutere magetrï¿½bbel etter middag ;-)
 
-Du bør ha gode RAM fester til GoPro for motorsykkelen.  Note: etthvert kamera som tar bort "risting" er good-to-go, du trenger ikke det siste og beste og dyreste, men robuste fester er et must. Det rister mye. 
+Du bï¿½r ha gode RAM fester til GoPro for motorsykkelen.  Note: etthvert kamera som tar bort "risting" er good-to-go, du trenger ikke det siste og beste og dyreste, men robuste fester er et must. Det rister mye. 
 
-Høydesyke har ingenting med fysisk form eller noe annet å gjøre, her bukker selv den beste under, det er individuelt hvordan 
-kroppen reagerer, og du har ingen kontroll. Diamox er en grei medisin å bruke for høyde. Du får den på resept hos fastlegen. Start med den 2 dager før du lander i India. 
+Hï¿½ydesyke har ingenting med fysisk form eller noe annet ï¿½ gjï¿½re, her bukker selv den beste under, det er individuelt hvordan 
+kroppen reagerer, og du har ingen kontroll. Diamox er en grei medisin ï¿½ bruke for hï¿½yde. Du fï¿½r den pï¿½ resept hos fastlegen. Start med den 2 dager fï¿½r du lander i India. 
 
-Håndsprit er et must. Del med de andre hele tiden. den som har, gir. 
+Hï¿½ndsprit er et must. Del med de andre hele tiden. den som har, gir. 
 
-Immodium er bra å ha med, slik at du kan stoppe opp magen om det trengs.  Jeg fikk bruk for det på avreisedagen. Et lite mikro-apotek er bra å ha med. 
+Immodium er bra ï¿½ ha med, slik at du kan stoppe opp magen om det trengs.  Jeg fikk bruk for det pï¿½ avreisedagen. Et lite mikro-apotek er bra ï¿½ ha med. 
 
-Kolera Drikkevaksine er lurt 14 dager før du drar (gjør magen mer robust). De fleste klarer seg fint med magen og maten, men det kan hende man enkelte dager har det best i nærheten av et toalett rett etter måltider. 
+Kolera Drikkevaksine er lurt 14 dager fï¿½r du drar (gjï¿½r magen mer robust). De fleste klarer seg fint med magen og maten, men det kan hende man enkelte dager har det best i nï¿½rheten av et toalett rett etter mï¿½ltider. 
 
-Ellers er det greit å friske opp branevaksinene, og hepatitt. Du trenger ikke allverden av vaksiner for denne turen. Husk hjertemedisin for 3 uker om du tidligere har hatt infarkt og sånn.
+Ellers er det greit ï¿½ friske opp branevaksinene, og hepatitt. Du trenger ikke allverden av vaksiner for denne turen. Husk hjertemedisin for 3 uker om du tidligere har hatt infarkt og sï¿½nn.
 
-Ha alltid med deg lypsyl/lipomade i høyden. Jeg glemte dette, og da blir leppene litt innsnurpet ørken.  
+Ha alltid med deg lypsyl/lipomade i hï¿½yden. Jeg glemte dette, og da blir leppene litt innsnurpet ï¿½rken.  
 
-Hør på de lokale! Drikk MYE vann, gjerne te. 
+Hï¿½r pï¿½ de lokale! Drikk MYE vann, gjerne te. 
 
-Selv du tåler alkohol godt, vil kroppen vanligvis si fra, og ditt konsum blir garantert 1/10 av det "vanlige". Det ble derfor en relativt uviktig ting på turen. Vi hadde oss etpar whisky etter maten på kveldene, noe som er en perfekt dessert. Note: Her er det lov å by på! Crew'et fortjener en *"liten en"* i hver fot. 
+Selv du tï¿½ler alkohol godt, vil kroppen vanligvis si fra, og ditt konsum blir garantert 1/10 av det "vanlige". Det ble derfor en relativt uviktig ting pï¿½ turen. Vi hadde oss etpar whisky etter maten pï¿½ kveldene, noe som er en perfekt dessert. Note: Her er det lov ï¿½ by pï¿½! Crew'et fortjener en *"liten en"* i hver fot. 
 
 # Hvorfor Norind gjengen?
 
-Norind, både som Norsk og Indisk avdeling kombinerer trygghet med frihet. Alt det praktiske er allerede ivaretatt — logistikk, overnatting, sykler, drivstoff, mekaniker og følgebil — så du kan fokusere på opplevelsen. Du kan ha med en stor reisekoffert som blir behørlig transportert på lasteplanet på følgebilen.  Jeg hadde til og med en laptop i en sekk (film/bildebackup etc.).
+Norind, bï¿½de som Norsk og Indisk avdeling kombinerer trygghet med frihet. Alt det praktiske er allerede ivaretatt ï¿½ logistikk, overnatting, sykler, drivstoff, mekaniker og fï¿½lgebil ï¿½ sï¿½ du kan fokusere pï¿½ opplevelsen. Du kan ha med en stor reisekoffert som blir behï¿½rlig transportert pï¿½ lasteplanet pï¿½ fï¿½lgebilen.  Jeg hadde til og med en laptop i en sekk (film/bildebackup etc.).
 	
-Hvis sykkelen svikter, er hjelpen allerede på plass. Jeg hadde en clutch-wire som røyk i en lang nedoverbakke. Den ble skiftet på under 4 minutter. Hvis du en dag kjenner deg totalt utslitt på tur, kan du sitte på i følgebilen igjennom en etappe for å hente deg inn. 
+Hvis sykkelen svikter, er hjelpen allerede pï¿½ plass. Jeg hadde en clutch-wire som rï¿½yk i en lang nedoverbakke. Den ble skiftet pï¿½ under 4 minutter. Hvis du en dag kjenner deg totalt utslitt pï¿½ tur, kan du sitte pï¿½ i fï¿½lgebilen igjennom en etappe for ï¿½ hente deg inn. 
 
-Opplegget er profesjonelt, men samtidig ganske personlig, det føles veldig som en familie. Guidene kjenner Himalaya, været, veiene og hvordan man håndterer uforutsette situasjoner — noe som er avgjørende når du kjører i ekstreme høyder og krevende terreng. Det gir en trygg ramme rundt eventyret — mer frihet på tur, mindre bekymring rundt det praktiske.
+Opplegget er profesjonelt, men samtidig ganske personlig, det fï¿½les veldig som en familie. Guidene kjenner Himalaya, vï¿½ret, veiene og hvordan man hï¿½ndterer uforutsette situasjoner ï¿½ noe som er avgjï¿½rende nï¿½r du kjï¿½rer i ekstreme hï¿½yder og krevende terreng. Det gir en trygg ramme rundt eventyret ï¿½ mer frihet pï¿½ tur, mindre bekymring rundt det praktiske.
 
 
 
 Jeg sier bare GOD TUR!!!!
-Hilsen fra meg, Bengt Grønås (1966 modell)
+Hilsen fra meg, Bengt Grï¿½nï¿½s (1966 modell)
+
