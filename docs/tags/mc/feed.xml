@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bengt Blog</title>
-    <link>https://bgronas.github.io/feed.xml</link>
-    <description>Recent content on Bengt Blog</description>
+    <title>MC on Bengt Blog</title>
+    <link>https://bgronas.github.io/tags/mc/feed.xml</link>
+    <description>Recent content in MC on Bengt Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Dec 2025 21:35:24 +0100</lastBuildDate><atom:link href="https://bgronas.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Dec 2025 21:35:24 +0100</lastBuildDate><atom:link href="https://bgronas.github.io/tags/mc/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Himalaya p� MC</title>
       <link>https://bgronas.github.io/post/2025-12-09-himalaya-p%C3%A5-mc/</link>
