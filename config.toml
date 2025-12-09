@@ -1,10 +1,9 @@
 baseURL = "https://bgronas.github.io/"
 languageCode = "en-us"
-title = "Bengt's Stash"
+title = "Bengt Blog"
 theme = "hugo-clarity"
 enableRobotsTXT = true
 canonifyURLs = true
-# publishDir = "public"
 publishDir = "docs"
 
 # -------------------------
@@ -19,19 +18,19 @@ publishDir = "docs"
 [params]
   author = "Bengt Grønås"
   email = "mail@bengt.no"
-  description = "Stuff for People"
-  introDescription = "Stuff for People"
-  introURL = true
+  description = "B log"
+  introDescription = "B log"
+  introURL = false
 
   # Visuals and layout
   usePageBundles = true
   mainSections = ["post", "blog"]
   numberOfTagsShown = 6
-  numberOfRecentPosts = 10
+  numberOfRecentPosts = 6
   numberOfFeaturedPosts = 0
   showRelatedInSidebar = true
   showRelatedInArticle = true
-  enforceDarkMode = true
+  enforceDarkMode = false
   enforceLightMode = false
   custom_background_color = "#0b0b0b"
   custom_font_color = "#e0e0e0"
