@@ -10,7 +10,7 @@ const pageHasLoaded = 'DOMContentLoaded';
 const imageAltClass = 'img_alt';
 
 
-const defaultSiteLanguage = 'en-us';
+const defaultSiteLanguage = 'no';
 const baseURL = 'https://bgronas.github.io/';
 const searchFieldClass = '.search_field';
 const searchClass = '.search';
@@ -18,11 +18,11 @@ const goBackClass = 'button_back';
 const lineClass = '.line';
 
 // defined in i18n / translation files
-const quickLinks = 'Results';
-const searchResultsLabel = 'Search Results';
-const shortSearchQuery = 'Query is too short'
-const typeToSearch = 'Type to search';
-const noMatchesFound = 'No results found';
+const quickLinks = 'Resultater';
+const searchResultsLabel = 'Søkeresultater';
+const shortSearchQuery = 'Søket er for kort'
+const typeToSearch = 'Skriv for å søke';
+const noMatchesFound = 'Ingen resultater funnet';
 
 
 ;

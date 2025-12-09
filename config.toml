@@ -6,6 +6,21 @@ enableRobotsTXT = true
 canonifyURLs = true
 publishDir = "docs"
 
+
+defaultContentLanguage = "no"  
+defaultContentLanguageInSubdir = false  
+
+[languages]  
+  [languages.no]  
+    languageCode = "nb-NO"  
+    languageName = "Norsk"  
+    weight = 1  
+  [languages.en]  
+    languageCode = "en-us"  
+    languageName = "Engelsk"  
+    weight = 2  
+
+
 # -------------------------
 # Pagination & General
 # -------------------------
