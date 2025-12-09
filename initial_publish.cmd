@@ -1,27 +1,20 @@
 @echo off
 cd /d "%~dp0"
 
-echo === HARD RESET PUBLISH: local -> origin/main ===
-
-echo Cleaning local public and docs folders...
+echo Cleaning local public and docs...
 if exist public rmdir /S /Q public
 if exist docs rmdir /S /Q docs
 
-echo.
-echo Building site with Hugo to docs/...
+echo Building with Hugo...
 hugo --cleanDestinationDir
 
-echo.
-echo Staging ALL changes (add -A, including deletions)...
+echo Staging...
 git add -A
 
-echo.
 echo Committing...
-git commit -m "Hard reset publish"
+git commit -m "Regular publish"
 
-echo.
-echo Forcing push to origin/main...
-git push --force origin main
+echo Pushing (no force)...
+git push origin main
 
-echo.
-echo DONE: remote now matches local exactly.
+echo Done.
