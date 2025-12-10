@@ -135,7 +135,7 @@ Opplegget er profesjonelt, men samtidig ganske personlig, det føles veldig som 
 > ##### Hilsen fra Top of the world: 
 >
 
-![On top of the world!](B2D23DC0-ED74-44A2-83B5-C9FCD56D0A4A.png)
+![On top of the world!](world.png)
 
 # Bildegalleri / Andre bilder
 
