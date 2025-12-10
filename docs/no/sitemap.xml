@@ -2,7 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bgronas.github.io/categories/adventure/</loc>
+    <lastmod>2025-12-09T21:35:24+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://bgronas.github.io/tags/adventure/</loc>
+    <lastmod>2025-12-09T21:35:24+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://bgronas.github.io/</loc>
+    <lastmod>2025-12-09T21:35:24+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link
@@ -17,6 +28,7 @@
                 />
   </url><url>
     <loc>https://bgronas.github.io/categories/</loc>
+    <lastmod>2025-12-09T21:35:24+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link
@@ -30,7 +42,38 @@
                 href="https://bgronas.github.io/categories/"
                 />
   </url><url>
+    <loc>https://bgronas.github.io/tags/himalaya/</loc>
+    <lastmod>2025-12-09T21:35:24+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://bgronas.github.io/post/2025-12-09-mc-tur-til-himalaya-med-norind/</loc>
+    <lastmod>2025-12-09T21:35:24+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://bgronas.github.io/tags/ladakh/</loc>
+    <lastmod>2025-12-09T21:35:24+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://bgronas.github.io/tags/mc/</loc>
+    <lastmod>2025-12-09T21:35:24+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://bgronas.github.io/categories/motorcycle/</loc>
+    <lastmod>2025-12-09T21:35:24+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://bgronas.github.io/post/</loc>
+    <lastmod>2025-12-09T21:35:24+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://bgronas.github.io/tags/</loc>
+    <lastmod>2025-12-09T21:35:24+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link
@@ -43,5 +86,10 @@
                 hreflang="nb-NO"
                 href="https://bgronas.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://bgronas.github.io/tags/travel/</loc>
+    <lastmod>2025-12-09T21:35:24+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>

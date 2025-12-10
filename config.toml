@@ -6,7 +6,6 @@ enableRobotsTXT = true
 canonifyURLs = true
 publishDir = "docs"
 
-
 defaultContentLanguage = "no"  
 defaultContentLanguageInSubdir = false  
 
@@ -33,8 +32,8 @@ defaultContentLanguageInSubdir = false
 [params]
   author = "Bengt Grønås"
   email = "mail@bengt.no"
-  description = "B log"
-  introDescription = "B log"
+  description = "B-log"
+  introDescription = "B-log"
   introURL = false
 
   # Visuals and layout
@@ -85,6 +84,7 @@ defaultContentLanguageInSubdir = false
 # -------------------------
 [social]
   twitter = "bgronas"
+  instagram = "greenhillp"
 
 # -------------------------
 # Menus
@@ -96,14 +96,15 @@ defaultContentLanguageInSubdir = false
     weight = 1
 
   [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/bgronas"
+    name = "Instagram"
+    url = "https://www.instagram.com/greenhillprojects/"
     weight = 2
 
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Twitter"
+    url = "https://twitter.com/bgronas"
     weight = 3
+	
 
 # -------------------------
 # Output Formats (HTML + Feed)
