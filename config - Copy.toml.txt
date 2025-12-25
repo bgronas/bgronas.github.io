@@ -1,0 +1,141 @@
+baseURL = "https://bgronas.github.io/"
+languageCode = "en-us"
+title = "Bengt Blog"
+theme = "hugo-clarity"
+enableRobotsTXT = true
+canonifyURLs = true
+publishDir = "docs"
+
+defaultContentLanguage = "no"  
+defaultContentLanguageInSubdir = false  
+
+[languages]  
+  [languages.no]  
+    languageCode = "nb-NO"  
+    languageName = "Norsk"  
+    weight = 1  
+  [languages.en]  
+    languageCode = "en-us"  
+    languageName = "Engelsk"  
+    weight = 2  
+
+
+# -------------------------
+# Pagination & General
+# -------------------------
+[pagination]
+  pagerSize = 12
+
+# -------------------------
+# Site Parameters
+# -------------------------
+[params]
+  author = "Bengt Grønås"
+  email = "mail@bengt.no"
+  description = "B-log"
+  introDescription = "B-log"
+  introURL = false
+
+  # Visuals and layout
+  usePageBundles = true
+  mainSections = ["post", "blog"]
+  numberOfTagsShown = 6
+  numberOfRecentPosts = 6
+  numberOfFeaturedPosts = 0
+  showRelatedInSidebar = true
+  showRelatedInArticle = true
+  enforceDarkMode = false
+  enforceLightMode = true
+  custom_background_color = "#0b0b0b"
+  custom_font_color = "#e0e0e0"
+  logo = "logo.png"
+  footerLogo = "logo.png"
+  fallBackOgImage = "thumbnail.png"
+  mobileNavigation = "left"
+  titleSeparator = "|"
+  iconsDir = "icons/"
+  figurePositionShow = true
+
+  # Code blocks
+  codeMaxLines = 10
+  codeLineNumbers = false
+
+  # Math & analytics
+  enableMathNotation = true
+  googleAnalytics = "G-63N9K3EZWP"
+
+  # Meta, share & drafts
+  largeTwitterCard = true
+  shareImage = "share.png"
+  showShare = false
+  comments = false
+  draft = false
+
+  # RSS & footer
+  rss_summary = true
+  dateFormat = "Mon. 02-01-2006"
+  since = 2021
+
+[params.footer]
+  copyright = "© {year} Bengt Grønås — Some Rights Reserved"
+
+# -------------------------
+# Social Profiles
+# -------------------------
+[social]
+  twitter = "bgronas"
+  instagram = "greenhillp"
+
+# -------------------------
+# Menus
+# -------------------------
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Instagram"
+    url = "https://www.instagram.com/greenhillprojects/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/bgronas"
+    weight = 3
+	
+
+# -------------------------
+# Output Formats (HTML + Feed)
+# -------------------------
+[outputs]
+home = ["HTML", "RSS"]
+section = ["HTML", "RSS"]
+taxonomy = ["HTML", "RSS"]
+term = ["HTML", "RSS"]
+page = ["HTML"]
+
+[outputFormats]
+  [outputFormats.RSS]
+  baseName = "feed"                # Avoid /index.xml collision
+  mediaType = "application/rss+xml"
+  isPlainText = true
+  rel = "alternate"
+  permalinkable = true
+
+# -------------------------
+# Services
+# -------------------------
+[services]
+  [services.rss]
+    limit = 42
+
+# -------------------------
+# Sitemap & SEO
+# -------------------------
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.8
+  filename = "sitemap.xml"
+
