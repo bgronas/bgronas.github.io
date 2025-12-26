@@ -1,6 +1,6 @@
 ---
 author: "Bengt Grønås"
-title: "Is Android phones With 200 Megapixels Any Good?" # Title of the blog post.
+title: "Android telefon med 200mpx" # Title of the blog post.
 date: 2025-12-25T18:02:02+01:00 # Date of post creation.
 description: "Golden Gate Bridge and Samsung Galaxy S24 Ultra 200mp. Mobile Photography"
 featured: false # Appears on homepage sidebar if true.
