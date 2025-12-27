@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Bengt Blog"
 theme = "hugo-clarity"
 enableRobotsTXT = true
-canonifyURLs = true
+canonifyURLs = false
 publishDir = "docs"
 
 defaultContentLanguage = "no"  
@@ -14,6 +14,7 @@ defaultContentLanguageInSubdir = false
     languageCode = "nb-NO"  
     languageName = "Norsk"  
     weight = 1  
+
   [languages.en]  
     languageCode = "en-us"  
     languageName = "Engelsk"  
@@ -42,12 +43,12 @@ defaultContentLanguageInSubdir = false
   numberOfTagsShown = 6
   numberOfRecentPosts = 6
   numberOfFeaturedPosts = 0
-  showRelatedInSidebar = true
+  showRelatedInSidebar = false
   showRelatedInArticle = true
-  enforceDarkMode = false
+#  enforceDarkMode = false
   enforceLightMode = true
-  custom_background_color = "#0b0b0b"
-  custom_font_color = "#e0e0e0"
+  custom_background_color = "#0a0a0a"
+  custom_font_color = "#e9f0f0"
   logo = "logo.png"
   footerLogo = "logo.png"
   fallBackOgImage = "thumbnail.png"
@@ -67,7 +68,7 @@ defaultContentLanguageInSubdir = false
   # Meta, share & drafts
   largeTwitterCard = true
   shareImage = "share.png"
-  showShare = false
+  showShare = true
   comments = false
   draft = false
 
