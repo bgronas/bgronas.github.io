@@ -15,13 +15,10 @@ codeLineNumbers: false
 figurePositionShow: false
 categories:
   - Motorcycle
-  - Adventure
 tags:
   - MC
   - Adventure
-  - Travel
   - Himalaya
-  - Ladakh
 
 keywords: "Himalaya, Ladakh, motorcycle touring, Royal Enfield, Norind Adventures, adventure travel, high altitude riding, Himalayan passes, Nubra Valley, Pangong Tso"
 

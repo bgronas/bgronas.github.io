@@ -18,13 +18,11 @@ figurePositionShow: false # Display figure labels.
 
 categories:
 - Leisure
-- Mobile Photo
 
 tags:
 
 - Mobile Photo
 - Golden Gate
-- Alcatraz
 
 keywords: "mobilephotography, smartphonecamera, visualstorytelling, computationalphotography, everydayphotography, creativity, photography, GalaxyUltra"
 subjects: "Mobile Photography "
