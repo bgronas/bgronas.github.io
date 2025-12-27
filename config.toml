@@ -40,8 +40,8 @@ defaultContentLanguageInSubdir = false
   # Visuals and layout
   usePageBundles = true
   mainSections = ["post", "blog"]
-  numberOfTagsShown = 6
-  numberOfRecentPosts = 6
+  numberOfTagsShown = 0
+  numberOfRecentPosts = 10
   numberOfFeaturedPosts = 0
   showRelatedInSidebar = false
   showRelatedInArticle = true
@@ -68,7 +68,7 @@ defaultContentLanguageInSubdir = false
   # Meta, share & drafts
   largeTwitterCard = true
   shareImage = "share.png"
-  showShare = true
+  showShare = false
   comments = false
   draft = false
 
@@ -140,3 +140,24 @@ page = ["HTML"]
   priority = 0.8
   filename = "sitemap.xml"
 
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+
+  [[related.indices]]
+    name = "categories"
+    weight = 80
+
+  [[related.indices]]
+    name = "keywords"
+    weight = 60
+
+  [[related.indices]]
+    name = "date"
+    weight = 10
+    pattern = "2006"
