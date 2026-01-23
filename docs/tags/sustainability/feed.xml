@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sustainability on Bengt Blog</title>
+    <link>https://bgronas.github.io/tags/sustainability/feed.xml</link>
+    <description>Recent content in Sustainability on Bengt Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-NO</language>
+    <lastBuildDate>Tue, 21 Nov 2023 14:24:39 +0200</lastBuildDate><atom:link href="https://bgronas.github.io/tags/sustainability/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maximize Efficiency: Power-Saving Techniques in vSphere &#43; Operations Dashboards</title>
+      <link>https://bgronas.github.io/post/2023-10-03/</link>
+      <pubDate>Tue, 21 Nov 2023 14:24:39 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-10-03/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;better--faster-vs-save-power&#34;&gt;Better &amp;amp; faster vs. Save power!&lt;/h1&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;The technological wonders we&amp;rsquo;ve created have undoubtedly made our lives more connected, better and faster. Our dependency on IT infrastructures has grown, and so has also the &lt;em&gt;&lt;strong&gt;demand for power&lt;/strong&gt;&lt;/em&gt;.  But with a  passion for sustainability, let’s talk about the server power-saving techniques, particularly in a vSphere environment.&lt;/p&gt;
+&lt;p&gt;In my previous article I talked about the vSphere feature &lt;strong&gt;DPM&lt;/strong&gt;, or Distributed Power Management, to power off hosts dynamically when the demand is low. &lt;a href=&#34;https://bengt.no/post/2023-09-08/&#34;&gt;Go and have a look.&lt;/a&gt;   This article complements the VMware Explore session where my buddy &lt;a href=&#34;vbondzio@vmware.com&#34;&gt;Valentin Bondzio&lt;/a&gt; explained his &amp;ldquo;no Risk HPM&amp;rdquo; methodology. Note: It starts at 27:52 in the session &lt;a href=&#34;https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683885521040001LU2d&amp;amp;videoId=6340794321112&#34;&gt;Orange journey to reduce their carbon emissions &amp;amp; Focus on HPM&lt;/a&gt; - Head over to his Blog &lt;a href=&#34;https://valentin.bondz.io/no-risk-host-power-management/&#34;&gt;No Risk Host Power Management&lt;/a&gt;.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>IaaS Automated Powersaving, Green Sustainability   Pt. 3</title>
+      <link>https://bgronas.github.io/post/2023-04-18/</link>
+      <pubDate>Tue, 18 Apr 2023 09:11:13 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-04-18/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;get-wise-about-operations&#34;&gt;&lt;strong&gt;Get wise about Operations&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;When using Aria Operations we should ensure we are using corresponding working hours in the capacity policy, to avoid unforeseen effects on the calculation for powered off VMs&lt;/strong&gt;. The goal and purpose of this Topic is to show why we should either use the construct “Business Hours” or “Maintenance Schedules” in a VMware Aria Operations Policy to avoid hassle during the powering off of workloads&lt;/p&gt;
+&lt;p&gt;This article is divided into 3 parts:&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>IaaS Automated Powersaving, Green Sustainability - Pt.2</title>
+      <link>https://bgronas.github.io/post/2023-04-16/</link>
+      <pubDate>Sun, 16 Apr 2023 14:34:56 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-04-16/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;up-and-running-with-powersaving&#34;&gt;&lt;strong&gt;Up and running with powersaving&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;The goal and purpose of this article is to show an example of implementation to accomplish the scheduled Powering off(and on) of VMs in our own On-Premises datacenter the same way Google GCP, AWS, and Azure VMs does it with their Hyperscalers.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This article is divided into 3 parts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bengt.no/post/2023-03-27/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bengt.no/post/2023-04-16/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bengt.no/post/2023-04-18/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;This is the &lt;strong&gt;second&lt;/strong&gt; article containing the practical walk through of an example of how to do this with VMware technology.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>IaaS Automated Powersaving, Green Sustainability - Pt.1</title>
+      <link>https://bgronas.github.io/post/2023-03-27/</link>
+      <pubDate>Mon, 27 Mar 2023 17:43:45 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-03-27/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;powersaving-in-our-datacenter&#34;&gt;&lt;strong&gt;Powersaving in our datacenter&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;The goal and purpose of this article is to discuss “the WHY” in Powering off and Powering On VMs based on regular Schedule, just the way Google GCP, AWS, and Azure does it with VMs&lt;/strong&gt;. Why would we implement Sustainable Practices to meet our sustainability goals?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This article is divided into 3 parts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bengt.no/post/2023-03-27/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bengt.no/post/2023-04-16/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bengt.no/post/2023-04-18/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;this-is-the-first-article-containing-the-why&#34;&gt;This is the first article containing the WHY.&lt;/h4&gt;
+&lt;p&gt;Note: If you want to go ahead and implement everything immediately without further knowledge, please head over the article &lt;a href=&#34;https://bengt.no/post/2023-04-16/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a&gt;&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aria on Bengt Blog</title>
+    <link>https://bgronas.github.io/tags/aria/feed.xml</link>
+    <description>Recent content in Aria on Bengt Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-NO</language>
+    <lastBuildDate>Tue, 18 Apr 2023 09:11:13 +0200</lastBuildDate><atom:link href="https://bgronas.github.io/tags/aria/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IaaS Automated Powersaving, Green Sustainability   Pt. 3</title>
+      <link>https://bgronas.github.io/post/2023-04-18/</link>
+      <pubDate>Tue, 18 Apr 2023 09:11:13 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-04-18/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;get-wise-about-operations&#34;&gt;&lt;strong&gt;Get wise about Operations&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;When using Aria Operations we should ensure we are using corresponding working hours in the capacity policy, to avoid unforeseen effects on the calculation for powered off VMs&lt;/strong&gt;. The goal and purpose of this Topic is to show why we should either use the construct “Business Hours” or “Maintenance Schedules” in a VMware Aria Operations Policy to avoid hassle during the powering off of workloads&lt;/p&gt;
+&lt;p&gt;This article is divided into 3 parts:&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>IaaS Automated Powersaving, Green Sustainability - Pt.2</title>
+      <link>https://bgronas.github.io/post/2023-04-16/</link>
+      <pubDate>Sun, 16 Apr 2023 14:34:56 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-04-16/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;up-and-running-with-powersaving&#34;&gt;&lt;strong&gt;Up and running with powersaving&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;The goal and purpose of this article is to show an example of implementation to accomplish the scheduled Powering off(and on) of VMs in our own On-Premises datacenter the same way Google GCP, AWS, and Azure VMs does it with their Hyperscalers.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This article is divided into 3 parts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bengt.no/post/2023-03-27/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bengt.no/post/2023-04-16/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bengt.no/post/2023-04-18/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;This is the &lt;strong&gt;second&lt;/strong&gt; article containing the practical walk through of an example of how to do this with VMware technology.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>VRealize Operations Management Pack for Kubernetes 1.8 [15.11.2022]</title>
+      <link>https://bgronas.github.io/post/2022-11-15/</link>
+      <pubDate>Tue, 15 Nov 2022 17:57:00 +0100</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2022-11-15/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;monitoring-k8s-with-vmware&#34;&gt;Monitoring K8s with VMware&lt;/h2&gt;
+&lt;p&gt;Monitoring is an essential part of &lt;em&gt;DevOps&lt;/em&gt;. As enterprises are using Kubernetes, they would need all the capabilities they leverage today for virtual machines. Starting from discovering the Kubernetes clusters, creating an inventory, defining relationships, and finally collecting all the key metrics and events to provide full visibility and do Troubleshooting and Root Cause Analysis.&lt;/p&gt;
+&lt;p&gt;You can use &lt;strong&gt;vRealize Operations&lt;/strong&gt; to monitor your open-source container orchestration system &lt;strong&gt;Kubernetes&lt;/strong&gt; environment.  Why wouldn&amp;rsquo;t Prometheus &amp;amp; Grafana be enough? Well, Aria Operations formerly known as vRealize Operations can do so much more than just monitor Kubernetes, but we&amp;rsquo;re not going to talk about that in-depth here. Even if Grafana in the end will give you some charts, graphs, and alerts regarding your Kubernetes environment, you would want to use vROps or Aria Operations for the task. This will save you the hassle of maintaining the various solutions required and maybe even have separate people for separate expertise.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Root Password Expiration on VRealize Appliances</title>
+      <link>https://bgronas.github.io/post/2022-06-23/</link>
+      <pubDate>Thu, 23 Jun 2022 11:03:00 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2022-06-23/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;what&#34;&gt;&lt;strong&gt;What&amp;rsquo;s the problem?&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Normally a Virtual appliance (VA) in the vRealize Suite (VRS), aka Aria, will expire the root password you set under the installation within a year. Well, nothing dramatic about that. But, will you remember to change it next year? Maybe, if something told you in a GUI, mail or monitoring system that the password were going to expire.&lt;/p&gt;
+&lt;h4 id=&#34;a-monitoring-dilemma&#34;&gt;A monitoring dilemma&lt;/h4&gt;
+&lt;p&gt;When the VA root password is expired it will prompt you to change it when you SSH into it. &lt;strong&gt;Fine&lt;/strong&gt;. But how would you know if the password expires? AFAIK. There is currently no check for this in vRealize Operations manager, aka Aria Operations, or any of the other vRealize products. There might be a future health check for this, but as for now (june 2022) there was none.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

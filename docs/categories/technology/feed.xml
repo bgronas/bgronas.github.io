@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Bengt Blog</title>
+    <link>https://bgronas.github.io/categories/technology/feed.xml</link>
+    <description>Recent content in Technology on Bengt Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-NO</language>
+    <lastBuildDate>Tue, 21 Nov 2023 14:24:39 +0200</lastBuildDate><atom:link href="https://bgronas.github.io/categories/technology/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maximize Efficiency: Power-Saving Techniques in vSphere &#43; Operations Dashboards</title>
+      <link>https://bgronas.github.io/post/2023-10-03/</link>
+      <pubDate>Tue, 21 Nov 2023 14:24:39 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-10-03/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;better--faster-vs-save-power&#34;&gt;Better &amp;amp; faster vs. Save power!&lt;/h1&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;The technological wonders we&amp;rsquo;ve created have undoubtedly made our lives more connected, better and faster. Our dependency on IT infrastructures has grown, and so has also the &lt;em&gt;&lt;strong&gt;demand for power&lt;/strong&gt;&lt;/em&gt;.  But with a  passion for sustainability, let’s talk about the server power-saving techniques, particularly in a vSphere environment.&lt;/p&gt;
+&lt;p&gt;In my previous article I talked about the vSphere feature &lt;strong&gt;DPM&lt;/strong&gt;, or Distributed Power Management, to power off hosts dynamically when the demand is low. &lt;a href=&#34;https://bengt.no/post/2023-09-08/&#34;&gt;Go and have a look.&lt;/a&gt;   This article complements the VMware Explore session where my buddy &lt;a href=&#34;vbondzio@vmware.com&#34;&gt;Valentin Bondzio&lt;/a&gt; explained his &amp;ldquo;no Risk HPM&amp;rdquo; methodology. Note: It starts at 27:52 in the session &lt;a href=&#34;https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683885521040001LU2d&amp;amp;videoId=6340794321112&#34;&gt;Orange journey to reduce their carbon emissions &amp;amp; Focus on HPM&lt;/a&gt; - Head over to his Blog &lt;a href=&#34;https://valentin.bondz.io/no-risk-host-power-management/&#34;&gt;No Risk Host Power Management&lt;/a&gt;.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Eco-Friendly Datacenter Management: Power Management Strategies</title>
+      <link>https://bgronas.github.io/post/2023-09-08/</link>
+      <pubDate>Fri, 08 Sep 2023 10:19:28 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-09-08/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;sustainability-is-key-for-eu-organizations&#34;&gt;Sustainability is key for EU organizations&lt;/h1&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;GREENHOUSE GAS EMMISSIONS (GhG):&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re cutting emissions and costs by optimizing workloads and promoting virtualization.&lt;/p&gt;
+&lt;p&gt;A Green Score in Aria Operations tracks progress with five parameters, to target improvements, these are:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Workload Efficiency, Resource Utilization, Virtualization Rate, power Source, and Hardware Efficiency&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://bengt.no/post/2023-03-27/#hyperscalers-are-power-saving&#34;&gt;The large Hyperscalers are saving&lt;/a&gt;,&lt;/strong&gt; and so should we.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h1 id=&#34;vsphere-distributed-power-management&#34;&gt;vSphere Distributed Power Management&lt;/h1&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;The vSphere Distributed Power Management (&lt;strong&gt;DPM&lt;/strong&gt;) feature optimizes power usage in virtualized data centers by dynamically adjusting server power states based on workload demand, saving energy and costs while maintaining high availability.  Its excellence lies in its ability to optimize power consumption and dynamically adjusts the power state of servers based on workload demand. Unused servers are powered off or placed in a low-power state.  This reduces energy costs, and contributes to environmental sustainability. &lt;strong&gt;So, have you tried to give DPM a second chance?&lt;/strong&gt;  If not, please consider it. For every kilowatt consumed by servers you would need cooling!&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>IaaS Automated Powersaving, Green Sustainability   Pt. 3</title>
+      <link>https://bgronas.github.io/post/2023-04-18/</link>
+      <pubDate>Tue, 18 Apr 2023 09:11:13 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-04-18/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;get-wise-about-operations&#34;&gt;&lt;strong&gt;Get wise about Operations&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;When using Aria Operations we should ensure we are using corresponding working hours in the capacity policy, to avoid unforeseen effects on the calculation for powered off VMs&lt;/strong&gt;. The goal and purpose of this Topic is to show why we should either use the construct “Business Hours” or “Maintenance Schedules” in a VMware Aria Operations Policy to avoid hassle during the powering off of workloads&lt;/p&gt;
+&lt;p&gt;This article is divided into 3 parts:&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>IaaS Automated Powersaving, Green Sustainability - Pt.2</title>
+      <link>https://bgronas.github.io/post/2023-04-16/</link>
+      <pubDate>Sun, 16 Apr 2023 14:34:56 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-04-16/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;up-and-running-with-powersaving&#34;&gt;&lt;strong&gt;Up and running with powersaving&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;The goal and purpose of this article is to show an example of implementation to accomplish the scheduled Powering off(and on) of VMs in our own On-Premises datacenter the same way Google GCP, AWS, and Azure VMs does it with their Hyperscalers.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This article is divided into 3 parts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bengt.no/post/2023-03-27/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bengt.no/post/2023-04-16/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bengt.no/post/2023-04-18/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;This is the &lt;strong&gt;second&lt;/strong&gt; article containing the practical walk through of an example of how to do this with VMware technology.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>IaaS Automated Powersaving, Green Sustainability - Pt.1</title>
+      <link>https://bgronas.github.io/post/2023-03-27/</link>
+      <pubDate>Mon, 27 Mar 2023 17:43:45 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-03-27/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;powersaving-in-our-datacenter&#34;&gt;&lt;strong&gt;Powersaving in our datacenter&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;The goal and purpose of this article is to discuss “the WHY” in Powering off and Powering On VMs based on regular Schedule, just the way Google GCP, AWS, and Azure does it with VMs&lt;/strong&gt;. Why would we implement Sustainable Practices to meet our sustainability goals?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This article is divided into 3 parts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bengt.no/post/2023-03-27/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bengt.no/post/2023-04-16/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bengt.no/post/2023-04-18/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;this-is-the-first-article-containing-the-why&#34;&gt;This is the first article containing the WHY.&lt;/h4&gt;
+&lt;p&gt;Note: If you want to go ahead and implement everything immediately without further knowledge, please head over the article &lt;a href=&#34;https://bengt.no/post/2023-04-16/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a&gt;&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Cloud Management Tech Zone</title>
+      <link>https://bgronas.github.io/post/2023-03-03/</link>
+      <pubDate>Fri, 03 Mar 2023 08:52:27 +0100</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-03-03/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;dead-or-alive&#34;&gt;Dead or alive?&lt;/h1&gt;
+&lt;p&gt;Is the good old Pathfinder dead and Modern Apps and Cloud Management &lt;strong&gt;Techzone&lt;/strong&gt; next? Maybe, or maybe it isn’t&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;what-am-i-talking-about&#34;&gt;What am I talking about?&lt;/h2&gt;
+&lt;p&gt;For some time, VMware have had a collection of resources assembled as a collection in a one-stop-shop for resources such as videos, blogs, articles and training for all the cloud management products. Even the &lt;a href=&#34;https://labs.hol.vmware.com/&#34;&gt;Hands-On Labs&lt;/a&gt; have had links on these pages. This collection was called &lt;a href=&#34;https://pathfinder.vmware.com.&#34;&gt;PathFinder&lt;/a&gt;&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>VROPS Out of Disk Space</title>
+      <link>https://bgronas.github.io/post/2023-01-31/</link>
+      <pubDate>Tue, 31 Jan 2023 12:53:31 +0100</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-01-31/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;strong&gt;What if you are Unable to bring your vRealize (Aria) Operations cluster online because one or more nodes are out of disk space. Let&amp;rsquo;s see if the log disk is the problem and try to fix it&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The goal is to find out if the Log disk is full and how to clean it and hopefully you save some time with this mini-Recipe that will show you how to investigate the &amp;ldquo;Unable to bring the cluster online because one or more nodes are out of disk space.&amp;rdquo; error in the Admin console of vRealize Operations and what to check.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Bypass Windows 11 Install Problems</title>
+      <link>https://bgronas.github.io/post/2022-12-10/</link>
+      <pubDate>Sat, 10 Dec 2022 15:22:01 +0100</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2022-12-10/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;the-problem&#34;&gt;The problem&lt;/h1&gt;
+&lt;p&gt;The goal and purpose was that I needed to bypass the &amp;ldquo;&lt;strong&gt;This PC can’t run Windows 11&lt;/strong&gt;&amp;rdquo; problem during an installation of a Windows 11 Virtual Machine (VM) in my test environment.  This DIY recipe will save us the hassle of googling it once again and sorting out the correct article to try out.&lt;/p&gt;
+&lt;h3 id=&#34;this-pc-cant-run-windows-11&#34;&gt;This PC can’t run Windows 11&lt;/h3&gt;
+&lt;p&gt;This happens during an install:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h1 id=&#34;the-solution&#34;&gt;The Solution&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Go back one step by clicking &lt;strong&gt;top-left blue arrow&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;press &amp;lsquo;&lt;strong&gt;Shift+F10&lt;/strong&gt;&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;in the CMD box, type &amp;lsquo;&lt;strong&gt;regedit&lt;/strong&gt;&amp;rsquo; and press &lt;strong&gt;enter&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;in the registry editor Navigate to “HKEY_LOCAL_MACHINE\SYSTEM\Setup”&lt;/li&gt;
+&lt;li&gt;Right click Setup, Choose New Key, and Name it &amp;ldquo;&lt;strong&gt;LabConfig&lt;/strong&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Under LabConfig, add all these values as &lt;strong&gt;DWORD (32-bit) Values&lt;/strong&gt; and set the data to &lt;strong&gt;1&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;BypassCPUCheck&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;BypassRAMCheck&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;BypassSecureBootCheck&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;BypassStorageCheck&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;BypassTPMCheck&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After all these manual inserrtions are done, you are ready to continue the fight of installing Windows 11.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Install Python 3.10.8 on RaspBerry PI [18.10.2022]</title>
+      <link>https://bgronas.github.io/post/2022-10-18/</link>
+      <pubDate>Tue, 18 Oct 2022 15:49:42 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2022-10-18/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;how-to-set-up-python-on-pi&#34;&gt;How-to set up Python on Pi&lt;/h2&gt;
+&lt;p&gt;The goal of this little article is to show how I installed Python on raspberry PI.  There are lot&amp;rsquo;s of articles out there on the subject, but since I am a beginner, I am running through everything I find useful for  my self and as a later notice to myself. This saves med the time and hassle to find the recipe or how-to next time. Plus, I know what worked for me.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Root Password Expiration on VRealize Appliances</title>
+      <link>https://bgronas.github.io/post/2022-06-23/</link>
+      <pubDate>Thu, 23 Jun 2022 11:03:00 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2022-06-23/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;what&#34;&gt;&lt;strong&gt;What&amp;rsquo;s the problem?&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Normally a Virtual appliance (VA) in the vRealize Suite (VRS), aka Aria, will expire the root password you set under the installation within a year. Well, nothing dramatic about that. But, will you remember to change it next year? Maybe, if something told you in a GUI, mail or monitoring system that the password were going to expire.&lt;/p&gt;
+&lt;h4 id=&#34;a-monitoring-dilemma&#34;&gt;A monitoring dilemma&lt;/h4&gt;
+&lt;p&gt;When the VA root password is expired it will prompt you to change it when you SSH into it. &lt;strong&gt;Fine&lt;/strong&gt;. But how would you know if the password expires? AFAIK. There is currently no check for this in vRealize Operations manager, aka Aria Operations, or any of the other vRealize products. There might be a future health check for this, but as for now (june 2022) there was none.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

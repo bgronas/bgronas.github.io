@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Political on Bengt Blog</title>
+    <link>https://bgronas.github.io/categories/political/feed.xml</link>
+    <description>Recent content in Political on Bengt Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-NO</language>
+    <lastBuildDate>Mon, 27 Mar 2023 17:43:45 +0200</lastBuildDate><atom:link href="https://bgronas.github.io/categories/political/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IaaS Automated Powersaving, Green Sustainability - Pt.1</title>
+      <link>https://bgronas.github.io/post/2023-03-27/</link>
+      <pubDate>Mon, 27 Mar 2023 17:43:45 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-03-27/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;powersaving-in-our-datacenter&#34;&gt;&lt;strong&gt;Powersaving in our datacenter&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;The goal and purpose of this article is to discuss “the WHY” in Powering off and Powering On VMs based on regular Schedule, just the way Google GCP, AWS, and Azure does it with VMs&lt;/strong&gt;. Why would we implement Sustainable Practices to meet our sustainability goals?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This article is divided into 3 parts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bengt.no/post/2023-03-27/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bengt.no/post/2023-04-16/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bengt.no/post/2023-04-18/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;this-is-the-first-article-containing-the-why&#34;&gt;This is the first article containing the WHY.&lt;/h4&gt;
+&lt;p&gt;Note: If you want to go ahead and implement everything immediately without further knowledge, please head over the article &lt;a href=&#34;https://bengt.no/post/2023-04-16/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a&gt;&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

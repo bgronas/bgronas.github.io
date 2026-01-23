@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Operations on Bengt Blog</title>
+    <link>https://bgronas.github.io/tags/operations/feed.xml</link>
+    <description>Recent content in Operations on Bengt Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-NO</language>
+    <lastBuildDate>Tue, 18 Apr 2023 09:11:13 +0200</lastBuildDate><atom:link href="https://bgronas.github.io/tags/operations/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IaaS Automated Powersaving, Green Sustainability   Pt. 3</title>
+      <link>https://bgronas.github.io/post/2023-04-18/</link>
+      <pubDate>Tue, 18 Apr 2023 09:11:13 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-04-18/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;get-wise-about-operations&#34;&gt;&lt;strong&gt;Get wise about Operations&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;When using Aria Operations we should ensure we are using corresponding working hours in the capacity policy, to avoid unforeseen effects on the calculation for powered off VMs&lt;/strong&gt;. The goal and purpose of this Topic is to show why we should either use the construct “Business Hours” or “Maintenance Schedules” in a VMware Aria Operations Policy to avoid hassle during the powering off of workloads&lt;/p&gt;
+&lt;p&gt;This article is divided into 3 parts:&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>VROPS Out of Disk Space</title>
+      <link>https://bgronas.github.io/post/2023-01-31/</link>
+      <pubDate>Tue, 31 Jan 2023 12:53:31 +0100</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-01-31/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;strong&gt;What if you are Unable to bring your vRealize (Aria) Operations cluster online because one or more nodes are out of disk space. Let&amp;rsquo;s see if the log disk is the problem and try to fix it&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The goal is to find out if the Log disk is full and how to clean it and hopefully you save some time with this mini-Recipe that will show you how to investigate the &amp;ldquo;Unable to bring the cluster online because one or more nodes are out of disk space.&amp;rdquo; error in the Admin console of vRealize Operations and what to check.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>vRealize Operations 8.6.3. [29.04.2022]</title>
+      <link>https://bgronas.github.io/post/2022-04-29/</link>
+      <pubDate>Fri, 29 Apr 2022 14:54:50 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2022-04-29/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;strong&gt;Recently, VMware released new and improved vRealize versions. Let&amp;rsquo;s have a look on vRealize Operations and the new v8.6.3 of the product&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This release from 8.6.2 to 8.6.3. is a is a &lt;strong&gt;maintenance release&lt;/strong&gt; which resolves a few important security and functionality issues identified in the product For more details, see &lt;a href=&#34;https://kb.vmware.com/s/article/88081&#34;&gt;KB 88081&lt;/a&gt;. There are &lt;em&gt;154 CVE&amp;rsquo;s&lt;/em&gt; (Common Vulnerabilities and Exposures) solved and fixed. I&amp;rsquo;d say it&amp;rsquo;s quite a large update even if it feels minor. The following issues have been resolved as of vRealize Operations 8.6.3:&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

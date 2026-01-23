@@ -1,0 +1,53 @@
+
+VSAN Stretch clusters
+i samme vCenter (DC1, DC2, Witness)
+
+1-15 hosts on each DC1/2
+All 15 hosts = one fault domain, Fault domain 1 and 2
+Fault Domain 3 == witness
+RTT==5ms between the two DCs
+Witness= RTT <200ms
+
+Typisk Conf.  
+- Primary Failure to tolerate
+FTT = 1, Raid1
+	dvs. Skriv på DC1 og DC2
+ACK ved skriv på DC2, means RPO=0
+
+
+
+- Secondary Failure to tolerate
+- Lokalt for DC2
+FTT = 1, Raid 1
+FTT = 1, Erasure Coding (5/6)
+eller 
+FTT = 2, Raid 1
+FTT = 2, Erasure Coding (5/6)
+
+
+Du har vSPhere HA mellom DC's
+
+-----------------------------------------------------
+
+all vSAN objects and their corresponding policies? Maybe with PowerCLI or vROPs?
+HCI MEsh
+
+Hi all , there is any way for monitor (maybe with vrops) the vSAN LLOG consumption, PLOG consumption,Total log consumption ?
+
+Customer feels that the latency can be improved or the amount of IOPS?
+Customer is experiencing high latency on all applications or only some of them?
+Does our metrics on vCenter or vROPs shows that the vSAN latency is high or VMs disk latency is high?
+What's the vSAN's version on customer today? We generally implement performance improvement on most recent versions.
+How is the vSAN Health (or Skyline Health). Drivers, Firmwares are on the recommended version?
+Is vSAN Health showing any alert Yellow or Red?
+Are the vSphere + vSAN network configured according with the best practices (vmkernel, shares, etc)?
+Any signal of problemes on the Network? High number of collisions or tranmission errors?
+It's an Hybrid or Flash Environment?
+Disk Groups and Cache are correctly sized and according with the best practices?
+There is sufficient resources (memory and CPU) available on the environment?
+There is sufficient free space on the vSAN DataStore?
+What are the policies applied?
+
+
+You should only look at Host -> Monitor -> vSAN -> Performance
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Energy Efficiency on Bengt Blog</title>
+    <link>https://bgronas.github.io/tags/energy-efficiency/feed.xml</link>
+    <description>Recent content in Energy Efficiency on Bengt Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-NO</language>
+    <lastBuildDate>Fri, 08 Sep 2023 10:19:28 +0200</lastBuildDate><atom:link href="https://bgronas.github.io/tags/energy-efficiency/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eco-Friendly Datacenter Management: Power Management Strategies</title>
+      <link>https://bgronas.github.io/post/2023-09-08/</link>
+      <pubDate>Fri, 08 Sep 2023 10:19:28 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-09-08/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;sustainability-is-key-for-eu-organizations&#34;&gt;Sustainability is key for EU organizations&lt;/h1&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;GREENHOUSE GAS EMMISSIONS (GhG):&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re cutting emissions and costs by optimizing workloads and promoting virtualization.&lt;/p&gt;
+&lt;p&gt;A Green Score in Aria Operations tracks progress with five parameters, to target improvements, these are:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Workload Efficiency, Resource Utilization, Virtualization Rate, power Source, and Hardware Efficiency&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://bengt.no/post/2023-03-27/#hyperscalers-are-power-saving&#34;&gt;The large Hyperscalers are saving&lt;/a&gt;,&lt;/strong&gt; and so should we.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h1 id=&#34;vsphere-distributed-power-management&#34;&gt;vSphere Distributed Power Management&lt;/h1&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;The vSphere Distributed Power Management (&lt;strong&gt;DPM&lt;/strong&gt;) feature optimizes power usage in virtualized data centers by dynamically adjusting server power states based on workload demand, saving energy and costs while maintaining high availability.  Its excellence lies in its ability to optimize power consumption and dynamically adjusts the power state of servers based on workload demand. Unused servers are powered off or placed in a low-power state.  This reduces energy costs, and contributes to environmental sustainability. &lt;strong&gt;So, have you tried to give DPM a second chance?&lt;/strong&gt;  If not, please consider it. For every kilowatt consumed by servers you would need cooling!&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

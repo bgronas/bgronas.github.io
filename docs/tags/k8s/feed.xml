@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K8s on Bengt Blog</title>
+    <link>https://bgronas.github.io/tags/k8s/feed.xml</link>
+    <description>Recent content in K8s on Bengt Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-NO</language>
+    <lastBuildDate>Tue, 15 Nov 2022 17:57:00 +0100</lastBuildDate><atom:link href="https://bgronas.github.io/tags/k8s/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VRealize Operations Management Pack for Kubernetes 1.8 [15.11.2022]</title>
+      <link>https://bgronas.github.io/post/2022-11-15/</link>
+      <pubDate>Tue, 15 Nov 2022 17:57:00 +0100</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2022-11-15/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;monitoring-k8s-with-vmware&#34;&gt;Monitoring K8s with VMware&lt;/h2&gt;
+&lt;p&gt;Monitoring is an essential part of &lt;em&gt;DevOps&lt;/em&gt;. As enterprises are using Kubernetes, they would need all the capabilities they leverage today for virtual machines. Starting from discovering the Kubernetes clusters, creating an inventory, defining relationships, and finally collecting all the key metrics and events to provide full visibility and do Troubleshooting and Root Cause Analysis.&lt;/p&gt;
+&lt;p&gt;You can use &lt;strong&gt;vRealize Operations&lt;/strong&gt; to monitor your open-source container orchestration system &lt;strong&gt;Kubernetes&lt;/strong&gt; environment.  Why wouldn&amp;rsquo;t Prometheus &amp;amp; Grafana be enough? Well, Aria Operations formerly known as vRealize Operations can do so much more than just monitor Kubernetes, but we&amp;rsquo;re not going to talk about that in-depth here. Even if Grafana in the end will give you some charts, graphs, and alerts regarding your Kubernetes environment, you would want to use vROps or Aria Operations for the task. This will save you the hassle of maintaining the various solutions required and maybe even have separate people for separate expertise.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

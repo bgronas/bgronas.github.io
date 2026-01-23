@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pathfinder on Bengt Blog</title>
+    <link>https://bgronas.github.io/tags/pathfinder/feed.xml</link>
+    <description>Recent content in Pathfinder on Bengt Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-NO</language>
+    <lastBuildDate>Fri, 03 Mar 2023 08:52:27 +0100</lastBuildDate><atom:link href="https://bgronas.github.io/tags/pathfinder/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud Management Tech Zone</title>
+      <link>https://bgronas.github.io/post/2023-03-03/</link>
+      <pubDate>Fri, 03 Mar 2023 08:52:27 +0100</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-03-03/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;dead-or-alive&#34;&gt;Dead or alive?&lt;/h1&gt;
+&lt;p&gt;Is the good old Pathfinder dead and Modern Apps and Cloud Management &lt;strong&gt;Techzone&lt;/strong&gt; next? Maybe, or maybe it isn’t&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&#34;what-am-i-talking-about&#34;&gt;What am I talking about?&lt;/h2&gt;
+&lt;p&gt;For some time, VMware have had a collection of resources assembled as a collection in a one-stop-shop for resources such as videos, blogs, articles and training for all the cloud management products. Even the &lt;a href=&#34;https://labs.hol.vmware.com/&#34;&gt;Hands-On Labs&lt;/a&gt; have had links on these pages. This collection was called &lt;a href=&#34;https://pathfinder.vmware.com.&#34;&gt;PathFinder&lt;/a&gt;&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

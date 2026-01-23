@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Stuff on Bengt Blog</title>
+    <link>https://bgronas.github.io/categories/personal-stuff/feed.xml</link>
+    <description>Recent content in Personal Stuff on Bengt Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-NO</language>
+    <lastBuildDate>Wed, 19 Jan 2022 15:55:16 +0000</lastBuildDate><atom:link href="https://bgronas.github.io/categories/personal-stuff/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Year, New Blog, Learning HUGO [19.01.2022]</title>
+      <link>https://bgronas.github.io/post/year-blog-learning-hugo-19-01-2022/</link>
+      <pubDate>Wed, 19 Jan 2022 15:55:16 +0000</pubDate>
+      
+      <guid>https://bgronas.github.io/post/year-blog-learning-hugo-19-01-2022/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;wow-i-just-moved-to-hugo&#34;&gt;WOW, I just moved to HUGO.&lt;/h1&gt;
+&lt;h6 id=&#34;wordpress&#34;&gt;Wordpress&lt;/h6&gt;
+&lt;p&gt;I was previously using Wordpress with my public web  provider. proISP. I have loved ProISP, they are providing me with domains, e-mail, web hosting, MySQL databases and everything.&lt;/p&gt;
+&lt;p&gt;Hosting a Wordpress site with them and paying almost nothing for it was very cool, and I have loved wordpress for the simplicity and for the easiness of changing the looks by using simple CSS, Templates, and publishing, It&amp;rsquo;s just been a walk in the park. :-)&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Appliances on Bengt Blog</title>
+    <link>https://bgronas.github.io/tags/appliances/feed.xml</link>
+    <description>Recent content in Appliances on Bengt Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-NO</language>
+    <lastBuildDate>Thu, 23 Jun 2022 11:03:00 +0200</lastBuildDate><atom:link href="https://bgronas.github.io/tags/appliances/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Root Password Expiration on VRealize Appliances</title>
+      <link>https://bgronas.github.io/post/2022-06-23/</link>
+      <pubDate>Thu, 23 Jun 2022 11:03:00 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2022-06-23/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;what&#34;&gt;&lt;strong&gt;What&amp;rsquo;s the problem?&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Normally a Virtual appliance (VA) in the vRealize Suite (VRS), aka Aria, will expire the root password you set under the installation within a year. Well, nothing dramatic about that. But, will you remember to change it next year? Maybe, if something told you in a GUI, mail or monitoring system that the password were going to expire.&lt;/p&gt;
+&lt;h4 id=&#34;a-monitoring-dilemma&#34;&gt;A monitoring dilemma&lt;/h4&gt;
+&lt;p&gt;When the VA root password is expired it will prompt you to change it when you SSH into it. &lt;strong&gt;Fine&lt;/strong&gt;. But how would you know if the password expires? AFAIK. There is currently no check for this in vRealize Operations manager, aka Aria Operations, or any of the other vRealize products. There might be a future health check for this, but as for now (june 2022) there was none.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

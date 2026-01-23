@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VMware Explore on Bengt Blog</title>
+    <link>https://bgronas.github.io/tags/vmware-explore/feed.xml</link>
+    <description>Recent content in VMware Explore on Bengt Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-NO</language>
+    <lastBuildDate>Tue, 19 Jul 2022 10:05:04 +0200</lastBuildDate><atom:link href="https://bgronas.github.io/tags/vmware-explore/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Become a Power User of VRealize Log Insight [19.07.2022]</title>
+      <link>https://bgronas.github.io/post/2022-07-19/</link>
+      <pubDate>Tue, 19 Jul 2022 10:05:04 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2022-07-19/</guid>
+      <description>
+        
+          
+            &lt;h5 id=&#34;for-the-fourth-time-i-am-a-captain-as-a-part-of-the-vmware-hands-on-labs-and-this-year-i-will-be-on-both-vmware-explore-arrangements-in-usa-and-europe&#34;&gt;For the fourth time I am a &amp;lsquo;captain&amp;rsquo; as a part of the VMware Hands-On Labs, and this year I will be on both &lt;strong&gt;VMware Explore&lt;/strong&gt; arrangements in USA and EUROPE.&lt;/h5&gt;
+&lt;h6 id=&#34;while-serving-the-hands-on-labs-environment-we-will-have-instructor-lead-workshops-elw-where-the-participating-audience-will-have-headsets-and-listening-to-me-while-we-go-through-one-of-the-labs&#34;&gt;While serving the Hands-on Labs environment, we will have Instructor Lead Workshops (ELW) where the participating audience will have headsets and listening to me while we go through one of the labs.&lt;/h6&gt;
+&lt;h6 id=&#34;one-of-the-labs-ive-previously-have-written-is-the-advanced-topics-in-vrealize-log-insight-hol-2201-11-cmp-and-this-particular-instructor-lead-workshops-will-be-taken-from-one-of-the-modules-from-that-lab&#34;&gt;One of the Labs I&amp;rsquo;ve previously have written is the Advanced Topics in vRealize Log Insight (HOL-2201-11-CMP), and this particular Instructor Lead Workshops will be taken from one of the modules from that Lab.&lt;/h6&gt;
+&lt;p&gt;With me will be my CO-Host: Staff Technical Account Manager at VMware, &lt;strong&gt;Shannon Fitzpatrick&lt;/strong&gt;&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VRealize on Bengt Blog</title>
+    <link>https://bgronas.github.io/tags/vrealize/feed.xml</link>
+    <description>Recent content in VRealize on Bengt Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-NO</language>
+    <lastBuildDate>Fri, 24 Feb 2023 10:02:11 +0100</lastBuildDate><atom:link href="https://bgronas.github.io/tags/vrealize/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Operations and Orchestrator</title>
+      <link>https://bgronas.github.io/post/2023-02-24/</link>
+      <pubDate>Fri, 24 Feb 2023 10:02:11 +0100</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-02-24/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;p&gt;The goal and purpose is to show how to connect vRealize Orchestrator to vRealize Operations to later be able to do actions and remedies based on alerts in vRealize Operations. You can then also run Orchestrator workflows directly from vRealize Operations objects.  I hope this little article with it’s two cruicial tips will save you time and hassle and to easily be successful.&lt;/p&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;vRealize Orchestrator&lt;/strong&gt; installed. My Orchestrator is installed with vRealize Automation or you can download your standalone version from &lt;a href=&#34;https://customerconnect.vmware.com/&#34;&gt;Customer Connect&lt;/a&gt; Look under &amp;ldquo;Download VMware vSphere&amp;rdquo; (vRO is free with vCenter).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;vRealize Operations&lt;/strong&gt; installed. I used vRealize Lifecycle Manager and deployed VROPS from there.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;vRealize Operations management pack&lt;/strong&gt; go to the marketplace and search for &amp;ldquo;Management Pack for vRealize Orchestrator&amp;rdquo;. I will be using version 3.2.1 of the Management Pack for vRealize Orchestrator. The file name is: &lt;em&gt;&amp;quot;&lt;a href=&#34;https://marketplace.cloud.vmware.com/services/details/management-pack-for-vrealize-orchestrator11-11?slug=true&#34;&gt;vmware-mpforvro-3-2-1-19171022-pak&lt;/a&gt;&amp;quot;&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
+&lt;p&gt;I recommend to read this thoroughly, because not every step will be explained here. At least go to the &lt;a href=&#34;&#34;&gt;Overview to see all the steps&lt;/a&gt; and the &lt;a href=&#34;https://docs.vmware.com/en/VMware-vRealize-Operations-Management-Pack-for-vRealize-Orchestrator/3.2/vrealize-orchestrator/GUID-CE89A064-09D8-4412-9903-9604A09BD0EF.html&#34;&gt;Configure&lt;/a&gt; section.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>VROPS Out of Disk Space</title>
+      <link>https://bgronas.github.io/post/2023-01-31/</link>
+      <pubDate>Tue, 31 Jan 2023 12:53:31 +0100</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2023-01-31/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;strong&gt;What if you are Unable to bring your vRealize (Aria) Operations cluster online because one or more nodes are out of disk space. Let&amp;rsquo;s see if the log disk is the problem and try to fix it&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The goal is to find out if the Log disk is full and how to clean it and hopefully you save some time with this mini-Recipe that will show you how to investigate the &amp;ldquo;Unable to bring the cluster online because one or more nodes are out of disk space.&amp;rdquo; error in the Admin console of vRealize Operations and what to check.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Become a Power User of VRealize Log Insight [19.07.2022]</title>
+      <link>https://bgronas.github.io/post/2022-07-19/</link>
+      <pubDate>Tue, 19 Jul 2022 10:05:04 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2022-07-19/</guid>
+      <description>
+        
+          
+            &lt;h5 id=&#34;for-the-fourth-time-i-am-a-captain-as-a-part-of-the-vmware-hands-on-labs-and-this-year-i-will-be-on-both-vmware-explore-arrangements-in-usa-and-europe&#34;&gt;For the fourth time I am a &amp;lsquo;captain&amp;rsquo; as a part of the VMware Hands-On Labs, and this year I will be on both &lt;strong&gt;VMware Explore&lt;/strong&gt; arrangements in USA and EUROPE.&lt;/h5&gt;
+&lt;h6 id=&#34;while-serving-the-hands-on-labs-environment-we-will-have-instructor-lead-workshops-elw-where-the-participating-audience-will-have-headsets-and-listening-to-me-while-we-go-through-one-of-the-labs&#34;&gt;While serving the Hands-on Labs environment, we will have Instructor Lead Workshops (ELW) where the participating audience will have headsets and listening to me while we go through one of the labs.&lt;/h6&gt;
+&lt;h6 id=&#34;one-of-the-labs-ive-previously-have-written-is-the-advanced-topics-in-vrealize-log-insight-hol-2201-11-cmp-and-this-particular-instructor-lead-workshops-will-be-taken-from-one-of-the-modules-from-that-lab&#34;&gt;One of the Labs I&amp;rsquo;ve previously have written is the Advanced Topics in vRealize Log Insight (HOL-2201-11-CMP), and this particular Instructor Lead Workshops will be taken from one of the modules from that Lab.&lt;/h6&gt;
+&lt;p&gt;With me will be my CO-Host: Staff Technical Account Manager at VMware, &lt;strong&gt;Shannon Fitzpatrick&lt;/strong&gt;&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Root Password Expiration on VRealize Appliances</title>
+      <link>https://bgronas.github.io/post/2022-06-23/</link>
+      <pubDate>Thu, 23 Jun 2022 11:03:00 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2022-06-23/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;what&#34;&gt;&lt;strong&gt;What&amp;rsquo;s the problem?&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Normally a Virtual appliance (VA) in the vRealize Suite (VRS), aka Aria, will expire the root password you set under the installation within a year. Well, nothing dramatic about that. But, will you remember to change it next year? Maybe, if something told you in a GUI, mail or monitoring system that the password were going to expire.&lt;/p&gt;
+&lt;h4 id=&#34;a-monitoring-dilemma&#34;&gt;A monitoring dilemma&lt;/h4&gt;
+&lt;p&gt;When the VA root password is expired it will prompt you to change it when you SSH into it. &lt;strong&gt;Fine&lt;/strong&gt;. But how would you know if the password expires? AFAIK. There is currently no check for this in vRealize Operations manager, aka Aria Operations, or any of the other vRealize products. There might be a future health check for this, but as for now (june 2022) there was none.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>vRealize Operations 8.6.3. [29.04.2022]</title>
+      <link>https://bgronas.github.io/post/2022-04-29/</link>
+      <pubDate>Fri, 29 Apr 2022 14:54:50 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2022-04-29/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;strong&gt;Recently, VMware released new and improved vRealize versions. Let&amp;rsquo;s have a look on vRealize Operations and the new v8.6.3 of the product&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This release from 8.6.2 to 8.6.3. is a is a &lt;strong&gt;maintenance release&lt;/strong&gt; which resolves a few important security and functionality issues identified in the product For more details, see &lt;a href=&#34;https://kb.vmware.com/s/article/88081&#34;&gt;KB 88081&lt;/a&gt;. There are &lt;em&gt;154 CVE&amp;rsquo;s&lt;/em&gt; (Common Vulnerabilities and Exposures) solved and fixed. I&amp;rsquo;d say it&amp;rsquo;s quite a large update even if it feels minor. The following issues have been resolved as of vRealize Operations 8.6.3:&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Mixing VRealize Operations Licenses</title>
+      <link>https://bgronas.github.io/post/2022-01-11/</link>
+      <pubDate>Tue, 11 Jan 2022 01:29:03 +0100</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2022-01-11/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;mixing-vrealize-operations-licenses-isnt-easy-lets-try-to-define-whats-possible&#34;&gt;Mixing vRealize Operations Licenses isn&amp;rsquo;t easy. Let&amp;rsquo;s try to define what&amp;rsquo;s possible.&lt;/h1&gt;
+&lt;h1 id=&#34;mixing-vrealize-suite--vrealize-operations-licenses&#34;&gt;Mixing vRealize Suite / vRealize Operations Licenses.&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;The vRealize Suite STD will give you vROps ADV&lt;/li&gt;
+&lt;li&gt;With both suites (adv/std) you will end up with vROps Adv.&lt;/li&gt;
+&lt;li&gt;You can mix vROps ADV and vROps ENT editions/licenses.&lt;/li&gt;
+&lt;li&gt;You can&amp;rsquo;t mix vROps STD with vROps ADV or vROps Ent.&lt;/li&gt;
+&lt;li&gt;vRealize Suite Per-CPU and per OSI can be mixed&lt;/li&gt;
+&lt;li&gt;vRealize Operations ADV + vRealize Suite STD - This allowed but ONLY as separate license groups. &lt;em&gt;It doesn&amp;rsquo;t work when you mix the keys in one group&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;vRealize Suite ADV + vRealize Suite STD - will work too, 	as both with both suites you will end up with vROps Adv. &lt;em&gt;Separate license types into License Groups&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Don&amp;rsquo;t forget you have vRA in vRealize Suite ADV too, and mixing editions at vRA might not be permitted&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

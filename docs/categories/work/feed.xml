@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work on Bengt Blog</title>
+    <link>https://bgronas.github.io/categories/work/feed.xml</link>
+    <description>Recent content in Work on Bengt Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-NO</language>
+    <lastBuildDate>Tue, 11 Jan 2022 01:29:03 +0100</lastBuildDate><atom:link href="https://bgronas.github.io/categories/work/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mixing VRealize Operations Licenses</title>
+      <link>https://bgronas.github.io/post/2022-01-11/</link>
+      <pubDate>Tue, 11 Jan 2022 01:29:03 +0100</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2022-01-11/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;mixing-vrealize-operations-licenses-isnt-easy-lets-try-to-define-whats-possible&#34;&gt;Mixing vRealize Operations Licenses isn&amp;rsquo;t easy. Let&amp;rsquo;s try to define what&amp;rsquo;s possible.&lt;/h1&gt;
+&lt;h1 id=&#34;mixing-vrealize-suite--vrealize-operations-licenses&#34;&gt;Mixing vRealize Suite / vRealize Operations Licenses.&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;The vRealize Suite STD will give you vROps ADV&lt;/li&gt;
+&lt;li&gt;With both suites (adv/std) you will end up with vROps Adv.&lt;/li&gt;
+&lt;li&gt;You can mix vROps ADV and vROps ENT editions/licenses.&lt;/li&gt;
+&lt;li&gt;You can&amp;rsquo;t mix vROps STD with vROps ADV or vROps Ent.&lt;/li&gt;
+&lt;li&gt;vRealize Suite Per-CPU and per OSI can be mixed&lt;/li&gt;
+&lt;li&gt;vRealize Operations ADV + vRealize Suite STD - This allowed but ONLY as separate license groups. &lt;em&gt;It doesn&amp;rsquo;t work when you mix the keys in one group&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;vRealize Suite ADV + vRealize Suite STD - will work too, 	as both with both suites you will end up with vROps Adv. &lt;em&gt;Separate license types into License Groups&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Don&amp;rsquo;t forget you have vRA in vRealize Suite ADV too, and mixing editions at vRA might not be permitted&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
