@@ -46,3 +46,6 @@ especially for vRA level. vROps shouldn't be a problem
 **
 
 What is vRealize Suite? https://www.vmware.com/no/products/vrealize-suite-vcloud-suite.html
+
+##### ..OR... If you can't find stuff
+Exit Broadcom and go see: [NUTANIX videos](https://www.youtube.com/@Nutanix/videos)

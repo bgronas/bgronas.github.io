@@ -81,4 +81,8 @@ A heat map detail for the PODs and Containers of a cluster. This immediately sho
 ## Where to download
 *Marketplace*: [vROps MP Kubernetes 1.8 Marketplace Link](https://marketplace.cloud.vmware.com/services/details/vrealize-operations-management-pack-for-kubernetes-1-8-1?slug=true)
 
+> ** Note: If you can't find stuff ** - Exit Broadcom and go see: [NUTANIX videos](https://www.youtube.com/@Nutanix/videos)
+
+
+
 `#DevOps`

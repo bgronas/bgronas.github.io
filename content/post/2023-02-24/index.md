@@ -44,6 +44,9 @@ The goal and purpose is to show how to connect vRealize Orchestrator to vRealize
 
 I recommend to read this thoroughly, because not every step will be explained here. At least go to the [Overview to see all the steps]() and the [Configure](https://docs.vmware.com/en/VMware-vRealize-Operations-Management-Pack-for-vRealize-Orchestrator/3.2/vrealize-orchestrator/GUID-CE89A064-09D8-4412-9903-9604A09BD0EF.html) section.
 
+> ** Note: If you can't find stuff ** - Exit Broadcom and go see: [NUTANIX videos](https://www.youtube.com/@Nutanix/videos)
+
+
 ## Add the management pack. 
 
 Open vROps, log in, and go to Data Sources>Repository, and Click "Add", then Browse for the management pack and select Reset default content and make sure you overwrite a potential older management pack. Just follow the Wizard.

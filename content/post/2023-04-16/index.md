@@ -41,15 +41,15 @@ comment: false # Disable comment if false.
 
 - This article is divided into 3 parts:
 
-  - [IaaS Automated Powersaving, Green Sustainability - Pt.1](https://bengt.no/post/2023-03-27/)
-  - [IaaS Automated Powersaving, Green Sustainability - Pt.2](https://bengt.no/post/2023-04-16/)
-  - [IaaS Automated Powersaving, Green Sustainability - Pt.3](https://bengt.no/post/2023-04-18/)
+  - [IaaS Automated Powersaving, Green Sustainability - Pt.1](https://bgronas.github.io/post/2023-03-27/)
+  - [IaaS Automated Powersaving, Green Sustainability - Pt.2](https://bgronas.github.io/post/2023-04-16/)
+  - [IaaS Automated Powersaving, Green Sustainability - Pt.3](https://bgronas.github.io/post/2023-04-18/)
 
 <img src="./images/index/image-20230416162218067.png" align="left" style="zoom:100%;" />
 
 This is the **second** article containing the practical walk through of an example of how to do this with VMware technology. 
 
-Note: If you missed the Hyperscaler discussion and how Hyperscalers actually power off and power on VMs on a schedule, and also **`“the WHY”`**, then please go ahead and read up on the article [IaaS Automated Powersaving, Green Sustainability - Pt.1](https://bengt.no/post/2023-03-27/)
+Note: If you missed the Hyperscaler discussion and how Hyperscalers actually power off and power on VMs on a schedule, and also **`“the WHY”`**, then please go ahead and read up on the article [IaaS Automated Powersaving, Green Sustainability - Pt.1](https://bgronas.github.io/post/2023-03-27/)
 
 .
 

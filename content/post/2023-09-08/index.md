@@ -46,7 +46,7 @@ A Green Score in Aria Operations tracks progress with five parameters, to target
 
  *Workload Efficiency, Resource Utilization, Virtualization Rate, power Source, and Hardware Efficiency*. 
 
-**[The large Hyperscalers are saving](https://bengt.no/post/2023-03-27/#hyperscalers-are-power-saving),** and so should we. 
+**[The large Hyperscalers are saving](https://bgronas.github.io/post/2023-03-27/#hyperscalers-are-power-saving),** and so should we. 
 
 <p> <p> <p> <p>
 
@@ -88,10 +88,10 @@ By shutting down servers during off-hours, have positive effects, we...
 * Reduce power consumption, reducing our carbon footprint.
 * Extend the lifespan of our hardware components and longevity. Less runtime of hardware 
 
-Have a look at [**what google does**](https://bengt.no/post/2023-03-27/#an-example-on-how-google-does-it)
+Have a look at [**what google does**](https://bgronas.github.io/post/2023-03-27/#an-example-on-how-google-does-it)
 
 # New and Improved 
-<img src="./assets/image-20230927231622744.png" alt="Power Offs" style="float: left; margin: 1px 16px 1px 2px; border: 1px solid black; zoom: 50%;" /> After a **previous [series of articles](https://bengt.no/post/2023-03-27/),** we've improved the material behind the scenes. Now, when workloads are deployed, we've got improved scripting and reduced the number of orchestrator workflows to <u>ONE single workflow</u>,  and we can choose the **working hours** for the deployed servers in the UI. This means shut-down and Start-up procedures for servers will align more with the business needs and requirements. 
+<img src="./assets/image-20230927231622744.png" alt="Power Offs" style="float: left; margin: 1px 16px 1px 2px; border: 1px solid black; zoom: 50%;" /> After a **previous [series of articles](https://bgronas.github.io/post/2023-03-27/),** we've improved the material behind the scenes. Now, when workloads are deployed, we've got improved scripting and reduced the number of orchestrator workflows to <u>ONE single workflow</u>,  and we can choose the **working hours** for the deployed servers in the UI. This means shut-down and Start-up procedures for servers will align more with the business needs and requirements. 
 
 
 

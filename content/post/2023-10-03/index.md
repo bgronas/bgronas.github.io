@@ -43,7 +43,12 @@ comment: false # Disable comment if false.
 # Better & faster vs. Save power!
 <img src="./assets/1578728-200.png" align=right style="zoom:80%;" />The technological wonders we've created have undoubtedly made our lives more connected, better and faster. Our dependency on IT infrastructures has grown, and so has also the ***demand for power***.  But with a  passion for sustainability, let’s talk about the server power-saving techniques, particularly in a vSphere environment. 
 
-In my previous article I talked about the vSphere feature **DPM**, or Distributed Power Management, to power off hosts dynamically when the demand is low. [Go and have a look.](https://bengt.no/post/2023-09-08/)   This article complements the VMware Explore session where my buddy [Valentin Bondzio](<vbondzio@vmware.com> ) explained his "no Risk HPM" methodology. Note: It starts at 27:52 in the session [Orange journey to reduce their carbon emissions & Focus on HPM](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683885521040001LU2d&videoId=6340794321112) - Head over to his Blog [No Risk Host Power Management](https://valentin.bondz.io/no-risk-host-power-management/). 
+In my previous article I talked about the vSphere feature **DPM**, or Distributed Power Management, to power off hosts dynamically when the demand is low. [Go and have a look.](https://bgronas.github.io/post/2023-09-08/)   This article complements the VMware Explore session where my buddy [Valentin Bondzio](<vbondzio@vmware.com> ) explained his "no Risk HPM" methodology. Note: It starts at 27:52 in the session [Orange journey to reduce their carbon emissions & Focus on HPM](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683885521040001LU2d&videoId=6340794321112) - Head over to his Blog [No Risk Host Power Management](https://valentin.bondz.io/no-risk-host-power-management/). 
+
+
+##### ..OR... If you can't find stuff
+Exit Broadcom and go see: [NUTANIX videos](https://www.youtube.com/@Nutanix/videos)
+
 
 In this article we’ll try to deep dive a bit into Efficiency. From Dell's BIOS up to vSphere’s cluster settings, every tweak plays a part. Let’s have a look at the BIOS settings, iDRAC, and a little quick trip to vSphere's power management suite. 
 
@@ -229,6 +234,7 @@ In the next tab we will just add everything we’ve listed [above](#dash)
 - [Host Power Management Policies in ESXi](https://docs.vmware.com/en/VMware-vSphere/8.0/vsphere-resource-management/GUID-4D1A6F4A-8C99-47C1-A8E6-EF3865603F5B.html)
 - [Managing Power Resources](https://docs.vmware.com/en/VMware-vSphere/8.0/vsphere-resource-management/GUID-5E5E349A-4644-4C9C-B434-1C0243EBDC80.html)
 - "[No Risk Host Power Management](https://via.vmw.com/no-risk-hpm)"
+- [NUTANIX videos](https://www.youtube.com/@Nutanix/videos)
   
 
 until next time..

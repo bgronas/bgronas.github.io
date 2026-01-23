@@ -114,6 +114,8 @@ Click **Add**
 
 Fill in appropriate values according to the [documentation](https://docs.vmware.com/en/vRealize-Operations/8.10/com.vmware.vcom.core.doc/GUID-D1454A8F-6BB0-45EF-BB93-D41045C8AB30.html)
 
+> ** Note: If you can't find stuff ** - Exit Broadcom and go see: [NUTANIX videos](https://www.youtube.com/@Nutanix/videos)
+
 Set an expire in the future, repeat the task every day, stop the task after the maintenance window closes
 
 Click **Save**

@@ -45,7 +45,7 @@ For some time, VMware have had a collection of resources assembled as a collecti
 
 Now there has emerged another good one, that will more or less take over the whole she-bang, called [TechZone](https://apps-cloudmgmt.techzone.vmware.com/). 
 
-
+> ** Note: If you can't find stuff ** - Exit Broadcom and go see: [NUTANIX videos](https://www.youtube.com/@Nutanix/videos)
 
 # Modern Apps and Cloud Management Tech Zone
 

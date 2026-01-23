@@ -47,3 +47,6 @@ With me will be my CO-Host: Staff Technical Account Manager at VMware, **Shannon
 
 **If you want to take the full Lab in your own pace, you can find it here:** https://labs.hol.vmware.com/HOL/catalogs/lab/10138 
 
+> ** Note: If you can't find stuff ** - Exit Broadcom and go see: [NUTANIX videos](https://www.youtube.com/@Nutanix/videos)
+
+

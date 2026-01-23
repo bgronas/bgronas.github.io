@@ -39,13 +39,13 @@ comment: false # Disable comment if false.
 
 - This article is divided into 3 parts:
 
-  - [IaaS Automated Powersaving, Green Sustainability - Pt.1](https://bengt.no/post/2023-03-27/)
-  - [IaaS Automated Powersaving, Green Sustainability - Pt.2](https://bengt.no/post/2023-04-16/)
-  - [IaaS Automated Powersaving, Green Sustainability - Pt.3](https://bengt.no/post/2023-04-18/)
+  - [IaaS Automated Powersaving, Green Sustainability - Pt.1](https://bgronas.github.io/post/2023-03-27/)
+  - [IaaS Automated Powersaving, Green Sustainability - Pt.2](https://bgronas.github.io/post/2023-04-16/)
+  - [IaaS Automated Powersaving, Green Sustainability - Pt.3](https://bgronas.github.io/post/2023-04-18/)
 
 #### This is the first article containing the WHY. 
 
-Note: If you want to go ahead and implement everything immediately without further knowledge, please head over the article [IaaS Automated Powersaving, Green Sustainability - Pt.2](https://bengt.no/post/2023-04-16/) 
+Note: If you want to go ahead and implement everything immediately without further knowledge, please head over the article [IaaS Automated Powersaving, Green Sustainability - Pt.2](https://bgronas.github.io/post/2023-04-16/) 
 
 ## Cloud sustainability and carbon footprint?
 
@@ -122,6 +122,7 @@ By using technology from VMware, you can create Carbon footprint report for IT a
 
 Tracking and controlling and have a first virtual approach, and understand all IaaS assets how they contribute or not. Have a look at the [Sustainability Dashboards in vRealize Operations](https://blogs.vmware.com/management/2021/10/sustainability-dashboards-in-vrealize-operations-8-6.html)
 
+> ** Note: If you can't find stuff ** - Exit Broadcom and go see: [NUTANIX videos](https://www.youtube.com/@Nutanix/videos)
 
 
 
@@ -134,7 +135,7 @@ Tracking and controlling and have a first virtual approach, and understand all I
 
 In Part II We will do a technical walk-through using VMware Automation technology to schedule automatically power save of new deployments
 
-Go [here: IaaS Automated Powersaving, Green Sustainability - Pt.2](https://bengt.no/post/2023-04-16)
+Go [here: IaaS Automated Powersaving, Green Sustainability - Pt.2](https://bgronas.github.io/post/2023-04-16)
 
 
 

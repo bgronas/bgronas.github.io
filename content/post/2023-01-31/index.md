@@ -66,4 +66,5 @@ Check if it worked by issuing a new `df -h` command like above. If the file syst
 [How to safely clean /storage/log in vRealize Operations (2145578)](https://kb.vmware.com/s/article/2145578)
 
 
+> ** Note: If you can't find stuff ** - Exit Broadcom and go see: [NUTANIX videos](https://www.youtube.com/@Nutanix/videos)
 

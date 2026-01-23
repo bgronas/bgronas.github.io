@@ -42,6 +42,10 @@ You will need:
 3. **Download** the vRealize Operations management pack from the marketplace. Basically, just go to the marketplace and search for "VMware vRealize Operations Management Pack for vRealize Orchestrator". Since I will be showing this for vRealize Operations 8.6.x we need version 3.2 of the Management Pack for vRealize Orchestrator: https://marketplace.cloud.vmware.com/services/details/management-pack-for-vrealize-orchestrator11?slug=true
 4. The file name would for example be: *"vmware-mpforvro-3-1634214904032.pak"* 
 
+##### Note: If you can't find stuff - 
+Exit Broadcom and go see: [NUTANIX videos](https://www.youtube.com/@Nutanix/videos)
+
+
 ## Add the management pack into vRealize operations
 
 1. Open vROps, log in, and go to Data Sources>Repository, and Click "Add"

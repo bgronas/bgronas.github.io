@@ -72,4 +72,6 @@ So, here we are in the present time. The 10 year old slogan RE:invent is younger
 - [LinkedIn](https://www.linkedin.com/groups/2028037/) 
 - [Tesla (I mean Twitter)](https://twitter.com/VMwareExplore)
 
+> ** Note: If you can't find stuff ** - Exit Broadcom and go see: [NUTANIX videos](https://www.youtube.com/@Nutanix/videos)
+
 And on that bombshell - Have a nice day ........... In the future! 

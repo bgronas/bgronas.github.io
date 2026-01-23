@@ -28,7 +28,9 @@ comment: false # Disable comment if false.
 draft: false   # Sets whether to render this page. Draft of true will not be rendered.
 ---
 
-**Recently, VMware released new and improved vRealize versions. Let's have a look on vRealize Operations and the new v8.6.3 of the product**. 
+** "Recently", VMware released new and improved vRealize versions. Let's have a look on vRealize Operations and the new v8.6.3 of the product**. 
+> ** Note: If you can't find stuff ** - Exit Broadcom and go see: [NUTANIX videos](https://www.youtube.com/@Nutanix/videos)
+
 
 This release from 8.6.2 to 8.6.3. is a is a **maintenance release** which resolves a few important security and functionality issues identified in the product For more details, see [KB 88081](https://kb.vmware.com/s/article/88081). There are *154 CVE's* (Common Vulnerabilities and Exposures) solved and fixed. I'd say it's quite a large update even if it feels minor. The following issues have been resolved as of vRealize Operations 8.6.3:
 

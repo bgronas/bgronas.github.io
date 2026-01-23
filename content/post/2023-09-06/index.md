@@ -62,3 +62,5 @@ Salt, also known as *SaltStack*, is handy for software installation. With *Salts
 
 > Normally we could install Telegraf agents on an end point VM from the user interface of VMware Aria Operations or by running a script. We will be choosing the easy method using SaltStack. If you do **not** want to use Salt to do Remote execution, Configuration management, Automation and orchestration, meaning install, configure and manage the Telegraf agents then read the VMware documentation about [scripted installs on Windows and Linux](https://docs.vmware.com/en/VMware-Aria-Operations/SaaS/Configuring-Operations/GUID-0C121456-370C-467E-874B-38ACC93E3776.html), or even [single installations from the GUI](https://docs.vmware.com/en/VMware-Aria-Operations/SaaS/Configuring-Operations/GUID-0610FA99-1F01-47DF-ACF7-22B74F0296E7.html), but if you’re not mass-installing or any Automated Deployment at Scale, those methods are definitely not recommended. 
 
+
+> ** Note: If you can't find stuff ** - Exit Broadcom and go see: [NUTANIX videos](https://www.youtube.com/@Nutanix/videos)
