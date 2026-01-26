@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nutanix on Bengt Blog</title>
+    <link>https://bgronas.github.io/tags/nutanix/feed.xml</link>
+    <description>Recent content in Nutanix on Bengt Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-NO</language>
+    <lastBuildDate>Mon, 26 Jan 2026 13:31:03 +0100</lastBuildDate><atom:link href="https://bgronas.github.io/tags/nutanix/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NUTANIX USER GROUP</title>
+      <link>https://bgronas.github.io/post/2026-01-26-nutanix-user-group/</link>
+      <pubDate>Mon, 26 Jan 2026 13:31:03 +0100</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2026-01-26-nutanix-user-group/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;nutanix-user-group-oslo-er-tilbake&#34;&gt;Nutanix User Group Oslo er tilbake&lt;/h1&gt;
+&lt;p&gt;Dette er kult hvis du liker samlinger der folk faktisk sier hva som fungerer i drift (og hva som ikke gjør det), er dette for deg. Praktiske erfaringer, ærlige historier og NCI 7.5 i fokus.&lt;/p&gt;
+&lt;p&gt;Det finnes to typer tech-samlinger: de som er “slideware”, og de som faktisk gjør deg bedre i drift.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nutanix User Group (NUG)&lt;/strong&gt; er ment å være den siste typen: lokalt, community-drevet, og tett på virkeligheten - med demoer, erfaringsdeling og Q&amp;amp;A.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,7 @@ date: 2023-09-08T10:19:28+02:00
 
 description: "Explore sustainable practices for datacenters with a focus on power management, workload optimization, and VMware's Aria Operations for environmental efficiency."
 
-featured: true # Highlighting the importance of the post.
+featured: false # Highlighting the importance of the post.
 draft: false
 toc: false # Enabling TOC for better navigation due to the post's length and complexity.
 
