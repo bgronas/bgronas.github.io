@@ -2,13 +2,9 @@
 author: "Bengt Grønås"
 title: "Aria Operations 8.17.1 == GAUGES!!! [12.04.2024]" # Title of the blog post.
 date: 2024-04-12T12:14:03+02:00 # Date of post creation.
-description: "Article description." # Description used for search engine.
 featured: false # Sets if post is a featured post, making appear on the home page side bar.
 draft: true # Sets whether to render this page. Draft of true will not be rendered.
 toc: false # Controls if a table of contents should be generated for first-level links automatically.
-slug: "whats-new-vmware-aria-operations-8-17-1"  # URL slug for the post
-description: "Explore the latest updates in VMware Aria Operations 8.17.1, including new features and enhancements to help streamline your IT operations management."  # SEO friendly description
-keywords: ["VMware Aria Operations", "VMware Updates", "Cloud Management", "IT Operations Management", "New Features", "Aria 8.17.1"]  # Important for SEO
 # menu: main
 usePageBundles: true 
 
@@ -24,20 +20,11 @@ codeMaxLines: 10 # Override global value for how many lines within a code block 
 codeLineNumbers: false # Override global value for showing of line numbers within code block.
 figurePositionShow: false # Override global value for showing the figure label.
 
-socials:
-  twitter: "@bgronas"  # Twitter handle for social media sharing
-  linkedin: "bgronas"  # LinkedIn profile or company page
-
 categories:
   - VMware
-  - Cloud Management
 tags:
   - vRealize
   - VMware Aria Operations
-  - Cloud Management
-  - IT Operations
-  - VMware Updates
-  - Version 8.17.1
 
 comment: false # Disable comment if false.
 ---

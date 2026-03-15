@@ -238,7 +238,8 @@ Both of which will affect our savings:</p>
 <!-- raw HTML omitted -->
 <p>By clicking the <strong>information icons</strong> on those two options, we can get more information about the different options.</p>
 <blockquote>
-<p>Note that We’ve chose to keep it simple with enforced power off at 18:00 and power on at 06:00, this could of course be customizable, but there are multiple reasons to keep it simple.</p></blockquote>
+<p>Note that We’ve chose to keep it simple with enforced power off at 18:00 and power on at 06:00, this could of course be customizable, but there are multiple reasons to keep it simple.</p>
+</blockquote>
 <h4 id="powersave-mode">Powersave mode</h4>
 <p>Below is the explanation for the Size explains the impact of the <strong>Power Save mode</strong></p>
 <p>
@@ -341,7 +342,8 @@ Both of which will affect our savings:</p>
 <h1 id="aria-automation-cloud-template">Aria Automation Cloud Template</h1>
 <p><!-- raw HTML omitted --> The blueprint aka. Cloud template:  Behind the Self Service choice there is a simple Cloud Template, in other words a declarative language, such as YAML  containing Infrastructure as Code (IaC) to define our  desired state of our cloud infrastructure.</p>
 <blockquote>
-<p>You can find a <strong>Github</strong> IaC YAML code with a  <a href="https://github.com/VMwareAria/cloud-templates/blob/2debc41fe1b95e17a28c202eb05da0b31daa64d4/powersave/blueprint.yaml">copy of the template here</a></p></blockquote>
+<p>You can find a <strong>Github</strong> IaC YAML code with a  <a href="https://github.com/VMwareAria/cloud-templates/blob/2debc41fe1b95e17a28c202eb05da0b31daa64d4/powersave/blueprint.yaml">copy of the template here</a></p>
+</blockquote>
 <p><!-- raw HTML omitted -->The tagging: The main thing about the Cloud template and the VM you are about to create is that is has a specific TAG. The Tag is created with this code snippet within the cloud template:</p>
 <pre><code>  tags:
     - key: os
@@ -415,7 +417,8 @@ Both of which will affect our savings:</p>
 <h1 id="python-code--orchestrator-workflow"><strong>Python code / Orchestrator Workflow</strong></h1>
 <h5 id="get-the-code">Get the code</h5>
 <blockquote>
-<p>GET YOUR copy of the code from <a href="https://github.com/VMwareAria/cloud-templates/blob/main/powersave/orchestrator-script.py">THIS GITHUB PAGE</a></p></blockquote>
+<p>GET YOUR copy of the code from <a href="https://github.com/VMwareAria/cloud-templates/blob/main/powersave/orchestrator-script.py">THIS GITHUB PAGE</a></p>
+</blockquote>
 <p>We just use a single Workflow called “bgro-powersave-schedule”. In that workflow, we have one scriptable task with a Python script that actually contains the most of the intelligence.  It finds all deployments with the power save tag  set to true then powers on or off accordingly.</p>
 <p>
   <figure>
@@ -573,6 +576,9 @@ Both of which will affect our savings:</p>
     <h2 class="mt-4">Nye innlegg</h2>
     <ul class="flex-column">
       <li>
+        <a href="https://bgronas.github.io/post/2026-03-15-about/" class="nav-link" title="About Bengt Grønås">About Bengt Grønås</a>
+      </li>
+      <li>
         <a href="https://bgronas.github.io/post/2026-01-26-nutanix-user-group/" class="nav-link" title="NUTANIX USER GROUP">NUTANIX USER GROUP</a>
       </li>
       <li>
@@ -599,9 +605,6 @@ Both of which will affect our savings:</p>
       <li>
         <a href="https://bgronas.github.io/post/2023-03-27/" class="nav-link" title="IaaS Automated Powersaving, Green Sustainability - Pt.1">IaaS Automated Powersaving, Green Sustainability - Pt.1</a>
       </li>
-      <li>
-        <a href="https://bgronas.github.io/post/2023-03-03/" class="nav-link" title="Cloud Management Tech Zone">Cloud Management Tech Zone</a>
-      </li>
     </ul>
     <div>
       <h2 class="mt-4 taxonomy" id="categories-section">Kategori</h2>
@@ -609,6 +612,11 @@ Both of which will affect our savings:</p>
         <a href='https://bgronas.github.io/categories/technology/' class="post_tag button button_translucent" title="technology">
           TECHNOLOGY
           <span class="button_tally">11</span>
+        </a>
+        
+        <a href='https://bgronas.github.io/categories/orchestration/' class="post_tag button button_translucent" title="orchestration">
+          ORCHESTRATION
+          <span class="button_tally">2</span>
         </a>
         
         <a href='https://bgronas.github.io/categories/sustainability/' class="post_tag button button_translucent" title="sustainability">
@@ -619,6 +627,11 @@ Both of which will affect our savings:</p>
         <a href='https://bgronas.github.io/categories/vmware/' class="post_tag button button_translucent" title="vmware">
           VMWARE
           <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://bgronas.github.io/categories/about-me/' class="post_tag button button_translucent" title="about me">
+          ABOUT ME
+          <span class="button_tally">1</span>
         </a>
         
         <a href='https://bgronas.github.io/categories/datacenter-management/' class="post_tag button button_translucent" title="datacenter management">
@@ -656,11 +669,6 @@ Both of which will affect our savings:</p>
           <span class="button_tally">1</span>
         </a>
         
-        <a href='https://bgronas.github.io/categories/orchestration/' class="post_tag button button_translucent" title="orchestration">
-          ORCHESTRATION
-          <span class="button_tally">1</span>
-        </a>
-        
         <a href='https://bgronas.github.io/categories/personal/' class="post_tag button button_translucent" title="personal">
           PERSONAL
           <span class="button_tally">1</span>
@@ -694,7 +702,7 @@ Both of which will affect our savings:</p>
       <nav class="tags_nav">
         <a href='https://bgronas.github.io/tags/vrealize/' class="post_tag button button_translucent" title="vrealize">
           VREALIZE
-          <span class="button_tally">6</span>
+          <span class="button_tally">7</span>
         </a>
         
         <a href='https://bgronas.github.io/tags/aria/' class="post_tag button button_translucent" title="aria">
@@ -722,9 +730,19 @@ Both of which will affect our savings:</p>
           <span class="button_tally">2</span>
         </a>
         
+        <a href='https://bgronas.github.io/tags/orchestrator/' class="post_tag button button_translucent" title="orchestrator">
+          ORCHESTRATOR
+          <span class="button_tally">2</span>
+        </a>
+        
         <a href='https://bgronas.github.io/tags/vmware/' class="post_tag button button_translucent" title="vmware">
           VMWARE
           <span class="button_tally">2</span>
+        </a>
+        
+        <a href='https://bgronas.github.io/tags/about-me/' class="post_tag button button_translucent" title="about me">
+          ABOUT ME
+          <span class="button_tally">1</span>
         </a>
         
         <a href='https://bgronas.github.io/tags/adventure/' class="post_tag button button_translucent" title="adventure">
@@ -839,11 +857,6 @@ Both of which will affect our savings:</p>
         
         <a href='https://bgronas.github.io/tags/nvr/' class="post_tag button button_translucent" title="nvr">
           NVR
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://bgronas.github.io/tags/orchestrator/' class="post_tag button button_translucent" title="orchestrator">
-          ORCHESTRATOR
           <span class="button_tally">1</span>
         </a>
         

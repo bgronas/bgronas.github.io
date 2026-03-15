@@ -21,8 +21,6 @@ tags:
   - vRealize
   - Orchestrator
 comment: false # Disable comment if false.
-typora-root-url: .
-draft: true
 
 ---
 

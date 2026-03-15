@@ -6,7 +6,26 @@
     <description>Recent content in Posts on Bengt Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-NO</language>
-    <lastBuildDate>Mon, 26 Jan 2026 13:31:03 +0100</lastBuildDate><atom:link href="https://bgronas.github.io/post/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Mar 2026 19:09:43 +0100</lastBuildDate><atom:link href="https://bgronas.github.io/post/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Bengt Grønås</title>
+      <link>https://bgronas.github.io/post/2026-03-15-about/</link>
+      <pubDate>Sun, 15 Mar 2026 19:09:43 +0100</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2026-03-15-about/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;i-am&#34;&gt;I AM&lt;/h1&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt; Senior Systems Engineer at Nutanix Norway. My work focuses on the Nutanix Platform and supporting customers including the public sector. Expertise includes Hybrid Multicloud, Hyperconverged, Software defined &lt;!-- raw HTML omitted --&gt;, and systems administration. Operating from Oslo. Personal goals involve blogging, public speaking, and technical instruction. I bridge complex infrastructure with cloud-native operations.&lt;/p&gt;
+&lt;h3 id=&#34;professional-experience--focus&#34;&gt;Professional Experience &amp;amp; Focus&lt;/h3&gt;
+&lt;p&gt;Before Nutanix I spent over a decade at VMware (2013–2025) as a Specialist Solutions Engineer covering cloud management, automation, and orchestration across the Nordics and Baltics. Six-time vExpert. I built a lot of Hands-On Labs, ran SociaLab community sessions around Norway, and got to watch virtualisation, Operations, and automations reshape enterprise IT from the inside. I served as a sustainability ambassador, advocating for eco-friendly data centre management. Broadcom&amp;rsquo;s acquisition brought that chapter to a close — I wrote about it &lt;a href=&#34;https://bgronas.github.io/post/2025-01-10/&#34;&gt;here&lt;/a&gt;.  Before VMware, many years as a senior consultant and systems engineer across various corners of Norwegian IT.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>NUTANIX USER GROUP</title>
       <link>https://bgronas.github.io/post/2026-01-26-nutanix-user-group/</link>
@@ -139,7 +158,7 @@
     </item>
     
     <item>
-      <title>Maximize Efficiency: Power-Saving Techniques in vSphere &#43; Operations Dashboards</title>
+      <title>Maximize Efficiency: Power-Saving Techniques in vSphere + Operations Dashboards</title>
       <link>https://bgronas.github.io/post/2023-10-03/</link>
       <pubDate>Tue, 21 Nov 2023 14:24:39 +0200</pubDate>
       
@@ -460,7 +479,8 @@
           
             &lt;p&gt;** &amp;ldquo;Recently&amp;rdquo;, VMware released new and improved vRealize versions. Let&amp;rsquo;s have a look on vRealize Operations and the new v8.6.3 of the product**.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;** Note: If you can&amp;rsquo;t find stuff ** - Exit Broadcom and go see: &lt;a href=&#34;https://www.youtube.com/@Nutanix/videos&#34;&gt;NUTANIX videos&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;** Note: If you can&amp;rsquo;t find stuff ** - Exit Broadcom and go see: &lt;a href=&#34;https://www.youtube.com/@Nutanix/videos&#34;&gt;NUTANIX videos&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;This release from 8.6.2 to 8.6.3. is a is a &lt;strong&gt;maintenance release&lt;/strong&gt; which resolves a few important security and functionality issues identified in the product For more details, see &lt;a href=&#34;https://kb.vmware.com/s/article/88081&#34;&gt;KB 88081&lt;/a&gt;. There are &lt;em&gt;154 CVE&amp;rsquo;s&lt;/em&gt; (Common Vulnerabilities and Exposures) solved and fixed. I&amp;rsquo;d say it&amp;rsquo;s quite a large update even if it feels minor. The following issues have been resolved as of vRealize Operations 8.6.3:&lt;/p&gt;
           
           
@@ -469,7 +489,7 @@
     </item>
     
     <item>
-      <title>Frigate - I&#39;ve neither seen the boat nor the bird</title>
+      <title>Frigate - I've neither seen the boat nor the bird</title>
       <link>https://bgronas.github.io/post/2022-03-07/</link>
       <pubDate>Mon, 07 Mar 2022 20:31:51 +0000</pubDate>
       
@@ -507,6 +527,35 @@ Frigate is an open source NVR, a &lt;strong&gt;N&lt;/strong&gt;etwork &lt;strong
     </item>
     
     <item>
+      <title>Connect vROps to vRO</title>
+      <link>https://bgronas.github.io/post/2022-01-12/</link>
+      <pubDate>Wed, 12 Jan 2022 19:20:12 +0100</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2022-01-12/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;strong&gt;Extending vRealize Operations with vRealize Orchestrator&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sometimes it&amp;rsquo;s a good thing to connect vRealize Orchestrator to vRealize Operations to be able to do actions and remedies based on alerts in vRealize Operations. Another thing that this connection provides is the possibilities to run Orchestrator workflows directly from vRealize Operations objects.&lt;/p&gt;
+&lt;h3 id=&#34;how-we-do-this---in-details-now&#34;&gt;How we do this - in details, now!&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You will need:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;vRealize Orchestrator&lt;/strong&gt; installed
+This can either be included together with vRealize Automation, or, a standalone Orchestrator solution. My Orchestrator is installed with vRealize Automation. I&amp;rsquo;ll use that! If you do not have it, download your standalone version from &lt;a href=&#34;https://customerconnect.vmware.com/&#34;&gt;Customer Connect&lt;/a&gt; (vRO is free with vCenter). Look under &amp;ldquo;Download VMware vSphere&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;vRealize Operations&lt;/strong&gt; installed. Well I have already used vRealize Lifecycle Manager and deployed mine. It is connected to vCenter,  to vRealize Log Insight, and to vRealize Automation. This helps with both a Last mile of troubleshooting as well as providing my deployments in vRealize automation with metrics from vRealize Operations, for example Cost / Price, Showback / Chargeback information&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Download&lt;/strong&gt; the vRealize Operations management pack from the marketplace. Basically, just go to the marketplace and search for &amp;ldquo;VMware vRealize Operations Management Pack for vRealize Orchestrator&amp;rdquo;. Since I will be showing this for vRealize Operations 8.6.x we need version 3.2 of the Management Pack for vRealize Orchestrator: &lt;a href=&#34;https://marketplace.cloud.vmware.com/services/details/management-pack-for-vrealize-orchestrator11?slug=true&#34;&gt;https://marketplace.cloud.vmware.com/services/details/management-pack-for-vrealize-orchestrator11?slug=true&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The file name would for example be: &lt;em&gt;&amp;ldquo;vmware-mpforvro-3-1634214904032.pak&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;note-if-you-cant-find-stuff--&#34;&gt;Note: If you can&amp;rsquo;t find stuff -&lt;/h5&gt;
+&lt;p&gt;Exit Broadcom and go see: &lt;a href=&#34;https://www.youtube.com/@Nutanix/videos&#34;&gt;NUTANIX videos&lt;/a&gt;&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Mixing VRealize Operations Licenses</title>
       <link>https://bgronas.github.io/post/2022-01-11/</link>
       <pubDate>Tue, 11 Jan 2022 01:29:03 +0100</pubDate>
@@ -527,6 +576,25 @@ Frigate is an open source NVR, a &lt;strong&gt;N&lt;/strong&gt;etwork &lt;strong
 &lt;li&gt;vRealize Suite ADV + vRealize Suite STD - will work too, 	as both with both suites you will end up with vROps Adv. &lt;em&gt;Separate license types into License Groups&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Don&amp;rsquo;t forget you have vRA in vRealize Suite ADV too, and mixing editions at vRA might not be permitted&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://bgronas.github.io/post/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bgronas.github.io/post/about/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;i-am&#34;&gt;&lt;!-- raw HTML omitted --&gt;I AM&lt;/h1&gt;
+&lt;p&gt;Senior Systems Engineer at Nutanix Norway. My work focuses on the Nutanix Platform and supporting customers including the public sector. Expertise includes Hybrid Multicloud, Hyperconverged, Software defined &lt;!-- raw HTML omitted --&gt;, and systems administration. Operating from Oslo. Personal goals involve blogging, public speaking, and technical instruction. I bridge complex infrastructure with cloud-native operations.&lt;/p&gt;
+&lt;h3 id=&#34;professional-experience--focus&#34;&gt;Professional Experience &amp;amp; Focus&lt;/h3&gt;
+&lt;p&gt;Before Nutanix I spent over a decade at VMware (2013–2025) as a Specialist Solutions Engineer covering cloud management, automation, and orchestration across the Nordics and Baltics. Six-time vExpert. I built Hands-On Labs, ran SociaLab community sessions around Norway, and got to watch virtualisation reshape enterprise IT from the inside. I served as a sustainability ambassador, advocating for eco-friendly data centre management. Broadcom&amp;rsquo;s acquisition brought that chapter to a close — I wrote about it &lt;a href=&#34;https://bgronas.github.io/post/2025-01-10/&#34;&gt;here&lt;/a&gt;.  Before VMware, many years as a senior consultant and systems engineer across various corners of Norwegian IT.&lt;/p&gt;
           
           
         
