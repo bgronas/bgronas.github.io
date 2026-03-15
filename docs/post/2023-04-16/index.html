@@ -238,8 +238,7 @@ Both of which will affect our savings:</p>
 <!-- raw HTML omitted -->
 <p>By clicking the <strong>information icons</strong> on those two options, we can get more information about the different options.</p>
 <blockquote>
-<p>Note that We’ve chose to keep it simple with enforced power off at 18:00 and power on at 06:00, this could of course be customizable, but there are multiple reasons to keep it simple.</p>
-</blockquote>
+<p>Note that We’ve chose to keep it simple with enforced power off at 18:00 and power on at 06:00, this could of course be customizable, but there are multiple reasons to keep it simple.</p></blockquote>
 <h4 id="powersave-mode">Powersave mode</h4>
 <p>Below is the explanation for the Size explains the impact of the <strong>Power Save mode</strong></p>
 <p>
@@ -342,8 +341,7 @@ Both of which will affect our savings:</p>
 <h1 id="aria-automation-cloud-template">Aria Automation Cloud Template</h1>
 <p><!-- raw HTML omitted --> The blueprint aka. Cloud template:  Behind the Self Service choice there is a simple Cloud Template, in other words a declarative language, such as YAML  containing Infrastructure as Code (IaC) to define our  desired state of our cloud infrastructure.</p>
 <blockquote>
-<p>You can find a <strong>Github</strong> IaC YAML code with a  <a href="https://github.com/VMwareAria/cloud-templates/blob/2debc41fe1b95e17a28c202eb05da0b31daa64d4/powersave/blueprint.yaml">copy of the template here</a></p>
-</blockquote>
+<p>You can find a <strong>Github</strong> IaC YAML code with a  <a href="https://github.com/VMwareAria/cloud-templates/blob/2debc41fe1b95e17a28c202eb05da0b31daa64d4/powersave/blueprint.yaml">copy of the template here</a></p></blockquote>
 <p><!-- raw HTML omitted -->The tagging: The main thing about the Cloud template and the VM you are about to create is that is has a specific TAG. The Tag is created with this code snippet within the cloud template:</p>
 <pre><code>  tags:
     - key: os
@@ -417,8 +415,7 @@ Both of which will affect our savings:</p>
 <h1 id="python-code--orchestrator-workflow"><strong>Python code / Orchestrator Workflow</strong></h1>
 <h5 id="get-the-code">Get the code</h5>
 <blockquote>
-<p>GET YOUR copy of the code from <a href="https://github.com/VMwareAria/cloud-templates/blob/main/powersave/orchestrator-script.py">THIS GITHUB PAGE</a></p>
-</blockquote>
+<p>GET YOUR copy of the code from <a href="https://github.com/VMwareAria/cloud-templates/blob/main/powersave/orchestrator-script.py">THIS GITHUB PAGE</a></p></blockquote>
 <p>We just use a single Workflow called “bgro-powersave-schedule”. In that workflow, we have one scriptable task with a Python script that actually contains the most of the intelligence.  It finds all deployments with the power save tag  set to true then powers on or off accordingly.</p>
 <p>
   <figure>
