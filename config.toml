@@ -5,6 +5,8 @@ theme = "hugo-clarity"
 enableRobotsTXT = true
 canonifyURLs = false
 publishDir = "docs"
+ignoreLogs = ['warning-goldmark-raw-html'] 
+
 
 defaultContentLanguage = "no"  
 defaultContentLanguageInSubdir = false  

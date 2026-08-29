@@ -256,8 +256,7 @@
 you the flexibility to use vSphere host power management to control their use. C-states can reduce performance. In these cases you might obtain better performance by disabling them in the BIOS.</p>
 <p><strong>C1E</strong> is a hardware-managed state; when ESXi puts the CPU into the C1 state, the CPU hardware can determine, based on its own criteria, to deepen the state to C1E. Availability of the C1E halt state typically provides a reduction in power consumption with little or no impact on performance.</p>
 <blockquote>
-<p><strong>Storage Latency Sensitive Workloads.</strong> For a very few multithreaded workloads that are highly sensitive to I/O latency, such as financial platforms or media and entertainment, C-states (including C1E) can reduce performance. In these cases you might obtain better performance by deactivating them in the BIOS. Deactivate C1E and other C-states ==  increase power consumption.</p>
-</blockquote>
+<p><strong>Storage Latency Sensitive Workloads.</strong> For a very few multithreaded workloads that are highly sensitive to I/O latency, such as financial platforms or media and entertainment, C-states (including C1E) can reduce performance. In these cases you might obtain better performance by deactivating them in the BIOS. Deactivate C1E and other C-states ==  increase power consumption.</p></blockquote>
 <h2 id="recommended-bios-settings">Recommended BIOS settings</h2>
 <p>
   <figure>
@@ -512,8 +511,7 @@ Set our power policy settings according to everything else we’ve <a href="/pos
 <h3 id="dash">Host Monitoring. Operations Dashboard</h3>
 <p>We&rsquo;ll use an Operations tool for efficient monitoring of key host parameters, avoiding extensive checks in vCenter/vSphere Client. Essential parameters include:</p>
 <blockquote>
-<p>BIOS version and date, BIOS power-saving settings, P and C states. vSphere power policy. ESXi version. Serial number, and hyperthreading.</p>
-</blockquote>
+<p>BIOS version and date, BIOS power-saving settings, P and C states. vSphere power policy. ESXi version. Serial number, and hyperthreading.</p></blockquote>
 <p>Creating this dashboard is easy and straightforward. We&rsquo;ll build a view with all necessary data. But very first, let’s review our policies to ensure we&rsquo;re capturing all essential host metrics, such as power, BIOS version, etc.</p>
 <h3 id="metrics-and-properties-collection">Metrics and Properties collection</h3>
 <p>In Aria Operations, Let’s go to <code>Configure&gt;Policies&gt;Policy Definition</code> and <em>edit</em> our policy.</p>
@@ -772,9 +770,6 @@ Set our power policy settings according to everything else we’ve <a href="/pos
     <h2 class="mt-4">Nye innlegg</h2>
     <ul class="flex-column">
       <li>
-        <a href="https://bgronas.github.io/post/2026-03-15-about/" class="nav-link" title="About Bengt Grønås">About Bengt Grønås</a>
-      </li>
-      <li>
         <a href="https://bgronas.github.io/post/2026-01-26-nutanix-user-group/" class="nav-link" title="NUTANIX USER GROUP">NUTANIX USER GROUP</a>
       </li>
       <li>
@@ -801,6 +796,9 @@ Set our power policy settings according to everything else we’ve <a href="/pos
       <li>
         <a href="https://bgronas.github.io/post/2023-03-27/" class="nav-link" title="IaaS Automated Powersaving, Green Sustainability - Pt.1">IaaS Automated Powersaving, Green Sustainability - Pt.1</a>
       </li>
+      <li>
+        <a href="https://bgronas.github.io/post/2023-03-03/" class="nav-link" title="Cloud Management Tech Zone">Cloud Management Tech Zone</a>
+      </li>
     </ul>
     <div>
       <h2 class="mt-4 taxonomy" id="categories-section">Kategori</h2>
@@ -823,11 +821,6 @@ Set our power policy settings according to everything else we’ve <a href="/pos
         <a href='https://bgronas.github.io/categories/vmware/' class="post_tag button button_translucent" title="vmware">
           VMWARE
           <span class="button_tally">2</span>
-        </a>
-        
-        <a href='https://bgronas.github.io/categories/about-me/' class="post_tag button button_translucent" title="about me">
-          ABOUT ME
-          <span class="button_tally">1</span>
         </a>
         
         <a href='https://bgronas.github.io/categories/datacenter-management/' class="post_tag button button_translucent" title="datacenter management">
@@ -934,11 +927,6 @@ Set our power policy settings according to everything else we’ve <a href="/pos
         <a href='https://bgronas.github.io/tags/vmware/' class="post_tag button button_translucent" title="vmware">
           VMWARE
           <span class="button_tally">2</span>
-        </a>
-        
-        <a href='https://bgronas.github.io/tags/about-me/' class="post_tag button button_translucent" title="about me">
-          ABOUT ME
-          <span class="button_tally">1</span>
         </a>
         
         <a href='https://bgronas.github.io/tags/adventure/' class="post_tag button button_translucent" title="adventure">

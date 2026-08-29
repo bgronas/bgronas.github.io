@@ -4,7 +4,7 @@ title: "About Bengt Grønås"
 date: 2026-03-15T19:09:43+01:00                            # Date of post creation.
 description: "A small walktrhough og Bengt Grønås." # Used by SEO engines and social cards.
 featured: false                               # Appears on homepage sidebar if true.
-draft: false                                  # Drafts aren’t rendered until published.
+draft: true                                  # Drafts aren’t rendered until published.
 toc: false                                    # Auto table of contents.
 
 usePageBundles: true                          # Keep images & media with each post.
@@ -36,7 +36,7 @@ showRelatedInArticle: true
 
 # I AM
 
-<img src="./image-20260315192008753.png" align="right" style="zoom:80%;" /> Senior Systems Engineer at Nutanix Norway. My work focuses on the Nutanix Platform and supporting customers including the public sector. Expertise includes Hybrid Multicloud, Hyperconverged, Software defined <whatever>, and systems administration. Operating from Oslo. Personal goals involve blogging, public speaking, and technical instruction. I bridge complex infrastructure with cloud-native operations.
+<img src="image-20260315192008753.png" align="right" style="zoom:80%;" /> Senior Systems Engineer at Nutanix Norway. My work focuses on the Nutanix Platform and supporting customers including the public sector. Expertise includes Hybrid Multicloud, Hyperconverged, Software defined <whatever>, and systems administration. Operating from Oslo. Personal goals involve blogging, public speaking, and technical instruction. I bridge complex infrastructure with cloud-native operations.
 
 ### Professional Experience & Focus
 

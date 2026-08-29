@@ -2,23 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bgronas.github.io/post/2026-03-15-about/</loc>
-    <lastmod>2026-03-15T19:09:43+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://bgronas.github.io/categories/about-me/</loc>
-    <lastmod>2026-03-15T19:09:43+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://bgronas.github.io/tags/about-me/</loc>
-    <lastmod>2026-03-15T19:09:43+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
     <loc>https://bgronas.github.io/</loc>
-    <lastmod>2026-03-15T19:09:43+01:00</lastmod>
+    <lastmod>2026-08-29T18:54:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link
@@ -32,8 +17,13 @@
                 href="https://bgronas.github.io/"
                 />
   </url><url>
+    <loc>https://bgronas.github.io/post/</loc>
+    <lastmod>2026-08-29T18:54:17+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://bgronas.github.io/categories/</loc>
-    <lastmod>2026-03-15T19:09:43+01:00</lastmod>
+    <lastmod>2026-01-26T13:31:03+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link
@@ -45,26 +35,6 @@
                 rel="alternate"
                 hreflang="nb-NO"
                 href="https://bgronas.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://bgronas.github.io/post/</loc>
-    <lastmod>2026-03-15T19:09:43+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://bgronas.github.io/tags/</loc>
-    <lastmod>2026-03-15T19:09:43+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://bgronas.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="https://bgronas.github.io/tags/"
                 />
   </url><url>
     <loc>https://bgronas.github.io/tags/nug/</loc>
@@ -81,6 +51,21 @@
     <lastmod>2026-01-26T13:31:03+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url><url>
+    <loc>https://bgronas.github.io/tags/</loc>
+    <lastmod>2026-01-26T13:31:03+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://bgronas.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb-NO"
+                href="https://bgronas.github.io/tags/"
+                />
   </url><url>
     <loc>https://bgronas.github.io/categories/technology/</loc>
     <lastmod>2026-01-26T13:31:03+01:00</lastmod>
