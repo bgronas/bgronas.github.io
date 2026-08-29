@@ -6,7 +6,26 @@
     <description>Recent content in Technology on Bengt Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-NO</language>
-    <lastBuildDate>Mon, 26 Jan 2026 13:31:03 +0100</lastBuildDate><atom:link href="https://bgronas.github.io/categories/technology/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Aug 2026 18:54:17 +0200</lastBuildDate><atom:link href="https://bgronas.github.io/categories/technology/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nutanix User Group 3 September 2026</title>
+      <link>https://bgronas.github.io/post/2026-08-29-nutanix-user-group-3-september-2026/</link>
+      <pubDate>Sat, 29 Aug 2026 18:54:17 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2026-08-29-nutanix-user-group-3-september-2026/</guid>
+      <description>
+        
+          
+            &lt;h3 id=&#34;nutanix-user-group-norway-3-september-2026&#34;&gt;Nutanix User Group Norway 3. September 2026&lt;/h3&gt;
+&lt;p&gt;Den 3. september samler vi igjen det norske Nutanix-miljøet – denne gangen hos Move i Oslo.&lt;/p&gt;
+&lt;p&gt;Vi får besøk av &lt;a href=&#34;https://www.linkedin.com/in/stastro/&#34;&gt;&lt;strong&gt;Simon Todd MSc&lt;/strong&gt;&lt;/a&gt;, som tar oss gjennom &lt;strong&gt;Nutanix Enterprise AI&lt;/strong&gt; og hvordan plattformen utvikler seg fra å gjøre det enkelt å kjøre og konsumere GenAI-modeller til å bli et sentralt lag for enterprise AI.&lt;/p&gt;
+&lt;p&gt;Blant annet ser vi nærmere på AI Gateway – hvordan virksomheter kan få kontroll, sikkerhet og governance rundt bruken av ulike AI-modeller, med ett felles API for LLM-er enten de kjører lokalt eller som eksterne skytjenester som Anthropic.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>NUTANIX USER GROUP</title>
       <link>https://bgronas.github.io/post/2026-01-26-nutanix-user-group/</link>
