@@ -6,7 +6,58 @@
     <description>Recent content in Technology on Bengt Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-NO</language>
-    <lastBuildDate>Sat, 29 Aug 2026 18:54:17 +0200</lastBuildDate><atom:link href="https://bgronas.github.io/categories/technology/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Sep 2026 11:30:00 +0200</lastBuildDate><atom:link href="https://bgronas.github.io/categories/technology/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Høstens Nutanix-webinarer: fra første cluster til suveren plattform</title>
+      <link>https://bgronas.github.io/post/2026-09-25-hostens-nutanix-webinarer/</link>
+      <pubDate>Fri, 25 Sep 2026 11:30:00 +0200</pubDate>
+      
+      <guid>https://bgronas.github.io/post/2026-09-25-hostens-nutanix-webinarer/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;strong&gt;Høstens konferansesesong er startet for lenge siden – men du kan slippe mange flyreiser.&lt;/strong&gt; Nutanix kjører en rekke gratis, tekniske online webinarer utover høsten. De kan være verdt en liten time (eller to).&lt;/p&gt;
+&lt;p&gt;Fra ditt første Kubernetes-cluster til en ekte enterprise-plattform, GitOps i praksis, datasuverenitet og en hands-on-Lab om fremtidens virtualisering. Her er litt av hvert.  Første multi-rikskringkastning er allerede &lt;strong&gt;onsdag 30. september&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;på-web-norsk-tid&#34;&gt;På Web (Norsk tid)&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Dato&lt;/th&gt;
+          &lt;th&gt;Klokken&lt;/th&gt;
+          &lt;th&gt;Webinar&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ons 30. september&lt;/td&gt;
+          &lt;td&gt;11:00&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://event.nutanix.com/from1clustertoanenterpriseep2&#34;&gt;From Your First Kubernetes Cluster to an Enterprise Platform&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ons 7. oktober&lt;/td&gt;
+          &lt;td&gt;11:00&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://event.nutanix.com/multitenancygitopsinpractep3&#34;&gt;Multitenancy and GitOps in Practice&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Tir 13. oktober&lt;/td&gt;
+          &lt;td&gt;11:00–12:00&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://event.nutanix.com/navigatingdatasovereignty&#34;&gt;Navigating Data Sovereignty in the Hybrid Multicloud Era&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Fre 16. oktober&lt;/td&gt;
+          &lt;td&gt;10:30–12:30&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://event.nutanix.com/thefutureofvirtualizationoct&#34;&gt;The Future of Virtualization&lt;/a&gt; (HANDS ON LAB)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;1-fra-første-cluster-til-enterprise-plattform--30-september&#34;&gt;1. Fra første cluster til enterprise-plattform – 30. september&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;./image-20260925161223489.png&#34; alt=&#34;image-20260925161223489&#34; style=&#34;float: right; width: 10%; max-width: 350px; margin: 0 0 0 10px;&#34; /&gt;Ett enkelt K8s cluster er easy-peacy. 10 clustre lukter plattform. Her går vi fra enkeltcluster til en arkitektur der management og produksjon er skilt i egne workload clusters, med produksjonsklare tjenester, &lt;em&gt;&lt;strong&gt;observability&lt;/strong&gt;&lt;/em&gt; og et privat container registry. Dette er Episode 2 i Kubernetes-serien.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Nutanix User Group 3 September 2026</title>
       <link>https://bgronas.github.io/post/2026-08-29-nutanix-user-group-3-september-2026/</link>
@@ -55,7 +106,7 @@
         
           
             &lt;h1 id=&#34;better--faster-vs-save-power&#34;&gt;Better &amp;amp; faster vs. Save power!&lt;/h1&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;The technological wonders we&amp;rsquo;ve created have undoubtedly made our lives more connected, better and faster. Our dependency on IT infrastructures has grown, and so has also the &lt;em&gt;&lt;strong&gt;demand for power&lt;/strong&gt;&lt;/em&gt;.  But with a  passion for sustainability, let’s talk about the server power-saving techniques, particularly in a vSphere environment.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./assets/1578728-200.png&#34; align=right style=&#34;zoom:80%;&#34; /&gt;The technological wonders we&amp;rsquo;ve created have undoubtedly made our lives more connected, better and faster. Our dependency on IT infrastructures has grown, and so has also the &lt;em&gt;&lt;strong&gt;demand for power&lt;/strong&gt;&lt;/em&gt;.  But with a  passion for sustainability, let’s talk about the server power-saving techniques, particularly in a vSphere environment.&lt;/p&gt;
 &lt;p&gt;In my previous article I talked about the vSphere feature &lt;strong&gt;DPM&lt;/strong&gt;, or Distributed Power Management, to power off hosts dynamically when the demand is low. &lt;a href=&#34;https://bgronas.github.io/post/2023-09-08/&#34;&gt;Go and have a look.&lt;/a&gt;   This article complements the VMware Explore session where my buddy &lt;a href=&#34;vbondzio@vmware.com&#34;&gt;Valentin Bondzio&lt;/a&gt; explained his &amp;ldquo;no Risk HPM&amp;rdquo; methodology. Note: It starts at 27:52 in the session &lt;a href=&#34;https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683885521040001LU2d&amp;amp;videoId=6340794321112&#34;&gt;Orange journey to reduce their carbon emissions &amp;amp; Focus on HPM&lt;/a&gt; - Head over to his Blog &lt;a href=&#34;https://valentin.bondz.io/no-risk-host-power-management/&#34;&gt;No Risk Host Power Management&lt;/a&gt;.&lt;/p&gt;
           
           
@@ -73,15 +124,15 @@
         
           
             &lt;h1 id=&#34;sustainability-is-key-for-eu-organizations&#34;&gt;Sustainability is key for EU organizations&lt;/h1&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;img src=&#34;./assets/image-20230927225014134.png&#34; style=&#34;zoom:40%;float:left;margin:1px 55px 100px 1px;border:2px solid green&#34;/&gt; 
 &lt;p&gt;GREENHOUSE GAS EMMISSIONS (GhG):&lt;/p&gt;
 &lt;p&gt;We&amp;rsquo;re cutting emissions and costs by optimizing workloads and promoting virtualization.&lt;/p&gt;
 &lt;p&gt;A Green Score in Aria Operations tracks progress with five parameters, to target improvements, these are:&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Workload Efficiency, Resource Utilization, Virtualization Rate, power Source, and Hardware Efficiency&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://bgronas.github.io/post/2023-03-27/#hyperscalers-are-power-saving&#34;&gt;The large Hyperscalers are saving&lt;/a&gt;,&lt;/strong&gt; and so should we.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt; &lt;p&gt; &lt;p&gt; &lt;p&gt;
 &lt;h1 id=&#34;vsphere-distributed-power-management&#34;&gt;vSphere Distributed Power Management&lt;/h1&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;img src=&#34;./assets/image-20231122075434152.png&#34; style=&#34;margin:1px 25px 1px 1px;border:1px solid green&#34;/&gt;
 &lt;p&gt;The vSphere Distributed Power Management (&lt;strong&gt;DPM&lt;/strong&gt;) feature optimizes power usage in virtualized data centers by dynamically adjusting server power states based on workload demand, saving energy and costs while maintaining high availability.  Its excellence lies in its ability to optimize power consumption and dynamically adjusts the power state of servers based on workload demand. Unused servers are powered off or placed in a low-power state.  This reduces energy costs, and contributes to environmental sustainability. &lt;strong&gt;So, have you tried to give DPM a second chance?&lt;/strong&gt;  If not, please consider it. For every kilowatt consumed by servers you would need cooling!&lt;/p&gt;
           
           
@@ -128,7 +179,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;img src=&#34;./images/index/image-20230416162218067.png&#34; align=&#34;left&#34; style=&#34;zoom:100%;&#34; /&gt;
 &lt;p&gt;This is the &lt;strong&gt;second&lt;/strong&gt; article containing the practical walk through of an example of how to do this with VMware technology.&lt;/p&gt;
           
           
@@ -215,7 +266,7 @@
 &lt;p&gt;The goal and purpose was that I needed to bypass the &amp;ldquo;&lt;strong&gt;This PC can’t run Windows 11&lt;/strong&gt;&amp;rdquo; problem during an installation of a Windows 11 Virtual Machine (VM) in my test environment.  This DIY recipe will save us the hassle of googling it once again and sorting out the correct article to try out.&lt;/p&gt;
 &lt;h3 id=&#34;this-pc-cant-run-windows-11&#34;&gt;This PC can’t run Windows 11&lt;/h3&gt;
 &lt;p&gt;This happens during an install:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;img src=&#34;./aria-automation/index/ErrorCropped-1670682926123-3.png&#34; alt=&#34;Windows 11 Fresh Install - This PC can&#39;t run Windows 11&#34; style=&#34;zoom:80%;&#34; /&gt;
 &lt;h1 id=&#34;the-solution&#34;&gt;The Solution&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;Go back one step by clicking &lt;strong&gt;top-left blue arrow&lt;/strong&gt;&lt;/li&gt;

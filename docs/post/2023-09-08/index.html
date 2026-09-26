@@ -180,15 +180,15 @@
 
       </div>
     <div class="post_body"><h1 id="sustainability-is-key-for-eu-organizations">Sustainability is key for EU organizations</h1>
-<!-- raw HTML omitted -->
+<img src="./assets/image-20230927225014134.png" style="zoom:40%;float:left;margin:1px 55px 100px 1px;border:2px solid green"/> 
 <p>GREENHOUSE GAS EMMISSIONS (GhG):</p>
 <p>We&rsquo;re cutting emissions and costs by optimizing workloads and promoting virtualization.</p>
 <p>A Green Score in Aria Operations tracks progress with five parameters, to target improvements, these are:</p>
 <p><em>Workload Efficiency, Resource Utilization, Virtualization Rate, power Source, and Hardware Efficiency</em>.</p>
 <p><strong><a href="https://bgronas.github.io/post/2023-03-27/#hyperscalers-are-power-saving">The large Hyperscalers are saving</a>,</strong> and so should we.</p>
-<!-- raw HTML omitted -->
+<p> <p> <p> <p>
 <h1 id="vsphere-distributed-power-management">vSphere Distributed Power Management</h1>
-<!-- raw HTML omitted -->
+<img src="./assets/image-20231122075434152.png" style="margin:1px 25px 1px 1px;border:1px solid green"/>
 <p>The vSphere Distributed Power Management (<strong>DPM</strong>) feature optimizes power usage in virtualized data centers by dynamically adjusting server power states based on workload demand, saving energy and costs while maintaining high availability.  Its excellence lies in its ability to optimize power consumption and dynamically adjusts the power state of servers based on workload demand. Unused servers are powered off or placed in a low-power state.  This reduces energy costs, and contributes to environmental sustainability. <strong>So, have you tried to give DPM a second chance?</strong>  If not, please consider it. For every kilowatt consumed by servers you would need cooling!</p>
 <ul>
 <li>
@@ -254,7 +254,7 @@
 </table>
 <h5 id="for-more-host-power-management-options-have-a-look-at-this">For more Host power management options, <strong><a href="http://localhost:1313/post/2023-10-03/">have a look at this</a></strong></h5>
 <h1 id="powering-off-vms">Powering off VMs</h1>
-<!-- raw HTML omitted -->
+<img src="./assets/image-20230927221609588.png" style="vertical-align:middle;margin:1px 25px 1px 1px;border:1px solid green" />
 <p>I am not going to talk more about Aria Operations much, in which you could Right-size VMs, Reclaim Wastage, Reclaim Hosts, Kill Idle VMs, Optimize Oversized Clusters, do SLA-based Operations, that would contribute to the Greenscore above.</p>
 <p><strong>Servers</strong>, even when idle, consume power, which is a significant cost factor in data centers. By powering off servers (VMs) outside of work hours, we can improve workload efficiency, resource utilization, virtualization rate, power source efficiency, and hardware efficiency, ultimately leading to cost savings and a more sustainable data center operation.</p>
 <p>By shutting down servers during off-hours, have positive effects, we&hellip;</p>
@@ -267,16 +267,16 @@
 </ul>
 <p>Have a look at <a href="https://bgronas.github.io/post/2023-03-27/#an-example-on-how-google-does-it"><strong>what google does</strong></a></p>
 <h1 id="new-and-improved">New and Improved</h1>
-<p><!-- raw HTML omitted --> After a <strong>previous <a href="https://bgronas.github.io/post/2023-03-27/">series of articles</a>,</strong> we&rsquo;ve improved the material behind the scenes. Now, when workloads are deployed, we&rsquo;ve got improved scripting and reduced the number of orchestrator workflows to <!-- raw HTML omitted -->ONE single workflow<!-- raw HTML omitted -->,  and we can choose the <strong>working hours</strong> for the deployed servers in the UI. This means shut-down and Start-up procedures for servers will align more with the business needs and requirements.</p>
+<p><img src="./assets/image-20230927231622744.png" alt="Power Offs" style="float: left; margin: 1px 16px 1px 2px; border: 1px solid black; zoom: 50%;" /> After a <strong>previous <a href="https://bgronas.github.io/post/2023-03-27/">series of articles</a>,</strong> we&rsquo;ve improved the material behind the scenes. Now, when workloads are deployed, we&rsquo;ve got improved scripting and reduced the number of orchestrator workflows to <u>ONE single workflow</u>,  and we can choose the <strong>working hours</strong> for the deployed servers in the UI. This means shut-down and Start-up procedures for servers will align more with the business needs and requirements.</p>
 <h2 id="requesting-a-new-deployment">Requesting a new deployment</h2>
-<p><!-- raw HTML omitted --> <!-- raw HTML omitted -->
+<p><img src="./images/index/image-20230908105357650-1694163243585-1.png"  style="margin:1px 25px 1px 1px;border:1px solid green"/> <br>
 In the Aria Automation Service Broker, ie. the Self Service Portal, I now have a new Catalog Item “<strong>OperatingHours</strong>”, just to separate it from the Previous “Save Power” catalog item. Notice: In the search field, I have typed “power”.
-<!-- raw HTML omitted --><!-- raw HTML omitted -->When I click “Request”, a new Form that differs slightly from the previous form pops up, and we can fill in our deployment name, the VM size, and which environment we would like this server to go into. Note: The server type (Linux/Windows) has been predefined in the Cloud Template for us. Just to make the example easier and more readable.  Let&rsquo;s Click the &ldquo;Powersave Mode&rdquo; checkbox.</p>
+<img src="./images/index/image-20230908105709837-1694163433850-3.png"  style="margin:1px 25px 1px 1px;border:1px solid green"/><br>When I click “Request”, a new Form that differs slightly from the previous form pops up, and we can fill in our deployment name, the VM size, and which environment we would like this server to go into. Note: The server type (Linux/Windows) has been predefined in the Cloud Template for us. Just to make the example easier and more readable.  Let&rsquo;s Click the &ldquo;Powersave Mode&rdquo; checkbox.</p>
 <p>==NEW!==</p>
-<!-- raw HTML omitted -->
+<img src="./images/index/image-20230908110938917-1694164181001-5.png" style="margin:1px 25px 1px 1px;border:1px solid green"/>  
 <p>Two New fields appear, where we can choose the Power On, and Power Off hours. I have selected <strong>06:00</strong> in the morning and <strong>18:00</strong> <code>(6pm)</code> in the evening. Now we just <strong>Submit</strong> it.</p>
 <h3 id="deployment--cloud-template">Deployment + Cloud Template</h3>
-<!-- raw HTML omitted -->
+<img src="./images/index/image-20230908111407427-1694164450000-7.png"  style="margin:1px 25px 1px 1px;border:1px solid green" />
 <p><strong>TAGS:</strong> After the deployment, we’ll see the vSphere tags produced by Aria Automation; <code>poweron: 6, poweroff: 18. os: windows, adv-powersave: true</code></p>
 <p>
   <figure>
@@ -308,7 +308,7 @@ In the Aria Automation Service Broker, ie. the Self Service Portal, I now have a
 
 </p>
 <p>Let’s have a look at what’s behind the scenes! Let’s head over to the Aria Automation Assembler and have a look at our <strong>cloud Template</strong>:</p>
-<!-- raw HTML omitted -->
+<img src="./images/index/image-20230908112712818.png"  style="margin:1px 25px 1px 1px;border:1px solid green" /> 
 <h3 id="the-inputs">The Inputs</h3>
 <p>The Cloud Template inputs are rather easy, and have no magic attached to them</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span>  <span style="color:#75715e"># Inputs to Enable or disable power saving mode, and set times</span>
@@ -347,7 +347,8 @@ In the Aria Automation Service Broker, ie. the Self Service Portal, I now have a
 <li>The Values.  As you can see from the next picture, our values are pre-defined for each hour. A little cumbersome, but it works.</li>
 <li>The Constraints. We just give it an extra check if the constraints are between 1 and 24</li>
 </ol>
-<!-- raw HTML omitted -->
+<img src="./images/index/image-20230908115635390.png" align="left" width="325" style="border:1px solid black" />
+<img src="./images/index/image-20230908114912261-1694166555212-11.png" width="325" style="border:1px solid black" /><img src="./images/index/image-20230908115111537-1694166674840-13.png" width="325" style="border:1px solid black" />
 <h1 id="orchestrator-workflows">Orchestrator Workflows</h1>
 <p>After the deployment, the machine is deployed in vSphere with it’s tags, and for now the Aria Automation job is done, except from the underlying and embedded workflow system Aria Automation Orchestrator.</p>
 <p>We have replaced the previous two workflows with a single workflow, and there is a schedule every hour.</p>
@@ -382,7 +383,7 @@ In the Aria Automation Service Broker, ie. the Self Service Portal, I now have a
 </p>
 <h5 id="a-simple-workflow-with-a-single-python-script">A simple workflow with a single python script</h5>
 <p>Honors to <a href="https://github.com/larols/vmware-aria">Lars Olsson, VMware Sweden</a>, that has provided the Python code and the brains behind it.</p>
-<!-- raw HTML omitted -->
+<img src="./assets/image-20230918154738342.png"  style="margin:1px 25px 1px 1px;border:1px solid green"/>
 <h4 id="checking-the-poweron-and-poweroff-values">Checking the poweron and poweroff values</h4>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#75715e"># Main function to handle power management</span>
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">handler</span>(context, inputs):
@@ -569,8 +570,7 @@ In the Aria Automation Service Broker, ie. the Self Service Portal, I now have a
 </span></span><span style="display:flex;"><span>        <span style="color:#e6db74">f</span><span style="color:#e6db74">&#39;Request to Slack returned an error </span><span style="color:#e6db74">{</span>response<span style="color:#f92672">.</span>status_code<span style="color:#e6db74">}</span><span style="color:#e6db74">, the response is:</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">{</span>response<span style="color:#f92672">.</span>text<span style="color:#e6db74">}</span><span style="color:#e6db74">&#39;</span>
 </span></span><span style="display:flex;"><span>    )
 </span></span></code></pre></div><h5 id="when-time-comes-slack-messages-look-like-this">When time comes, slack messages look like this:</h5>
-<!-- raw HTML omitted -->
-
+<img src="./assets/image-20230918155710484.png"  style="margin:1px 25px 1px 1px;border:1px solid green" />
     </div>
 
 
@@ -585,6 +585,12 @@ In the Aria Automation Service Broker, ie. the Self Service Portal, I now have a
 
 
     
+    <h2 class="mt-4">Utvalgte innlegg</h2>
+    <ul>
+      <li>
+        <a href="https://bgronas.github.io/post/2026-09-25-hostens-nutanix-webinarer/" class="nav-link" title="Høstens Nutanix-webinarer: fra første cluster til suveren plattform">Høstens Nutanix-webinarer: fra første cluster til suveren plattform</a>
+      </li>
+    </ul>
     <h2 class="mt-4">Nye innlegg</h2>
     <ul class="flex-column">
       <li>
@@ -623,7 +629,7 @@ In the Aria Automation Service Broker, ie. the Self Service Portal, I now have a
       <nav class="tags_nav">
         <a href='https://bgronas.github.io/categories/technology/' class="post_tag button button_translucent" title="technology">
           TECHNOLOGY
-          <span class="button_tally">12</span>
+          <span class="button_tally">13</span>
         </a>
         
         <a href='https://bgronas.github.io/categories/orchestration/' class="post_tag button button_translucent" title="orchestration">
@@ -737,6 +743,11 @@ In the Aria Automation Service Broker, ie. the Self Service Portal, I now have a
           <span class="button_tally">3</span>
         </a>
         
+        <a href='https://bgronas.github.io/tags/nutanix/' class="post_tag button button_translucent" title="nutanix">
+          NUTANIX
+          <span class="button_tally">3</span>
+        </a>
+        
         <a href='https://bgronas.github.io/tags/operations/' class="post_tag button button_translucent" title="operations">
           OPERATIONS
           <span class="button_tally">3</span>
@@ -747,13 +758,13 @@ In the Aria Automation Service Broker, ie. the Self Service Portal, I now have a
           <span class="button_tally">2</span>
         </a>
         
-        <a href='https://bgronas.github.io/tags/nug/' class="post_tag button button_translucent" title="nug">
-          NUG
+        <a href='https://bgronas.github.io/tags/k8s/' class="post_tag button button_translucent" title="k8s">
+          K8S
           <span class="button_tally">2</span>
         </a>
         
-        <a href='https://bgronas.github.io/tags/nutanix/' class="post_tag button button_translucent" title="nutanix">
-          NUTANIX
+        <a href='https://bgronas.github.io/tags/nug/' class="post_tag button button_translucent" title="nug">
+          NUG
           <span class="button_tally">2</span>
         </a>
         
@@ -769,6 +780,11 @@ In the Aria Automation Service Broker, ie. the Self Service Portal, I now have a
         
         <a href='https://bgronas.github.io/tags/adventure/' class="post_tag button button_translucent" title="adventure">
           ADVENTURE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://bgronas.github.io/tags/ai/' class="post_tag button button_translucent" title="ai">
+          AI
           <span class="button_tally">1</span>
         </a>
         
@@ -839,11 +855,6 @@ In the Aria Automation Service Broker, ie. the Self Service Portal, I now have a
         
         <a href='https://bgronas.github.io/tags/idrac/' class="post_tag button button_translucent" title="idrac">
           IDRAC
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://bgronas.github.io/tags/k8s/' class="post_tag button button_translucent" title="k8s">
-          K8S
           <span class="button_tally">1</span>
         </a>
         
@@ -939,6 +950,11 @@ In the Aria Automation Service Broker, ie. the Self Service Portal, I now have a
         
         <a href='https://bgronas.github.io/tags/vsphere/' class="post_tag button button_translucent" title="vsphere">
           VSPHERE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://bgronas.github.io/tags/webinar/' class="post_tag button button_translucent" title="webinar">
+          WEBINAR
           <span class="button_tally">1</span>
         </a>
         

@@ -234,7 +234,7 @@ The view is populated by data according to the time interval</li>
 <p>It can also contain business hours or time constraints. This makes a View display less information, and using the <em>Business hours</em> functionality we activate Business Hours for a selected metric.</p>
 <p>Now that we’ve discussed some of the options we have available for us, let us create a system for avoidance of nuances.</p>
 <h1 id="creating-a-maintenance-schedule"><strong>Creating a Maintenance Schedule</strong></h1>
-<!-- raw HTML omitted -->
+<img src="./images/index/image-20230418102715342.png" align="left" style="zoom:80%;" />
 <p>In Aria Operations, Click Configure&gt;<strong>Maintenance Schedules</strong></p>
 <p>Click <strong>Add</strong></p>
 <p>Fill in appropriate values according to the <a href="https://docs.vmware.com/en/vRealize-Operations/8.10/com.vmware.vcom.core.doc/GUID-D1454A8F-6BB0-45EF-BB93-D41045C8AB30.html">documentation</a></p>
@@ -253,18 +253,18 @@ The view is populated by data according to the time interval</li>
 <li>Under the Inherit From, <strong>select</strong> the appropriate policy, usually the default policy from you ‘observation’</li>
 <li>Click <strong>CREATE POLICY</strong></li>
 </ul>
-<!-- raw HTML omitted -->
+<img src="./images/index/image-20230418104054891.png"/>
 <h4 id="business-hour-schedule-in-the-policy">Business Hour schedule in the policy</h4>
 <p>Click on <strong>Capacity</strong></p>
 <p>Click the <strong>LOCK icon</strong> in front of Business Hour Schedule to unlock</p>
 <p>On ‘Monday’, narrow down you time from 6:00 AM to 6:00 PM, The click <strong>SET ALL</strong>
-<!-- raw HTML omitted --></p>
+<img src="./images/index/image-20230418101224978.png"/></p>
 <h4 id="run-maintenance-mode-in-the-policy">Run maintenance mode in the policy</h4>
 <p>Select Object Type: <strong>Virtual Machine</strong></p>
 <p>Click <strong>the Lock</strong> in front of <em>Maintenance Schedule</em> to unlock it</p>
 <p>Select the previous Maintenance Schedule we made: <strong>powersave schedule</strong></p>
 <p>Click <strong>Save</strong></p>
-<!-- raw HTML omitted -->
+<img src="./images/index/image-20230418104651450.png"/>
 <h2 id="create-a-custom-group">Create a Custom Group</h2>
 <p>Sometimes we want a per/Business Unit or a per/department group, or in our case we would like to sort out workloads or data based on the tag powersave=true, and then use it as a foundation for displaying or sorting data in views and dashboards and also to add a policy to that group.</p>
 <p>In Aria Operations, go to environment&gt;custom groups and click <strong>add</strong></p>
@@ -320,6 +320,12 @@ The view is populated by data according to the time interval</li>
 
 
     
+    <h2 class="mt-4">Utvalgte innlegg</h2>
+    <ul>
+      <li>
+        <a href="https://bgronas.github.io/post/2026-09-25-hostens-nutanix-webinarer/" class="nav-link" title="Høstens Nutanix-webinarer: fra første cluster til suveren plattform">Høstens Nutanix-webinarer: fra første cluster til suveren plattform</a>
+      </li>
+    </ul>
     <h2 class="mt-4">Nye innlegg</h2>
     <ul class="flex-column">
       <li>
@@ -358,7 +364,7 @@ The view is populated by data according to the time interval</li>
       <nav class="tags_nav">
         <a href='https://bgronas.github.io/categories/technology/' class="post_tag button button_translucent" title="technology">
           TECHNOLOGY
-          <span class="button_tally">12</span>
+          <span class="button_tally">13</span>
         </a>
         
         <a href='https://bgronas.github.io/categories/orchestration/' class="post_tag button button_translucent" title="orchestration">
@@ -472,6 +478,11 @@ The view is populated by data according to the time interval</li>
           <span class="button_tally">3</span>
         </a>
         
+        <a href='https://bgronas.github.io/tags/nutanix/' class="post_tag button button_translucent" title="nutanix">
+          NUTANIX
+          <span class="button_tally">3</span>
+        </a>
+        
         <a href='https://bgronas.github.io/tags/operations/' class="post_tag button button_translucent" title="operations">
           OPERATIONS
           <span class="button_tally">3</span>
@@ -482,13 +493,13 @@ The view is populated by data according to the time interval</li>
           <span class="button_tally">2</span>
         </a>
         
-        <a href='https://bgronas.github.io/tags/nug/' class="post_tag button button_translucent" title="nug">
-          NUG
+        <a href='https://bgronas.github.io/tags/k8s/' class="post_tag button button_translucent" title="k8s">
+          K8S
           <span class="button_tally">2</span>
         </a>
         
-        <a href='https://bgronas.github.io/tags/nutanix/' class="post_tag button button_translucent" title="nutanix">
-          NUTANIX
+        <a href='https://bgronas.github.io/tags/nug/' class="post_tag button button_translucent" title="nug">
+          NUG
           <span class="button_tally">2</span>
         </a>
         
@@ -504,6 +515,11 @@ The view is populated by data according to the time interval</li>
         
         <a href='https://bgronas.github.io/tags/adventure/' class="post_tag button button_translucent" title="adventure">
           ADVENTURE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://bgronas.github.io/tags/ai/' class="post_tag button button_translucent" title="ai">
+          AI
           <span class="button_tally">1</span>
         </a>
         
@@ -574,11 +590,6 @@ The view is populated by data according to the time interval</li>
         
         <a href='https://bgronas.github.io/tags/idrac/' class="post_tag button button_translucent" title="idrac">
           IDRAC
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://bgronas.github.io/tags/k8s/' class="post_tag button button_translucent" title="k8s">
-          K8S
           <span class="button_tally">1</span>
         </a>
         
@@ -674,6 +685,11 @@ The view is populated by data according to the time interval</li>
         
         <a href='https://bgronas.github.io/tags/vsphere/' class="post_tag button button_translucent" title="vsphere">
           VSPHERE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://bgronas.github.io/tags/webinar/' class="post_tag button button_translucent" title="webinar">
+          WEBINAR
           <span class="button_tally">1</span>
         </a>
         

@@ -163,3 +163,9 @@ page = ["HTML"]
     name = "date"
     weight = 10
     pattern = "2006"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+	  

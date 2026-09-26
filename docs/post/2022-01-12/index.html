@@ -192,14 +192,14 @@ This can either be included together with vRealize Automation, or, a standalone 
 <h2 id="add-the-management-pack-into-vrealize-operations">Add the management pack into vRealize operations</h2>
 <ol>
 <li>Open vROps, log in, and go to Data Sources&gt;Repository, and Click &ldquo;Add&rdquo;</li>
-<li>Browse for the management pack and select Reset default content and make sure you overwrite a potential older management pack: <!-- raw HTML omitted --></li>
+<li>Browse for the management pack and select Reset default content and make sure you overwrite a potential older management pack: <img src="Screenshot%202022-01-12%2021.05.21.jpg" alt="Screenshot 2022-01-12 21.05.21" style="zoom:25%;" /></li>
 <li>When the thing is finished installing, go to Integrations, Accounts, and add a new account using the vRealize Orchestrator adapter, Fill in the Orchestrator FQDN, Port (443), and click the &lsquo;+&rsquo; to add your credentials
-<!-- raw HTML omitted --></li>
+<img src="/../../post/2022-01-12/image-20220112211924278.png" alt="image-20220112211924278" style="zoom:25%;" /></li>
 </ol>
 <p>Add your credentials and click OK. I&rsquo;ve used my &lsquo;configadmin&rsquo; user for vRA that will access everything.
-<!-- raw HTML omitted --></p>
+<img src="./image-20220112212050223.png" alt="image-20220112212050223" style="zoom:33%;" /></p>
 <p>Click validate connection and then cick OK after validation.
-<!-- raw HTML omitted --></p>
+<img src="image-20220112212153479.png" alt="image-20220112212153479" style="zoom:33%;" /></p>
 <p><strong>Fetch the workflows</strong></p>
 <p>Right, So now the Management Pack is installed, and Configured. Now we need to see if vRealize Operations is fetching the wokflows from vRealize Orchestrator</p>
 <ol>
@@ -208,20 +208,20 @@ This can either be included together with vRealize Automation, or, a standalone 
 </li>
 <li>
 <p><strong>Environment</strong> &gt; <strong>Object browser</strong>. click your connector and drop down the actions menu, then select <strong>Import</strong> vROps package to vRO, choose overwrite, <strong>Begin Action</strong>, make sure the recent tasks shows <em>Complete</em>:
-<!-- raw HTML omitted --></p>
+<img src="image-20220112214909488.png" alt="image-20220112214909488" style="zoom:25%;" /></p>
 </li>
 <li>
 <p>Under Object browser, in the actions menu choose <strong>Configure Package Discovery</strong>, Choose <strong>Begin Action</strong>
-<!-- raw HTML omitted --></p>
+<img src="image-20220112215322822.png" alt="image-20220112215322822" style="zoom: 25%;" /></p>
 </li>
 <li>
 <p>Continue the process to <strong>Add a vCenter to vRO.</strong> and Begin Action
-<!-- raw HTML omitted --></p>
+<img src="image-20220112215539969.png" alt="image-20220112215539969" style="zoom:25%;" /></p>
 </li>
 <li>
 <p>Select your vCenter, Fill in user name (ie. <a href="mailto:administrator@vsphere.local">administrator@vsphere.local</a> or some fantastic power user), password, and domain (typically <em>vsphere.local</em>)</p>
-<p>WARNING: Before click &lsquo;Begin Action&rsquo; make sure you have <!-- raw HTML omitted -->removed<!-- raw HTML omitted --> the checkbox for &ldquo;Session per User&rdquo;
-<!-- raw HTML omitted --></p>
+<p>WARNING: Before click &lsquo;Begin Action&rsquo; make sure you have <u>removed</u> the checkbox for &ldquo;Session per User&rdquo;
+<img src="image-20220210161326961.png" alt="image-20220210161326961" style="zoom:80%;" /></p>
 </li>
 <li>
 <p>Warning:   If you understood what checkbox you shoudl uncheck, just Click <strong>Begin Action</strong></p>
@@ -233,19 +233,19 @@ This can either be included together with vRealize Automation, or, a standalone 
 <li>Click <strong>Environment</strong> &gt; <strong>Inventory</strong>, and select <strong>Adapter Types</strong>, and then the <strong>vRealize Orchestrator adapter</strong>.</li>
 <li>We should now see the objects list populated with all the workflows:</li>
 </ol>
-<!-- raw HTML omitted -->
+<img src="image-20220112220335041.png" alt="image-20220112220335041" style="zoom:33%;" />
 <h2 id="lets-do-the-policy-work">Let&rsquo;s do the Policy work.</h2>
 <ol>
 <li>Go to <strong>Administration</strong> &gt; <strong>Policies</strong>, edit our active and default policy.  Select <strong>Alerts and Symptoms</strong> , find the Alert Definition associated with the Symptom/Recommendation/Action you want to automate, or just select all, click the ACTIONS drop down, <strong>Automate</strong> &gt; <strong>Enable</strong></li>
 <li>
-<!-- raw HTML omitted -->
+<img src="image-20220112224402563.png" alt="image-20220112224402563" style="zoom:33%;" />
 </li>
 </ol>
 <h2 id="enable-management-pack-in-policies">Enable management pack in policies</h2>
 <p>Now we need to enable the Management pack for your policies so it can be used by the different vRealize Operations objects (meaning VM-s).</p>
 <ol>
 <li>
-<p>In vROps goto <strong>Configure, Policies</strong>, and click on your <!-- raw HTML omitted -->D<!-- raw HTML omitted -->efault policy</p>
+<p>In vROps goto <strong>Configure, Policies</strong>, and click on your <u>D</u>efault policy</p>
 <p>
   <figure>
   <picture>
@@ -348,11 +348,11 @@ This can either be included together with vRealize Automation, or, a standalone 
 <ol>
 <li>
 <p>From the list of objects, choose <strong>vRO Reboot VM</strong>, and select <strong>Create / Modify Workflow Action on vCenter Resources&hellip;</strong> from the Actions menu
-<!-- raw HTML omitted --></p>
+<img src="image-20220112221127108.png" alt="image-20220112221127108" style="zoom:33%;" /></p>
 </li>
 <li>
 <p>For Resource Type and Target Resource Type, Select <strong>Virtual Machine</strong>, for Operation Select Add, then click <strong>Begin Action</strong> and OK</p>
-<!-- raw HTML omitted -->
+<img src="image-20220112222224962.png" alt="image-20220112222224962" style="zoom:33%;" />
 </li>
 </ol>
 
@@ -370,6 +370,12 @@ This can either be included together with vRealize Automation, or, a standalone 
 
 
     
+    <h2 class="mt-4">Utvalgte innlegg</h2>
+    <ul>
+      <li>
+        <a href="https://bgronas.github.io/post/2026-09-25-hostens-nutanix-webinarer/" class="nav-link" title="Høstens Nutanix-webinarer: fra første cluster til suveren plattform">Høstens Nutanix-webinarer: fra første cluster til suveren plattform</a>
+      </li>
+    </ul>
     <h2 class="mt-4">Nye innlegg</h2>
     <ul class="flex-column">
       <li>
@@ -408,7 +414,7 @@ This can either be included together with vRealize Automation, or, a standalone 
       <nav class="tags_nav">
         <a href='https://bgronas.github.io/categories/technology/' class="post_tag button button_translucent" title="technology">
           TECHNOLOGY
-          <span class="button_tally">12</span>
+          <span class="button_tally">13</span>
         </a>
         
         <a href='https://bgronas.github.io/categories/orchestration/' class="post_tag button button_translucent" title="orchestration">
@@ -522,6 +528,11 @@ This can either be included together with vRealize Automation, or, a standalone 
           <span class="button_tally">3</span>
         </a>
         
+        <a href='https://bgronas.github.io/tags/nutanix/' class="post_tag button button_translucent" title="nutanix">
+          NUTANIX
+          <span class="button_tally">3</span>
+        </a>
+        
         <a href='https://bgronas.github.io/tags/operations/' class="post_tag button button_translucent" title="operations">
           OPERATIONS
           <span class="button_tally">3</span>
@@ -532,13 +543,13 @@ This can either be included together with vRealize Automation, or, a standalone 
           <span class="button_tally">2</span>
         </a>
         
-        <a href='https://bgronas.github.io/tags/nug/' class="post_tag button button_translucent" title="nug">
-          NUG
+        <a href='https://bgronas.github.io/tags/k8s/' class="post_tag button button_translucent" title="k8s">
+          K8S
           <span class="button_tally">2</span>
         </a>
         
-        <a href='https://bgronas.github.io/tags/nutanix/' class="post_tag button button_translucent" title="nutanix">
-          NUTANIX
+        <a href='https://bgronas.github.io/tags/nug/' class="post_tag button button_translucent" title="nug">
+          NUG
           <span class="button_tally">2</span>
         </a>
         
@@ -554,6 +565,11 @@ This can either be included together with vRealize Automation, or, a standalone 
         
         <a href='https://bgronas.github.io/tags/adventure/' class="post_tag button button_translucent" title="adventure">
           ADVENTURE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://bgronas.github.io/tags/ai/' class="post_tag button button_translucent" title="ai">
+          AI
           <span class="button_tally">1</span>
         </a>
         
@@ -624,11 +640,6 @@ This can either be included together with vRealize Automation, or, a standalone 
         
         <a href='https://bgronas.github.io/tags/idrac/' class="post_tag button button_translucent" title="idrac">
           IDRAC
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://bgronas.github.io/tags/k8s/' class="post_tag button button_translucent" title="k8s">
-          K8S
           <span class="button_tally">1</span>
         </a>
         
@@ -724,6 +735,11 @@ This can either be included together with vRealize Automation, or, a standalone 
         
         <a href='https://bgronas.github.io/tags/vsphere/' class="post_tag button button_translucent" title="vsphere">
           VSPHERE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://bgronas.github.io/tags/webinar/' class="post_tag button button_translucent" title="webinar">
+          WEBINAR
           <span class="button_tally">1</span>
         </a>
         

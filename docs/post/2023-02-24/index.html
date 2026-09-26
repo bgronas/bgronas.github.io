@@ -190,18 +190,18 @@
 <p>** Note: If you can&rsquo;t find stuff ** - Exit Broadcom and go see: <a href="https://www.youtube.com/@Nutanix/videos">NUTANIX videos</a></p></blockquote>
 <h2 id="add-the-management-pack">Add the management pack.</h2>
 <p>Open vROps, log in, and go to Data Sources&gt;Repository, and Click &ldquo;Add&rdquo;, then Browse for the management pack and select Reset default content and make sure you overwrite a potential older management pack. Just follow the Wizard.</p>
-<!-- raw HTML omitted -->
+<img src="./images/index/image-20230224110559728.png" style="zoom:80%;" />
 <h2 id="configure-add-a-connection">Configure (add a connection)</h2>
-<!-- raw HTML omitted -->
+<img src="./images/index/image-20230224123622491.png" align="right" style="zoom:80%;" />
 <p>Go to <strong>Data Sources</strong> &gt; <strong>Integrations</strong>, <strong>Repository</strong>, and then click <strong>Add</strong>. Select the VMware vRealize Orchestrator management pack and click <strong>Add Account</strong>.</p>
 <p>Fill in your values for Name, Description, vRO (really the VRA) host, Port 443, Auto Discovery: true, and the parameters that are right for your environment under the credentials, click the ‘+’ to add a credential.</p>
-<!-- raw HTML omitted -->
+<img src="./images/index/image-20230224123807157.png" style="zoom:80%;" >
 <p>Accept the certificate, and Click  <strong>Validate Connection</strong> to validate the connection.</p>
 <p>Either it validates OK, but here’s my tip if you don’t succeed and get an error like this:<br>
-<!-- raw HTML omitted --></p>
+<img src="./images/index/image-20230224124004914.png" style="zoom:80%;" /></p>
 <h2 id="enabling-basic-auth-on-vro">Enabling basic auth on vRO</h2>
-<p>Enable <a href="https://docs.vmware.com/en/vRealize-Orchestrator/8.11/com.vmware.vrealize.orchestrator-install-config.doc/GUID-30026BCF-DC1F-471E-A63C-A29E85FBDD41.html">basic auth in vRO</a> - https://vRA_vRO_fqdn/vco-controlcenter . Add a <a href="https://docs.vmware.com/en/vRealize-Orchestrator/8.11/com.vmware.vrealize.orchestrator-install-config.doc/GUID-30026BCF-DC1F-471E-A63C-A29E85FBDD41.html">new property</a>   <em>com.vmware.o11n.sso.basic-authentication.enabled</em> and set it to <em>true</em><!-- raw HTML omitted --></p>
-<!-- raw HTML omitted -->
+<p>Enable <a href="https://docs.vmware.com/en/vRealize-Orchestrator/8.11/com.vmware.vrealize.orchestrator-install-config.doc/GUID-30026BCF-DC1F-471E-A63C-A29E85FBDD41.html">basic auth in vRO</a> - https://vRA_vRO_fqdn/vco-controlcenter . Add a <a href="https://docs.vmware.com/en/vRealize-Orchestrator/8.11/com.vmware.vrealize.orchestrator-install-config.doc/GUID-30026BCF-DC1F-471E-A63C-A29E85FBDD41.html">new property</a>   <em>com.vmware.o11n.sso.basic-authentication.enabled</em> and set it to <em>true</em><img src="./images/index/image-20230224124147821.png" align="right"/></p>
+<img src="./images/index/image-20230224124346899.png" align="left" /> 
 <p>note: it will reboot your vRealize Orchestrator server. Just wait for that. It&rsquo;s time for a coffee.</p>
 <p>If you encounter connectivity issues between vRealize Operations and vRealize Automation, you may need to wait for 6-10 minutes for Orchestrator to come back online. Once it&rsquo;s online, you can retry the <strong>validate connection</strong> process from vRealize Operations to vRealize Automation. This should help you achieve success.</p>
 <p>After validating the connection, it&rsquo;s important to check the Collection Status to ensure it&rsquo;s OK before proceeding to the next step. To do this, go to the Solutions page and verify that the Collection State column and Collection Status are <strong>green</strong> under Configured Adapter Instances. Note that the Collection Status will initially display <em>Data Receiving</em> after the first collection cycle, which is every 5 minutes.</p>
@@ -273,7 +273,7 @@
 <h2 id="package-discovery">Package Discovery</h2>
 <p>Back to the <code>Environment&gt;Object Browser&gt;Environments&gt;VMware vRealize Orchestrator, then click [your adapter instance]</code> .  On the <strong>Actions</strong> menu select <strong>Configure Package Discovery</strong>, and then click <strong>Begin Action</strong>. Again there is no tip or magic here. This should tak just a few seconds.</p>
 <h2 id="get-workflows-onto-the-actons-menu">Get Workflows onto the Actons Menu</h2>
-<p><!-- raw HTML omitted -->You can map custom and user-defined workflows to actions. Repeat the task to add one workflow to more than one resource. You can perform this task for multiple workflows simultaneously within a package by running the same action on a package resource.</p>
+<p><img src="./images/index/image-20230225112239917.png" align="left" style="zoom:70%;" />You can map custom and user-defined workflows to actions. Repeat the task to add one workflow to more than one resource. You can perform this task for multiple workflows simultaneously within a package by running the same action on a package resource.</p>
 <p>&lt;– Let’s see what actions are already there. On the search menu on top, find a windows or Linux VM. In my example I’m found my tes VM called  <em>win11</em></p>
 <p>As you can see from the list, I’ve already got lots of items there, but now I’d like to add more actions I can perform.</p>
 <p>Again, go to <code>Environment&gt;Object Browser&gt;Environments&gt;VMware vRealize Orchestrator, then click [your adapter instance]</code> .  On the <strong>actions</strong> menu select <strong>Create/Modify Workflow Action on vCenter Resources</strong>. Let’s select One that’s not in my list already, Let’s try the “<strong>Rename virtual machine</strong>”.</p>
@@ -308,7 +308,7 @@
 </p>
 <p>Then just Click: <strong>Begin Action</strong></p>
 <p>This might take some time and you might hit refresh a few times after the task has ended. But in the end you’ll end up with a new and improved Action menu.</p>
-<!-- raw HTML omitted -->
+<img src="./images/index/image-20230225114022290.png" alt="image-20230225114022290" style="zoom:80%;" />
 <h2 id="end-words">End Words</h2>
 <ul>
 <li>
@@ -339,6 +339,12 @@
 
 
     
+    <h2 class="mt-4">Utvalgte innlegg</h2>
+    <ul>
+      <li>
+        <a href="https://bgronas.github.io/post/2026-09-25-hostens-nutanix-webinarer/" class="nav-link" title="Høstens Nutanix-webinarer: fra første cluster til suveren plattform">Høstens Nutanix-webinarer: fra første cluster til suveren plattform</a>
+      </li>
+    </ul>
     <h2 class="mt-4">Nye innlegg</h2>
     <ul class="flex-column">
       <li>
@@ -377,7 +383,7 @@
       <nav class="tags_nav">
         <a href='https://bgronas.github.io/categories/technology/' class="post_tag button button_translucent" title="technology">
           TECHNOLOGY
-          <span class="button_tally">12</span>
+          <span class="button_tally">13</span>
         </a>
         
         <a href='https://bgronas.github.io/categories/orchestration/' class="post_tag button button_translucent" title="orchestration">
@@ -491,6 +497,11 @@
           <span class="button_tally">3</span>
         </a>
         
+        <a href='https://bgronas.github.io/tags/nutanix/' class="post_tag button button_translucent" title="nutanix">
+          NUTANIX
+          <span class="button_tally">3</span>
+        </a>
+        
         <a href='https://bgronas.github.io/tags/operations/' class="post_tag button button_translucent" title="operations">
           OPERATIONS
           <span class="button_tally">3</span>
@@ -501,13 +512,13 @@
           <span class="button_tally">2</span>
         </a>
         
-        <a href='https://bgronas.github.io/tags/nug/' class="post_tag button button_translucent" title="nug">
-          NUG
+        <a href='https://bgronas.github.io/tags/k8s/' class="post_tag button button_translucent" title="k8s">
+          K8S
           <span class="button_tally">2</span>
         </a>
         
-        <a href='https://bgronas.github.io/tags/nutanix/' class="post_tag button button_translucent" title="nutanix">
-          NUTANIX
+        <a href='https://bgronas.github.io/tags/nug/' class="post_tag button button_translucent" title="nug">
+          NUG
           <span class="button_tally">2</span>
         </a>
         
@@ -523,6 +534,11 @@
         
         <a href='https://bgronas.github.io/tags/adventure/' class="post_tag button button_translucent" title="adventure">
           ADVENTURE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://bgronas.github.io/tags/ai/' class="post_tag button button_translucent" title="ai">
+          AI
           <span class="button_tally">1</span>
         </a>
         
@@ -593,11 +609,6 @@
         
         <a href='https://bgronas.github.io/tags/idrac/' class="post_tag button button_translucent" title="idrac">
           IDRAC
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://bgronas.github.io/tags/k8s/' class="post_tag button button_translucent" title="k8s">
-          K8S
           <span class="button_tally">1</span>
         </a>
         
@@ -693,6 +704,11 @@
         
         <a href='https://bgronas.github.io/tags/vsphere/' class="post_tag button button_translucent" title="vsphere">
           VSPHERE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://bgronas.github.io/tags/webinar/' class="post_tag button button_translucent" title="webinar">
+          WEBINAR
           <span class="button_tally">1</span>
         </a>
         

@@ -190,7 +190,7 @@
 </ul>
 </li>
 </ul>
-<!-- raw HTML omitted -->
+<img src="./images/index/image-20230416162218067.png" align="left" style="zoom:100%;" />
 <p>This is the <strong>second</strong> article containing the practical walk through of an example of how to do this with VMware technology.</p>
 <p>Note: If you missed the Hyperscaler discussion and how Hyperscalers actually power off and power on VMs on a schedule, and also <strong><code>“the WHY”</code></strong>, then please go ahead and read up on the article <a href="https://bgronas.github.io/post/2023-03-27/">IaaS Automated Powersaving, Green Sustainability - Pt.1</a></p>
 <p>.</p>
@@ -199,7 +199,7 @@
 <p>Since you are aware of costs of your Infrastructure, you are probably using more than one technology from VMware.</p>
 <p>In this article I have made a suggestion using  Orchestrator, Python, and Aria (Aria) Automation to accomplish a simple way to implement Power Off and Power On schedules for you Datacenter.</p>
 <h3 id="requirements">Requirements</h3>
-<p>To go through with this you need <!-- raw HTML omitted -->Aria Automation<!-- raw HTML omitted -->. Aria Automation contains Aria Orchestrator and Aria Service Broker that we show in this context.  <em>Aria Automation also contains SaltStack Config but we’re not using that this time.</em></p>
+<p>To go through with this you need <u>Aria Automation</u>. Aria Automation contains Aria Orchestrator and Aria Service Broker that we show in this context.  <em>Aria Automation also contains SaltStack Config but we’re not using that this time.</em></p>
 <p>A little Python knowledge is OK, but not necessary, because we are providing you with the scripts you need.</p>
 <h1 id="using-the-self-service-portal"><strong>Using the Self Service portal</strong></h1>
 <h3 id="requesting-a-deployment-with-power-save">Requesting a deployment with power save</h3>
@@ -235,7 +235,7 @@
 <h4 id="request">Request</h4>
 <p>When we click <strong>Request</strong> I am presented with a <code>Request</code> form with a possibility to change <strong>Power Save</strong> and <strong>VM Size</strong>.
 Both of which will affect our savings:</p>
-<!-- raw HTML omitted -->
+<img src="./images/index/image-20230424102329856.png" style="zoom:75%;" />
 <p>By clicking the <strong>information icons</strong> on those two options, we can get more information about the different options.</p>
 <blockquote>
 <p>Note that We’ve chose to keep it simple with enforced power off at 18:00 and power on at 06:00, this could of course be customizable, but there are multiple reasons to keep it simple.</p></blockquote>
@@ -303,8 +303,8 @@ Both of which will affect our savings:</p>
 </p>
 <h4 id="price">Price</h4>
 <p>Since our Automaton System (Aria Automation) is has the ability to use pricecards or be connected to the Operations system (Aria Operations) with price cards we can also Calculate the monthly price for the several options   e.g. when we choose a <strong>X-large</strong> or a <strong>small server</strong>.</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+<img src="./images/index/image-20230416135215371.png" align="left" style="zoom: 72%;" />
+<img src="./images/index/image-20230416135327839.png" align="middle" style="zoom:72%;" /> 
 <h2 id="slack-notification">Slack Notification</h2>
 <p>The end result is that every morning and every evening there is a Power On and Off of the servers tagged with powersave = true. There is a slack notification each time:</p>
 <p>
@@ -339,10 +339,10 @@ Both of which will affect our savings:</p>
 <p>See further down for explanation about the Slack portion of the Python script that makes this happen.</p>
 <h1 id="behind-the-scenes-">**Behind the Scenes **</h1>
 <h1 id="aria-automation-cloud-template">Aria Automation Cloud Template</h1>
-<p><!-- raw HTML omitted --> The blueprint aka. Cloud template:  Behind the Self Service choice there is a simple Cloud Template, in other words a declarative language, such as YAML  containing Infrastructure as Code (IaC) to define our  desired state of our cloud infrastructure.</p>
+<p><img src="./images/index/image-20230416171433416.png" align="left"/> The blueprint aka. Cloud template:  Behind the Self Service choice there is a simple Cloud Template, in other words a declarative language, such as YAML  containing Infrastructure as Code (IaC) to define our  desired state of our cloud infrastructure.</p>
 <blockquote>
 <p>You can find a <strong>Github</strong> IaC YAML code with a  <a href="https://github.com/VMwareAria/cloud-templates/blob/2debc41fe1b95e17a28c202eb05da0b31daa64d4/powersave/blueprint.yaml">copy of the template here</a></p></blockquote>
-<p><!-- raw HTML omitted -->The tagging: The main thing about the Cloud template and the VM you are about to create is that is has a specific TAG. The Tag is created with this code snippet within the cloud template:</p>
+<p><img src="./images/index/image-20230416171507115.png" align="left" />The tagging: The main thing about the Cloud template and the VM you are about to create is that is has a specific TAG. The Tag is created with this code snippet within the cloud template:</p>
 <pre><code>  tags:
     - key: os
       value: windows
@@ -350,7 +350,7 @@ Both of which will affect our savings:</p>
       value: ${input.powersave}
 </code></pre>
 <h4 id="vsphere-tags--in-vsphere-in-the-vcenter-this-tagging-is-reflected">vSphere Tags:  in vSphere in the vCenter, this tagging is reflected</h4>
-<!-- raw HTML omitted -->
+<img src="./images/index/image-20230416151628583.png" style="zoom:80%;" />
 <h2 id="the-orchestrator-workflow-and-schedule">The Orchestrator workflow and Schedule</h2>
 <p>To make sure machines marked (tagged) with the <strong><code>powersave = true</code></strong> tag will run as scheduled. We have created two Scheduled Workflows. One for 06:00:00 in the morning that will power on VMs, and One at 18:00:00 (6pm) that will power off VMs.  Both of these two scheduled workflows calls the workflow named “bgro-powersave-schedule”.</p>
 <p>
@@ -570,6 +570,12 @@ Both of which will affect our savings:</p>
 
 
     
+    <h2 class="mt-4">Utvalgte innlegg</h2>
+    <ul>
+      <li>
+        <a href="https://bgronas.github.io/post/2026-09-25-hostens-nutanix-webinarer/" class="nav-link" title="Høstens Nutanix-webinarer: fra første cluster til suveren plattform">Høstens Nutanix-webinarer: fra første cluster til suveren plattform</a>
+      </li>
+    </ul>
     <h2 class="mt-4">Nye innlegg</h2>
     <ul class="flex-column">
       <li>
@@ -608,7 +614,7 @@ Both of which will affect our savings:</p>
       <nav class="tags_nav">
         <a href='https://bgronas.github.io/categories/technology/' class="post_tag button button_translucent" title="technology">
           TECHNOLOGY
-          <span class="button_tally">12</span>
+          <span class="button_tally">13</span>
         </a>
         
         <a href='https://bgronas.github.io/categories/orchestration/' class="post_tag button button_translucent" title="orchestration">
@@ -722,6 +728,11 @@ Both of which will affect our savings:</p>
           <span class="button_tally">3</span>
         </a>
         
+        <a href='https://bgronas.github.io/tags/nutanix/' class="post_tag button button_translucent" title="nutanix">
+          NUTANIX
+          <span class="button_tally">3</span>
+        </a>
+        
         <a href='https://bgronas.github.io/tags/operations/' class="post_tag button button_translucent" title="operations">
           OPERATIONS
           <span class="button_tally">3</span>
@@ -732,13 +743,13 @@ Both of which will affect our savings:</p>
           <span class="button_tally">2</span>
         </a>
         
-        <a href='https://bgronas.github.io/tags/nug/' class="post_tag button button_translucent" title="nug">
-          NUG
+        <a href='https://bgronas.github.io/tags/k8s/' class="post_tag button button_translucent" title="k8s">
+          K8S
           <span class="button_tally">2</span>
         </a>
         
-        <a href='https://bgronas.github.io/tags/nutanix/' class="post_tag button button_translucent" title="nutanix">
-          NUTANIX
+        <a href='https://bgronas.github.io/tags/nug/' class="post_tag button button_translucent" title="nug">
+          NUG
           <span class="button_tally">2</span>
         </a>
         
@@ -754,6 +765,11 @@ Both of which will affect our savings:</p>
         
         <a href='https://bgronas.github.io/tags/adventure/' class="post_tag button button_translucent" title="adventure">
           ADVENTURE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://bgronas.github.io/tags/ai/' class="post_tag button button_translucent" title="ai">
+          AI
           <span class="button_tally">1</span>
         </a>
         
@@ -824,11 +840,6 @@ Both of which will affect our savings:</p>
         
         <a href='https://bgronas.github.io/tags/idrac/' class="post_tag button button_translucent" title="idrac">
           IDRAC
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://bgronas.github.io/tags/k8s/' class="post_tag button button_translucent" title="k8s">
-          K8S
           <span class="button_tally">1</span>
         </a>
         
@@ -924,6 +935,11 @@ Both of which will affect our savings:</p>
         
         <a href='https://bgronas.github.io/tags/vsphere/' class="post_tag button button_translucent" title="vsphere">
           VSPHERE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://bgronas.github.io/tags/webinar/' class="post_tag button button_translucent" title="webinar">
+          WEBINAR
           <span class="button_tally">1</span>
         </a>
         

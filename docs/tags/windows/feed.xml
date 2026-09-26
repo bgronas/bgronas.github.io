@@ -20,7 +20,7 @@
 &lt;p&gt;The goal and purpose was that I needed to bypass the &amp;ldquo;&lt;strong&gt;This PC can’t run Windows 11&lt;/strong&gt;&amp;rdquo; problem during an installation of a Windows 11 Virtual Machine (VM) in my test environment.  This DIY recipe will save us the hassle of googling it once again and sorting out the correct article to try out.&lt;/p&gt;
 &lt;h3 id=&#34;this-pc-cant-run-windows-11&#34;&gt;This PC can’t run Windows 11&lt;/h3&gt;
 &lt;p&gt;This happens during an install:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;img src=&#34;./aria-automation/index/ErrorCropped-1670682926123-3.png&#34; alt=&#34;Windows 11 Fresh Install - This PC can&#39;t run Windows 11&#34; style=&#34;zoom:80%;&#34; /&gt;
 &lt;h1 id=&#34;the-solution&#34;&gt;The Solution&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;Go back one step by clicking &lt;strong&gt;top-left blue arrow&lt;/strong&gt;&lt;/li&gt;

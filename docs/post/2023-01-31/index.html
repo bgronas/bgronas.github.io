@@ -179,7 +179,7 @@
     <div class="post_body"><p><strong>What if you are Unable to bring your vRealize (Aria) Operations cluster online because one or more nodes are out of disk space. Let&rsquo;s see if the log disk is the problem and try to fix it</strong></p>
 <p>The goal is to find out if the Log disk is full and how to clean it and hopefully you save some time with this mini-Recipe that will show you how to investigate the &ldquo;Unable to bring the cluster online because one or more nodes are out of disk space.&rdquo; error in the Admin console of vRealize Operations and what to check.</p>
 <h2 id="the-admin-console">The Admin Console</h2>
-<!-- raw HTML omitted -->
+<img src="./aria-automation/index/image-20230131130004842-1675166417559-1.png" alt="image-20230131130004842" style="zoom:80%;" />
 <p>From the admin-gui <code>https://&lt;vropsFQDN&gt;/admin</code>, my cluster is not running, it is out of disk space, I am running vrops v8.10, and SSH is enabled. If SSH is not enabled, do it now. We also see the same above from the <em>cluster status</em> &ldquo;Unable to bring the cluster online because one or more nodes are out of disk space&rdquo;.  Note: If you should force it online now, nothing would happen and the status would end up exactly the same.</p>
 <h2 id="ssh-to-vrops-check-space">SSH to vROps, check space</h2>
 <p>You can use putty or a windows command line to SSH into the vrops virtual appliance instance. After you&rsquo;ve logged on, go ahead and issue a <code>df</code>, or <code>df -hk</code> command to check the disk space:</p>
@@ -221,7 +221,7 @@
 <li><code>find /storage/log/ -mount -type f -mtime +1 -exec echo {} \; -exec truncate -cs 0 {} \; 2&gt;&amp;1 | tee /tmp/files_truncated.txt</code></li>
 </ol>
 <h2 id="what-now">what now?</h2>
-<p>Check if it worked by issuing a new <code>df -h</code> command like above. If the file systems are OK, go ahead and start the cluster from the admin console. <!-- raw HTML omitted -->Note; You should actually bring it down again and up again to see if the cluster is OK.<!-- raw HTML omitted --></p>
+<p>Check if it worked by issuing a new <code>df -h</code> command like above. If the file systems are OK, go ahead and start the cluster from the admin console. <u>Note; You should actually bring it down again and up again to see if the cluster is OK.</u></p>
 <h2 id="articles">Articles</h2>
 <p><a href="https://kb.vmware.com/s/article/83239">Troubleshooting Storage Issues in vRealize Operations (83239)</a></p>
 <p><a href="https://kb.vmware.com/s/article/2145578">How to safely clean /storage/log in vRealize Operations (2145578)</a></p>
@@ -242,6 +242,12 @@
 
 
     
+    <h2 class="mt-4">Utvalgte innlegg</h2>
+    <ul>
+      <li>
+        <a href="https://bgronas.github.io/post/2026-09-25-hostens-nutanix-webinarer/" class="nav-link" title="Høstens Nutanix-webinarer: fra første cluster til suveren plattform">Høstens Nutanix-webinarer: fra første cluster til suveren plattform</a>
+      </li>
+    </ul>
     <h2 class="mt-4">Nye innlegg</h2>
     <ul class="flex-column">
       <li>
@@ -280,7 +286,7 @@
       <nav class="tags_nav">
         <a href='https://bgronas.github.io/categories/technology/' class="post_tag button button_translucent" title="technology">
           TECHNOLOGY
-          <span class="button_tally">12</span>
+          <span class="button_tally">13</span>
         </a>
         
         <a href='https://bgronas.github.io/categories/orchestration/' class="post_tag button button_translucent" title="orchestration">
@@ -394,6 +400,11 @@
           <span class="button_tally">3</span>
         </a>
         
+        <a href='https://bgronas.github.io/tags/nutanix/' class="post_tag button button_translucent" title="nutanix">
+          NUTANIX
+          <span class="button_tally">3</span>
+        </a>
+        
         <a href='https://bgronas.github.io/tags/operations/' class="post_tag button button_translucent" title="operations">
           OPERATIONS
           <span class="button_tally">3</span>
@@ -404,13 +415,13 @@
           <span class="button_tally">2</span>
         </a>
         
-        <a href='https://bgronas.github.io/tags/nug/' class="post_tag button button_translucent" title="nug">
-          NUG
+        <a href='https://bgronas.github.io/tags/k8s/' class="post_tag button button_translucent" title="k8s">
+          K8S
           <span class="button_tally">2</span>
         </a>
         
-        <a href='https://bgronas.github.io/tags/nutanix/' class="post_tag button button_translucent" title="nutanix">
-          NUTANIX
+        <a href='https://bgronas.github.io/tags/nug/' class="post_tag button button_translucent" title="nug">
+          NUG
           <span class="button_tally">2</span>
         </a>
         
@@ -426,6 +437,11 @@
         
         <a href='https://bgronas.github.io/tags/adventure/' class="post_tag button button_translucent" title="adventure">
           ADVENTURE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://bgronas.github.io/tags/ai/' class="post_tag button button_translucent" title="ai">
+          AI
           <span class="button_tally">1</span>
         </a>
         
@@ -496,11 +512,6 @@
         
         <a href='https://bgronas.github.io/tags/idrac/' class="post_tag button button_translucent" title="idrac">
           IDRAC
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://bgronas.github.io/tags/k8s/' class="post_tag button button_translucent" title="k8s">
-          K8S
           <span class="button_tally">1</span>
         </a>
         
@@ -596,6 +607,11 @@
         
         <a href='https://bgronas.github.io/tags/vsphere/' class="post_tag button button_translucent" title="vsphere">
           VSPHERE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://bgronas.github.io/tags/webinar/' class="post_tag button button_translucent" title="webinar">
+          WEBINAR
           <span class="button_tally">1</span>
         </a>
         

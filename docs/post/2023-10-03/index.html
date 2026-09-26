@@ -181,15 +181,15 @@
 
       </div>
     <div class="post_body"><h1 id="better--faster-vs-save-power">Better &amp; faster vs. Save power!</h1>
-<p><!-- raw HTML omitted -->The technological wonders we&rsquo;ve created have undoubtedly made our lives more connected, better and faster. Our dependency on IT infrastructures has grown, and so has also the <em><strong>demand for power</strong></em>.  But with a  passion for sustainability, let’s talk about the server power-saving techniques, particularly in a vSphere environment.</p>
+<p><img src="./assets/1578728-200.png" align=right style="zoom:80%;" />The technological wonders we&rsquo;ve created have undoubtedly made our lives more connected, better and faster. Our dependency on IT infrastructures has grown, and so has also the <em><strong>demand for power</strong></em>.  But with a  passion for sustainability, let’s talk about the server power-saving techniques, particularly in a vSphere environment.</p>
 <p>In my previous article I talked about the vSphere feature <strong>DPM</strong>, or Distributed Power Management, to power off hosts dynamically when the demand is low. <a href="https://bgronas.github.io/post/2023-09-08/">Go and have a look.</a>   This article complements the VMware Explore session where my buddy <a href="vbondzio@vmware.com">Valentin Bondzio</a> explained his &ldquo;no Risk HPM&rdquo; methodology. Note: It starts at 27:52 in the session <a href="https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683885521040001LU2d&amp;videoId=6340794321112">Orange journey to reduce their carbon emissions &amp; Focus on HPM</a> - Head over to his Blog <a href="https://valentin.bondz.io/no-risk-host-power-management/">No Risk Host Power Management</a>.</p>
 <h5 id="or-if-you-cant-find-stuff">..OR&hellip; If you can&rsquo;t find stuff</h5>
 <p>Exit Broadcom and go see: <a href="https://www.youtube.com/@Nutanix/videos">NUTANIX videos</a></p>
 <p>In this article we’ll try to deep dive a bit into Efficiency. From Dell&rsquo;s BIOS up to vSphere’s cluster settings, every tweak plays a part. Let’s have a look at the BIOS settings, iDRAC, and a little quick trip to vSphere&rsquo;s power management suite.</p>
 <p>**Unlocking Power Savings: ** Since my tiny home lab consists of 2x Dell PowerEdge R720 with Integrated Dell Remote Access Controller (iDRAC) to enable advanced remote management capabilities using vSphere, that’s what I will be covering here.</p>
 <h1 id="dell-bios">Dell BIOS</h1>
-<!-- raw HTML omitted -->
-<p>The nerve center of your server, where energy efficiency begins. When the Server boots up, use the F2/DEL trick and enter the Dell BIOS and change the System Profile settings from what’s default, to either Custom or Performance-per-watt (OS), otherwise known as “OS Control”.<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<img src="./assets/image-20231003155443475.png" style="float:left;margin:1px 25px 1px 1px;border:2px solid black"  />
+<p>The nerve center of your server, where energy efficiency begins. When the Server boots up, use the F2/DEL trick and enter the Dell BIOS and change the System Profile settings from what’s default, to either Custom or Performance-per-watt (OS), otherwise known as “OS Control”.<p><p><p><p><p><p><p><p><p><p></p>
 <h2 id="system-performance-profiles">System performance profiles</h2>
 <p>
   <figure>
@@ -321,8 +321,8 @@ I was about to change the Memory Frequency, but didn’t, in hope to maximize Po
 Distributed Power Management (DPM) typically use IPMI for out-of-band management. This allows VMware DPM to power on or off the server when necessary to save power.</p>
 <h2 id="idrac">iDRAC Network IP and MAC ADDRESS </h2>
 <p>You will need this when you are later going to configure the vSphere IPMI/iLO Settings for Power Management, meaning the actual handshake between Hardware and Software. Make a note of both the MAC and IP <a href="/post/2023-10-03/#ip_mac">for later use</a>.</p>
-<p><!-- raw HTML omitted -->   <!-- raw HTML omitted --></p>
-<p><!-- raw HTML omitted -->Now that we’ve done the BIOS and iDRAC (ILO) settings, it’s about time to enter vCenter and do the rest of the configuration in vSphere.  Follow <strong>Dell</strong> <em>BIOS Performance and Power Tuning Guidelines</em> for Dell PowerEdge 12th Generation Servers for <em>Configuring the servers BIOS for optimal performance and power efficiency</em>.</p>
+<p><img src="./assets/image-20231003150108264.png" style="border:1px solid black"/>   <img src="./assets/image-20231003150202705.png" style="border:1px solid black" /></p>
+<p><img src="./assets/image-20231003160839843.png" align="right" style="zoom:25%;" />Now that we’ve done the BIOS and iDRAC (ILO) settings, it’s about time to enter vCenter and do the rest of the configuration in vSphere.  Follow <strong>Dell</strong> <em>BIOS Performance and Power Tuning Guidelines</em> for Dell PowerEdge 12th Generation Servers for <em>Configuring the servers BIOS for optimal performance and power efficiency</em>.</p>
 <h2 id="vsphere-power-management-essentials">vSphere Power Management Essentials</h2>
 <p>We can focus on energy efficiency by prioritizing power conservation while maintaining performance with certain vSphere settings:</p>
 <table>
@@ -679,37 +679,37 @@ Set our power policy settings according to everything else we’ve <a href="/pos
 <ul>
 <li>Click <strong>CREATE</strong>. The end result should look something like this:</li>
 </ul>
-<!-- raw HTML omitted -->
+<img src="./assets/image-20231121213321916.png" style="border:1px solid black" /> 
 <h3 id="dashboard">Dashboard</h3>
 <ul>
 <li>Go to <code>Visualize&gt;Dashboards&gt;Manage</code> and click <strong>Add</strong></li>
 </ul>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+<img src="./assets/image-20231121213732929.png" style="border:1px solid black" />
+<img src="./assets/image-20231121214631215.png" style="border:1px solid black" /> 
 <ul>
 <li>Name your dashboard, for example: “<em>ESXi Servers and properties”</em></li>
 <li>You will be a <strong>self provider</strong> = on</li>
 </ul>
-<!-- raw HTML omitted -->
+<img src="./assets/image-20231121214803884.png" style="border:1px solid black" /> 
 <ul>
 <li>All objects and Object = <strong>vSphere World</strong></li>
 </ul>
-<!-- raw HTML omitted -->
+<img src="./assets/image-20231121213926147.png" style="border:1px solid black" />
 <ul>
 <li>Expand Output data, and select the previous created <a href="/post/2023-10-03/#view">view</a> and click <strong>SAVE</strong></li>
 </ul>
-<!-- raw HTML omitted -->
+<img src="./assets/image-20231121215252874.png" style="border:1px solid black"/> 
 <ul>
 <li>Add a Pie widget and edit it</li>
 </ul>
-<!-- raw HTML omitted -->
+<img src="./assets/image-20231121215706048.png" style="border:1px solid black"/>   
 <ul>
 <li>Name it</li>
 <li>Select <strong>Inventory | VM Power State</strong></li>
 <li>Click <strong>Save</strong></li>
 <li>Click <strong>Show Interactions</strong></li>
 </ul>
-<!-- raw HTML omitted -->
+<img src="./assets/image-20231121220055356.png" style="border:1px solid black"/> 
 <ul>
 <li>Add the interaction</li>
 <li>Click <strong>SAVE</strong></li>
@@ -767,6 +767,12 @@ Set our power policy settings according to everything else we’ve <a href="/pos
 
 
     
+    <h2 class="mt-4">Utvalgte innlegg</h2>
+    <ul>
+      <li>
+        <a href="https://bgronas.github.io/post/2026-09-25-hostens-nutanix-webinarer/" class="nav-link" title="Høstens Nutanix-webinarer: fra første cluster til suveren plattform">Høstens Nutanix-webinarer: fra første cluster til suveren plattform</a>
+      </li>
+    </ul>
     <h2 class="mt-4">Nye innlegg</h2>
     <ul class="flex-column">
       <li>
@@ -805,7 +811,7 @@ Set our power policy settings according to everything else we’ve <a href="/pos
       <nav class="tags_nav">
         <a href='https://bgronas.github.io/categories/technology/' class="post_tag button button_translucent" title="technology">
           TECHNOLOGY
-          <span class="button_tally">12</span>
+          <span class="button_tally">13</span>
         </a>
         
         <a href='https://bgronas.github.io/categories/orchestration/' class="post_tag button button_translucent" title="orchestration">
@@ -919,6 +925,11 @@ Set our power policy settings according to everything else we’ve <a href="/pos
           <span class="button_tally">3</span>
         </a>
         
+        <a href='https://bgronas.github.io/tags/nutanix/' class="post_tag button button_translucent" title="nutanix">
+          NUTANIX
+          <span class="button_tally">3</span>
+        </a>
+        
         <a href='https://bgronas.github.io/tags/operations/' class="post_tag button button_translucent" title="operations">
           OPERATIONS
           <span class="button_tally">3</span>
@@ -929,13 +940,13 @@ Set our power policy settings according to everything else we’ve <a href="/pos
           <span class="button_tally">2</span>
         </a>
         
-        <a href='https://bgronas.github.io/tags/nug/' class="post_tag button button_translucent" title="nug">
-          NUG
+        <a href='https://bgronas.github.io/tags/k8s/' class="post_tag button button_translucent" title="k8s">
+          K8S
           <span class="button_tally">2</span>
         </a>
         
-        <a href='https://bgronas.github.io/tags/nutanix/' class="post_tag button button_translucent" title="nutanix">
-          NUTANIX
+        <a href='https://bgronas.github.io/tags/nug/' class="post_tag button button_translucent" title="nug">
+          NUG
           <span class="button_tally">2</span>
         </a>
         
@@ -951,6 +962,11 @@ Set our power policy settings according to everything else we’ve <a href="/pos
         
         <a href='https://bgronas.github.io/tags/adventure/' class="post_tag button button_translucent" title="adventure">
           ADVENTURE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://bgronas.github.io/tags/ai/' class="post_tag button button_translucent" title="ai">
+          AI
           <span class="button_tally">1</span>
         </a>
         
@@ -1021,11 +1037,6 @@ Set our power policy settings according to everything else we’ve <a href="/pos
         
         <a href='https://bgronas.github.io/tags/idrac/' class="post_tag button button_translucent" title="idrac">
           IDRAC
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://bgronas.github.io/tags/k8s/' class="post_tag button button_translucent" title="k8s">
-          K8S
           <span class="button_tally">1</span>
         </a>
         
@@ -1121,6 +1132,11 @@ Set our power policy settings according to everything else we’ve <a href="/pos
         
         <a href='https://bgronas.github.io/tags/vsphere/' class="post_tag button button_translucent" title="vsphere">
           VSPHERE
+          <span class="button_tally">1</span>
+        </a>
+        
+        <a href='https://bgronas.github.io/tags/webinar/' class="post_tag button button_translucent" title="webinar">
+          WEBINAR
           <span class="button_tally">1</span>
         </a>
         
