@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bgronas.github.io/tags/ai/</loc>
-    <lastmod>2026-09-25T11:30:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
     <loc>https://bgronas.github.io/</loc>
     <lastmod>2026-09-25T11:30:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -22,8 +17,18 @@
                 href="https://bgronas.github.io/"
                 />
   </url><url>
-    <loc>https://bgronas.github.io/categories/</loc>
+    <loc>https://bgronas.github.io/post/</loc>
     <lastmod>2026-09-25T11:30:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://bgronas.github.io/categories/ai/</loc>
+    <lastmod>2026-08-29T18:54:17+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://bgronas.github.io/categories/</loc>
+    <lastmod>2026-08-29T18:54:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link
@@ -36,56 +41,6 @@
                 hreflang="nb-NO"
                 href="https://bgronas.github.io/categories/"
                 />
-  </url><url>
-    <loc>https://bgronas.github.io/post/2026-09-25-hostens-nutanix-webinarer/</loc>
-    <lastmod>2026-09-25T11:30:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://bgronas.github.io/tags/k8s/</loc>
-    <lastmod>2026-09-25T11:30:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://bgronas.github.io/tags/nutanix/</loc>
-    <lastmod>2026-09-25T11:30:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://bgronas.github.io/post/</loc>
-    <lastmod>2026-09-25T11:30:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://bgronas.github.io/tags/</loc>
-    <lastmod>2026-09-25T11:30:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://bgronas.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nb-NO"
-                href="https://bgronas.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://bgronas.github.io/categories/technology/</loc>
-    <lastmod>2026-09-25T11:30:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://bgronas.github.io/tags/webinar/</loc>
-    <lastmod>2026-09-25T11:30:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://bgronas.github.io/categories/ai/</loc>
-    <lastmod>2026-08-29T18:54:17+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
   </url><url>
     <loc>https://bgronas.github.io/categories/kubernetes/</loc>
     <lastmod>2026-08-29T18:54:17+02:00</lastmod>
@@ -107,7 +62,32 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://bgronas.github.io/tags/nutanix/</loc>
+    <lastmod>2026-08-29T18:54:17+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://bgronas.github.io/post/2026-08-29-nutanix-user-group-3-september-2026/</loc>
+    <lastmod>2026-08-29T18:54:17+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://bgronas.github.io/tags/</loc>
+    <lastmod>2026-08-29T18:54:17+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://bgronas.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nb-NO"
+                href="https://bgronas.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://bgronas.github.io/categories/technology/</loc>
     <lastmod>2026-08-29T18:54:17+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -358,6 +338,11 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://bgronas.github.io/categories/k8s/</loc>
+    <lastmod>2022-11-15T17:57:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://bgronas.github.io/tags/k8s/</loc>
     <lastmod>2022-11-15T17:57:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

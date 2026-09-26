@@ -6,58 +6,7 @@
     <description>Recent content in K8s on Bengt Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-NO</language>
-    <lastBuildDate>Fri, 25 Sep 2026 11:30:00 +0200</lastBuildDate><atom:link href="https://bgronas.github.io/tags/k8s/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Høstens Nutanix-webinarer: fra første cluster til suveren plattform</title>
-      <link>https://bgronas.github.io/post/2026-09-25-hostens-nutanix-webinarer/</link>
-      <pubDate>Fri, 25 Sep 2026 11:30:00 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2026-09-25-hostens-nutanix-webinarer/</guid>
-      <description>
-        
-          
-            &lt;p&gt;&lt;strong&gt;Høstens konferansesesong er startet for lenge siden – men du kan slippe mange flyreiser.&lt;/strong&gt; Nutanix kjører en rekke gratis, tekniske online webinarer utover høsten. De kan være verdt en liten time (eller to).&lt;/p&gt;
-&lt;p&gt;Fra ditt første Kubernetes-cluster til en ekte enterprise-plattform, GitOps i praksis, datasuverenitet og en hands-on-Lab om fremtidens virtualisering. Her er litt av hvert.  Første multi-rikskringkastning er allerede &lt;strong&gt;onsdag 30. september&lt;/strong&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;på-web-norsk-tid&#34;&gt;På Web (Norsk tid)&lt;/h2&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Dato&lt;/th&gt;
-          &lt;th&gt;Klokken&lt;/th&gt;
-          &lt;th&gt;Webinar&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Ons 30. september&lt;/td&gt;
-          &lt;td&gt;11:00&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;https://event.nutanix.com/from1clustertoanenterpriseep2&#34;&gt;From Your First Kubernetes Cluster to an Enterprise Platform&lt;/a&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Ons 7. oktober&lt;/td&gt;
-          &lt;td&gt;11:00&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;https://event.nutanix.com/multitenancygitopsinpractep3&#34;&gt;Multitenancy and GitOps in Practice&lt;/a&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Tir 13. oktober&lt;/td&gt;
-          &lt;td&gt;11:00–12:00&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;https://event.nutanix.com/navigatingdatasovereignty&#34;&gt;Navigating Data Sovereignty in the Hybrid Multicloud Era&lt;/a&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Fre 16. oktober&lt;/td&gt;
-          &lt;td&gt;10:30–12:30&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;https://event.nutanix.com/thefutureofvirtualizationoct&#34;&gt;The Future of Virtualization&lt;/a&gt; (HANDS ON LAB)&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;1-fra-første-cluster-til-enterprise-plattform--30-september&#34;&gt;1. Fra første cluster til enterprise-plattform – 30. september&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;./image-20260925161223489.png&#34; alt=&#34;image-20260925161223489&#34; style=&#34;float: right; width: 10%; max-width: 350px; margin: 0 0 0 10px;&#34; /&gt;Ett enkelt K8s cluster er easy-peacy. 10 clustre lukter plattform. Her går vi fra enkeltcluster til en arkitektur der management og produksjon er skilt i egne workload clusters, med produksjonsklare tjenester, &lt;em&gt;&lt;strong&gt;observability&lt;/strong&gt;&lt;/em&gt; og et privat container registry. Dette er Episode 2 i Kubernetes-serien.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
+    <lastBuildDate>Tue, 15 Nov 2022 17:57:00 +0100</lastBuildDate><atom:link href="https://bgronas.github.io/tags/k8s/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VRealize Operations Management Pack for Kubernetes 1.8 [15.11.2022]</title>
       <link>https://bgronas.github.io/post/2022-11-15/</link>

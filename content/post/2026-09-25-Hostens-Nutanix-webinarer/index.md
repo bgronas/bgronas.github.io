@@ -4,8 +4,8 @@ title: "Høstens Nutanix-webinarer: fra første cluster til suveren plattform"
 date: 2026-09-25T11:30:00+02:00
 lastmod: 2026-09-25T11:30:00+02:00
 description: "Fire gratis tekniske Nutanix-webinarer denne høsten: Kubernetes fra første cluster til enterprise-plattform, GitOps og multitenancy, datasuverenitet og virtualisering."
-featured: true
-draft: false
+featured: false
+draft: true
 toc: false
 
 usePageBundles: true
