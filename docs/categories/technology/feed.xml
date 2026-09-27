@@ -1,279 +1,125 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Technology on Bengt Blog</title>
-    <link>https://bgronas.github.io/categories/technology/feed.xml</link>
-    <description>Recent content in Technology on Bengt Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>nb-NO</language>
-    <lastBuildDate>Sat, 29 Aug 2026 18:54:17 +0200</lastBuildDate><atom:link href="https://bgronas.github.io/categories/technology/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Nutanix User Group 3 September 2026</title>
-      <link>https://bgronas.github.io/post/2026-08-29-nutanix-user-group-3-september-2026/</link>
-      <pubDate>Sat, 29 Aug 2026 18:54:17 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2026-08-29-nutanix-user-group-3-september-2026/</guid>
-      <description>
-        
-          
-            &lt;h3 id=&#34;nutanix-user-group-norway-3-september-2026&#34;&gt;Nutanix User Group Norway 3. September 2026&lt;/h3&gt;
-&lt;p&gt;Den 3. september samler vi igjen det norske Nutanix-miljøet – denne gangen hos Move i Oslo.&lt;/p&gt;
-&lt;p&gt;Vi får besøk av &lt;a href=&#34;https://www.linkedin.com/in/stastro/&#34;&gt;&lt;strong&gt;Simon Todd MSc&lt;/strong&gt;&lt;/a&gt;, som tar oss gjennom &lt;strong&gt;Nutanix Enterprise AI&lt;/strong&gt; og hvordan plattformen utvikler seg fra å gjøre det enkelt å kjøre og konsumere GenAI-modeller til å bli et sentralt lag for enterprise AI.&lt;/p&gt;
-&lt;p&gt;Blant annet ser vi nærmere på AI Gateway – hvordan virksomheter kan få kontroll, sikkerhet og governance rundt bruken av ulike AI-modeller, med ett felles API for LLM-er enten de kjører lokalt eller som eksterne skytjenester som Anthropic.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>NUTANIX USER GROUP</title>
-      <link>https://bgronas.github.io/post/2026-01-26-nutanix-user-group/</link>
-      <pubDate>Mon, 26 Jan 2026 13:31:03 +0100</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2026-01-26-nutanix-user-group/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;nutanix-user-group-oslo-er-tilbake&#34;&gt;Nutanix User Group Oslo er tilbake&lt;/h1&gt;
-&lt;p&gt;Dette er kult hvis du liker samlinger der folk faktisk sier hva som fungerer i drift (og hva som ikke gjør det), er dette for deg. Praktiske erfaringer, ærlige historier og NCI 7.5 i fokus.&lt;/p&gt;
-&lt;p&gt;Det finnes to typer tech-samlinger: de som er “slideware”, og de som faktisk gjør deg bedre i drift.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Nutanix User Group (NUG)&lt;/strong&gt; er ment å være den siste typen: lokalt, community-drevet, og tett på virkeligheten - med demoer, erfaringsdeling og Q&amp;amp;A.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Maximize Efficiency: Power-Saving Techniques in vSphere &#43; Operations Dashboards</title>
-      <link>https://bgronas.github.io/post/2023-10-03/</link>
-      <pubDate>Tue, 21 Nov 2023 14:24:39 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2023-10-03/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;better--faster-vs-save-power&#34;&gt;Better &amp;amp; faster vs. Save power!&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;./assets/1578728-200.png&#34; align=right style=&#34;zoom:80%;&#34; /&gt;The technological wonders we&amp;rsquo;ve created have undoubtedly made our lives more connected, better and faster. Our dependency on IT infrastructures has grown, and so has also the &lt;em&gt;&lt;strong&gt;demand for power&lt;/strong&gt;&lt;/em&gt;.  But with a  passion for sustainability, let’s talk about the server power-saving techniques, particularly in a vSphere environment.&lt;/p&gt;
-&lt;p&gt;In my previous article I talked about the vSphere feature &lt;strong&gt;DPM&lt;/strong&gt;, or Distributed Power Management, to power off hosts dynamically when the demand is low. &lt;a href=&#34;https://bgronas.github.io/post/2023-09-08/&#34;&gt;Go and have a look.&lt;/a&gt;   This article complements the VMware Explore session where my buddy &lt;a href=&#34;vbondzio@vmware.com&#34;&gt;Valentin Bondzio&lt;/a&gt; explained his &amp;ldquo;no Risk HPM&amp;rdquo; methodology. Note: It starts at 27:52 in the session &lt;a href=&#34;https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683885521040001LU2d&amp;amp;videoId=6340794321112&#34;&gt;Orange journey to reduce their carbon emissions &amp;amp; Focus on HPM&lt;/a&gt; - Head over to his Blog &lt;a href=&#34;https://valentin.bondz.io/no-risk-host-power-management/&#34;&gt;No Risk Host Power Management&lt;/a&gt;.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Eco-Friendly Datacenter Management: Power Management Strategies</title>
-      <link>https://bgronas.github.io/post/2023-09-08/</link>
-      <pubDate>Fri, 08 Sep 2023 10:19:28 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2023-09-08/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;sustainability-is-key-for-eu-organizations&#34;&gt;Sustainability is key for EU organizations&lt;/h1&gt;
-&lt;img src=&#34;./assets/image-20230927225014134.png&#34; style=&#34;zoom:40%;float:left;margin:1px 55px 100px 1px;border:2px solid green&#34;/&gt; 
-&lt;p&gt;GREENHOUSE GAS EMMISSIONS (GhG):&lt;/p&gt;
-&lt;p&gt;We&amp;rsquo;re cutting emissions and costs by optimizing workloads and promoting virtualization.&lt;/p&gt;
-&lt;p&gt;A Green Score in Aria Operations tracks progress with five parameters, to target improvements, these are:&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Workload Efficiency, Resource Utilization, Virtualization Rate, power Source, and Hardware Efficiency&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://bgronas.github.io/post/2023-03-27/#hyperscalers-are-power-saving&#34;&gt;The large Hyperscalers are saving&lt;/a&gt;,&lt;/strong&gt; and so should we.&lt;/p&gt;
-&lt;p&gt; &lt;p&gt; &lt;p&gt; &lt;p&gt;
-&lt;h1 id=&#34;vsphere-distributed-power-management&#34;&gt;vSphere Distributed Power Management&lt;/h1&gt;
-&lt;img src=&#34;./assets/image-20231122075434152.png&#34; style=&#34;margin:1px 25px 1px 1px;border:1px solid green&#34;/&gt;
-&lt;p&gt;The vSphere Distributed Power Management (&lt;strong&gt;DPM&lt;/strong&gt;) feature optimizes power usage in virtualized data centers by dynamically adjusting server power states based on workload demand, saving energy and costs while maintaining high availability.  Its excellence lies in its ability to optimize power consumption and dynamically adjusts the power state of servers based on workload demand. Unused servers are powered off or placed in a low-power state.  This reduces energy costs, and contributes to environmental sustainability. &lt;strong&gt;So, have you tried to give DPM a second chance?&lt;/strong&gt;  If not, please consider it. For every kilowatt consumed by servers you would need cooling!&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>IaaS Automated Powersaving, Green Sustainability   Pt. 3</title>
-      <link>https://bgronas.github.io/post/2023-04-18/</link>
-      <pubDate>Tue, 18 Apr 2023 09:11:13 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2023-04-18/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;get-wise-about-operations&#34;&gt;&lt;strong&gt;Get wise about Operations&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;When using Aria Operations we should ensure we are using corresponding working hours in the capacity policy, to avoid unforeseen effects on the calculation for powered off VMs&lt;/strong&gt;. The goal and purpose of this Topic is to show why we should either use the construct “Business Hours” or “Maintenance Schedules” in a VMware Aria Operations Policy to avoid hassle during the powering off of workloads&lt;/p&gt;
-&lt;p&gt;This article is divided into 3 parts:&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>IaaS Automated Powersaving, Green Sustainability - Pt.2</title>
-      <link>https://bgronas.github.io/post/2023-04-16/</link>
-      <pubDate>Sun, 16 Apr 2023 14:34:56 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2023-04-16/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;up-and-running-with-powersaving&#34;&gt;&lt;strong&gt;Up and running with powersaving&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;The goal and purpose of this article is to show an example of implementation to accomplish the scheduled Powering off(and on) of VMs in our own On-Premises datacenter the same way Google GCP, AWS, and Azure VMs does it with their Hyperscalers.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;This article is divided into 3 parts:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://bgronas.github.io/post/2023-03-27/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bgronas.github.io/post/2023-04-16/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bgronas.github.io/post/2023-04-18/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.3&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;img src=&#34;./images/index/image-20230416162218067.png&#34; align=&#34;left&#34; style=&#34;zoom:100%;&#34; /&gt;
-&lt;p&gt;This is the &lt;strong&gt;second&lt;/strong&gt; article containing the practical walk through of an example of how to do this with VMware technology.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>IaaS Automated Powersaving, Green Sustainability - Pt.1</title>
-      <link>https://bgronas.github.io/post/2023-03-27/</link>
-      <pubDate>Mon, 27 Mar 2023 17:43:45 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2023-03-27/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;powersaving-in-our-datacenter&#34;&gt;&lt;strong&gt;Powersaving in our datacenter&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;The goal and purpose of this article is to discuss “the WHY” in Powering off and Powering On VMs based on regular Schedule, just the way Google GCP, AWS, and Azure does it with VMs&lt;/strong&gt;. Why would we implement Sustainable Practices to meet our sustainability goals?&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;This article is divided into 3 parts:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://bgronas.github.io/post/2023-03-27/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bgronas.github.io/post/2023-04-16/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bgronas.github.io/post/2023-04-18/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.3&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;this-is-the-first-article-containing-the-why&#34;&gt;This is the first article containing the WHY.&lt;/h4&gt;
-&lt;p&gt;Note: If you want to go ahead and implement everything immediately without further knowledge, please head over the article &lt;a href=&#34;https://bgronas.github.io/post/2023-04-16/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a&gt;&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Cloud Management Tech Zone</title>
-      <link>https://bgronas.github.io/post/2023-03-03/</link>
-      <pubDate>Fri, 03 Mar 2023 08:52:27 +0100</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2023-03-03/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;dead-or-alive&#34;&gt;Dead or alive?&lt;/h1&gt;
-&lt;p&gt;Is the good old Pathfinder dead and Modern Apps and Cloud Management &lt;strong&gt;Techzone&lt;/strong&gt; next? Maybe, or maybe it isn’t&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;h2 id=&#34;what-am-i-talking-about&#34;&gt;What am I talking about?&lt;/h2&gt;
-&lt;p&gt;For some time, VMware have had a collection of resources assembled as a collection in a one-stop-shop for resources such as videos, blogs, articles and training for all the cloud management products. Even the &lt;a href=&#34;https://labs.hol.vmware.com/&#34;&gt;Hands-On Labs&lt;/a&gt; have had links on these pages. This collection was called &lt;a href=&#34;https://pathfinder.vmware.com.&#34;&gt;PathFinder&lt;/a&gt;&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>VROPS Out of Disk Space</title>
-      <link>https://bgronas.github.io/post/2023-01-31/</link>
-      <pubDate>Tue, 31 Jan 2023 12:53:31 +0100</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2023-01-31/</guid>
-      <description>
-        
-          
-            &lt;p&gt;&lt;strong&gt;What if you are Unable to bring your vRealize (Aria) Operations cluster online because one or more nodes are out of disk space. Let&amp;rsquo;s see if the log disk is the problem and try to fix it&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The goal is to find out if the Log disk is full and how to clean it and hopefully you save some time with this mini-Recipe that will show you how to investigate the &amp;ldquo;Unable to bring the cluster online because one or more nodes are out of disk space.&amp;rdquo; error in the Admin console of vRealize Operations and what to check.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Bypass Windows 11 Install Problems</title>
-      <link>https://bgronas.github.io/post/2022-12-10/</link>
-      <pubDate>Sat, 10 Dec 2022 15:22:01 +0100</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2022-12-10/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;the-problem&#34;&gt;The problem&lt;/h1&gt;
-&lt;p&gt;The goal and purpose was that I needed to bypass the &amp;ldquo;&lt;strong&gt;This PC can’t run Windows 11&lt;/strong&gt;&amp;rdquo; problem during an installation of a Windows 11 Virtual Machine (VM) in my test environment.  This DIY recipe will save us the hassle of googling it once again and sorting out the correct article to try out.&lt;/p&gt;
-&lt;h3 id=&#34;this-pc-cant-run-windows-11&#34;&gt;This PC can’t run Windows 11&lt;/h3&gt;
-&lt;p&gt;This happens during an install:&lt;/p&gt;
-&lt;img src=&#34;./aria-automation/index/ErrorCropped-1670682926123-3.png&#34; alt=&#34;Windows 11 Fresh Install - This PC can&#39;t run Windows 11&#34; style=&#34;zoom:80%;&#34; /&gt;
-&lt;h1 id=&#34;the-solution&#34;&gt;The Solution&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;Go back one step by clicking &lt;strong&gt;top-left blue arrow&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;press &amp;lsquo;&lt;strong&gt;Shift+F10&lt;/strong&gt;&amp;rsquo;&lt;/li&gt;
-&lt;li&gt;in the CMD box, type &amp;lsquo;&lt;strong&gt;regedit&lt;/strong&gt;&amp;rsquo; and press &lt;strong&gt;enter&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;in the registry editor Navigate to “HKEY_LOCAL_MACHINE\SYSTEM\Setup”&lt;/li&gt;
-&lt;li&gt;Right click Setup, Choose New Key, and Name it &amp;ldquo;&lt;strong&gt;LabConfig&lt;/strong&gt;&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Under LabConfig, add all these values as &lt;strong&gt;DWORD (32-bit) Values&lt;/strong&gt; and set the data to &lt;strong&gt;1&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;BypassCPUCheck&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;BypassRAMCheck&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;BypassSecureBootCheck&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;BypassStorageCheck&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;BypassTPMCheck&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;After all these manual inserrtions are done, you are ready to continue the fight of installing Windows 11.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Install Python 3.10.8 on RaspBerry PI [18.10.2022]</title>
-      <link>https://bgronas.github.io/post/2022-10-18/</link>
-      <pubDate>Tue, 18 Oct 2022 15:49:42 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2022-10-18/</guid>
-      <description>
-        
-          
-            &lt;h2 id=&#34;how-to-set-up-python-on-pi&#34;&gt;How-to set up Python on Pi&lt;/h2&gt;
-&lt;p&gt;The goal of this little article is to show how I installed Python on raspberry PI.  There are lot&amp;rsquo;s of articles out there on the subject, but since I am a beginner, I am running through everything I find useful for  my self and as a later notice to myself. This saves med the time and hassle to find the recipe or how-to next time. Plus, I know what worked for me.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Root Password Expiration on VRealize Appliances</title>
-      <link>https://bgronas.github.io/post/2022-06-23/</link>
-      <pubDate>Thu, 23 Jun 2022 11:03:00 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2022-06-23/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;what&#34;&gt;&lt;strong&gt;What&amp;rsquo;s the problem?&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Normally a Virtual appliance (VA) in the vRealize Suite (VRS), aka Aria, will expire the root password you set under the installation within a year. Well, nothing dramatic about that. But, will you remember to change it next year? Maybe, if something told you in a GUI, mail or monitoring system that the password were going to expire.&lt;/p&gt;
-&lt;h4 id=&#34;a-monitoring-dilemma&#34;&gt;A monitoring dilemma&lt;/h4&gt;
-&lt;p&gt;When the VA root password is expired it will prompt you to change it when you SSH into it. &lt;strong&gt;Fine&lt;/strong&gt;. But how would you know if the password expires? AFAIK. There is currently no check for this in vRealize Operations manager, aka Aria Operations, or any of the other vRealize products. There might be a future health check for this, but as for now (june 2022) there was none.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technology on Bengt Blog</title><link>https://bgronas.github.io/categories/technology/feed.xml</link><description>Recent content in Technology on Bengt Blog</description><generator>Hugo -- gohugo.io</generator><language>nb-NO</language><lastBuildDate>Fri, 25 Sep 2026 11:30:00 +0200</lastBuildDate><atom:link href="https://bgronas.github.io/categories/technology/feed.xml" rel="self" type="application/rss+xml"/><item><title>Høstens Nutanix-webinarer: fra første cluster til suveren plattform</title><link>https://bgronas.github.io/post/2026-09-25-hostens-nutanix-webinarer/</link><pubDate>Fri, 25 Sep 2026 11:30:00 +0200</pubDate><guid>https://bgronas.github.io/post/2026-09-25-hostens-nutanix-webinarer/</guid><description>
+&lt;p>&lt;strong>Høstens konferansesesong er startet for lenge siden – men du kan slippe mange flyreiser.&lt;/strong> Nutanix kjører en rekke gratis, tekniske online webinarer utover høsten. De kan være verdt en liten time (eller to).&lt;/p>
+&lt;p>Fra ditt første Kubernetes-cluster til en ekte enterprise-plattform, GitOps i praksis, datasuverenitet og en hands-on-Lab om fremtidens virtualisering. Her er litt av hvert. Første multi-rikskringkastning er allerede &lt;strong>onsdag 30. september&lt;/strong>.&lt;/p>
+&lt;h2 id="på-web-norsk-tid">På Web (Norsk tid)&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Dato&lt;/th>
+&lt;th>Klokken&lt;/th>
+&lt;th>Webinar&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Ons 30. september&lt;/td>
+&lt;td>11:00&lt;/td>
+&lt;td>&lt;a href="https://event.nutanix.com/from1clustertoanenterpriseep2">From Your First Kubernetes Cluster to an Enterprise Platform&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ons 7. oktober&lt;/td>
+&lt;td>11:00&lt;/td>
+&lt;td>&lt;a href="https://event.nutanix.com/multitenancygitopsinpractep3">Multitenancy and GitOps in Practice&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Tir 13. oktober&lt;/td>
+&lt;td>11:00–12:00&lt;/td>
+&lt;td>&lt;a href="https://event.nutanix.com/navigatingdatasovereignty">Navigating Data Sovereignty in the Hybrid Multicloud Era&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Fre 16. oktober&lt;/td>
+&lt;td>10:30–12:30&lt;/td>
+&lt;td>&lt;a href="https://event.nutanix.com/thefutureofvirtualizationoct">The Future of Virtualization&lt;/a> (HANDS ON LAB)&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="1-fra-første-cluster-til-enterprise-plattform--30-september">1. Fra første cluster til enterprise-plattform – 30. september&lt;/h2>
+&lt;p>&lt;img title=" " src="./image-20260925161223489.png" style="float: right; width: 10%; max-width: 350px; margin: 0 0 0 10px;" />Ett enkelt K8s cluster er easy-peacy. 10 clustre lukter plattform. Her går vi fra enkeltcluster til en arkitektur der management og produksjon er skilt i egne workload clusters, med produksjonsklare tjenester, &lt;em>&lt;strong>observability&lt;/strong>&lt;/em> og et privat container registry. Dette er Episode 2 i Kubernetes-serien.&lt;/p></description></item><item><title>Nutanix User Group 3 September 2026</title><link>https://bgronas.github.io/post/2026-08-29-nutanix-user-group-3-september-2026/</link><pubDate>Sat, 29 Aug 2026 18:54:17 +0200</pubDate><guid>https://bgronas.github.io/post/2026-08-29-nutanix-user-group-3-september-2026/</guid><description>
+&lt;h3 id="nutanix-user-group-norway-3-september-2026">Nutanix User Group Norway 3. September 2026&lt;/h3>
+&lt;p>Den 3. september samler vi igjen det norske Nutanix-miljøet – denne gangen hos Move i Oslo.&lt;/p>
+&lt;p>Vi får besøk av &lt;a href="https://www.linkedin.com/in/stastro/">&lt;strong>Simon Todd MSc&lt;/strong>&lt;/a>, som tar oss gjennom &lt;strong>Nutanix Enterprise AI&lt;/strong> og hvordan plattformen utvikler seg fra å gjøre det enkelt å kjøre og konsumere GenAI-modeller til å bli et sentralt lag for enterprise AI.&lt;/p>
+&lt;p>Blant annet ser vi nærmere på AI Gateway – hvordan virksomheter kan få kontroll, sikkerhet og governance rundt bruken av ulike AI-modeller, med ett felles API for LLM-er enten de kjører lokalt eller som eksterne skytjenester som Anthropic.&lt;/p></description></item><item><title>NUTANIX USER GROUP</title><link>https://bgronas.github.io/post/2026-01-26-nutanix-user-group/</link><pubDate>Mon, 26 Jan 2026 13:31:03 +0100</pubDate><guid>https://bgronas.github.io/post/2026-01-26-nutanix-user-group/</guid><description>
+&lt;h1 id="nutanix-user-group-oslo-er-tilbake">Nutanix User Group Oslo er tilbake&lt;/h1>
+&lt;p>Dette er kult hvis du liker samlinger der folk faktisk sier hva som fungerer i drift (og hva som ikke gjør det), er dette for deg. Praktiske erfaringer, ærlige historier og NCI 7.5 i fokus.&lt;/p>
+&lt;p>Det finnes to typer tech-samlinger: de som er “slideware”, og de som faktisk gjør deg bedre i drift.&lt;/p>
+&lt;p>&lt;strong>Nutanix User Group (NUG)&lt;/strong> er ment å være den siste typen: lokalt, community-drevet, og tett på virkeligheten - med demoer, erfaringsdeling og Q&amp;amp;A.&lt;/p></description></item><item><title>Maximize Efficiency: Power-Saving Techniques in vSphere + Operations Dashboards</title><link>https://bgronas.github.io/post/2023-10-03/</link><pubDate>Tue, 21 Nov 2023 14:24:39 +0200</pubDate><guid>https://bgronas.github.io/post/2023-10-03/</guid><description>
+&lt;h1 id="better--faster-vs-save-power">Better &amp;amp; faster vs. Save power!&lt;/h1>
+&lt;p>&lt;img src="./assets/1578728-200.png" align=right style="zoom:80%;" />The technological wonders we&amp;rsquo;ve created have undoubtedly made our lives more connected, better and faster. Our dependency on IT infrastructures has grown, and so has also the &lt;em>&lt;strong>demand for power&lt;/strong>&lt;/em>. But with a passion for sustainability, let’s talk about the server power-saving techniques, particularly in a vSphere environment.&lt;/p>
+&lt;p>In my previous article I talked about the vSphere feature &lt;strong>DPM&lt;/strong>, or Distributed Power Management, to power off hosts dynamically when the demand is low. &lt;a href="https://bgronas.github.io/post/2023-09-08/">Go and have a look.&lt;/a> This article complements the VMware Explore session where my buddy &lt;a href="vbondzio@vmware.com">Valentin Bondzio&lt;/a> explained his &amp;ldquo;no Risk HPM&amp;rdquo; methodology. Note: It starts at 27:52 in the session &lt;a href="https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683885521040001LU2d&amp;amp;videoId=6340794321112">Orange journey to reduce their carbon emissions &amp;amp; Focus on HPM&lt;/a> - Head over to his Blog &lt;a href="https://valentin.bondz.io/no-risk-host-power-management/">No Risk Host Power Management&lt;/a>.&lt;/p></description></item><item><title>Eco-Friendly Datacenter Management: Power Management Strategies</title><link>https://bgronas.github.io/post/2023-09-08/</link><pubDate>Fri, 08 Sep 2023 10:19:28 +0200</pubDate><guid>https://bgronas.github.io/post/2023-09-08/</guid><description>
+&lt;h1 id="sustainability-is-key-for-eu-organizations">Sustainability is key for EU organizations&lt;/h1>
+&lt;img src="./assets/image-20230927225014134.png" style="zoom:40%;float:left;margin:1px 55px 100px 1px;border:2px solid green"/>
+&lt;p>GREENHOUSE GAS EMMISSIONS (GhG):&lt;/p>
+&lt;p>We&amp;rsquo;re cutting emissions and costs by optimizing workloads and promoting virtualization.&lt;/p>
+&lt;p>A Green Score in Aria Operations tracks progress with five parameters, to target improvements, these are:&lt;/p>
+&lt;p>&lt;em>Workload Efficiency, Resource Utilization, Virtualization Rate, power Source, and Hardware Efficiency&lt;/em>.&lt;/p>
+&lt;p>&lt;strong>&lt;a href="https://bgronas.github.io/post/2023-03-27/#hyperscalers-are-power-saving">The large Hyperscalers are saving&lt;/a>,&lt;/strong> and so should we.&lt;/p>
+&lt;p> &lt;p> &lt;p> &lt;p>
+&lt;h1 id="vsphere-distributed-power-management">vSphere Distributed Power Management&lt;/h1>
+&lt;img src="./assets/image-20231122075434152.png" style="margin:1px 25px 1px 1px;border:1px solid green"/>
+&lt;p>The vSphere Distributed Power Management (&lt;strong>DPM&lt;/strong>) feature optimizes power usage in virtualized data centers by dynamically adjusting server power states based on workload demand, saving energy and costs while maintaining high availability. Its excellence lies in its ability to optimize power consumption and dynamically adjusts the power state of servers based on workload demand. Unused servers are powered off or placed in a low-power state. This reduces energy costs, and contributes to environmental sustainability. &lt;strong>So, have you tried to give DPM a second chance?&lt;/strong> If not, please consider it. For every kilowatt consumed by servers you would need cooling!&lt;/p></description></item><item><title>IaaS Automated Powersaving, Green Sustainability Pt. 3</title><link>https://bgronas.github.io/post/2023-04-18/</link><pubDate>Tue, 18 Apr 2023 09:11:13 +0200</pubDate><guid>https://bgronas.github.io/post/2023-04-18/</guid><description>
+&lt;h1 id="get-wise-about-operations">&lt;strong>Get wise about Operations&lt;/strong>&lt;/h1>
+&lt;p>&lt;strong>When using Aria Operations we should ensure we are using corresponding working hours in the capacity policy, to avoid unforeseen effects on the calculation for powered off VMs&lt;/strong>. The goal and purpose of this Topic is to show why we should either use the construct “Business Hours” or “Maintenance Schedules” in a VMware Aria Operations Policy to avoid hassle during the powering off of workloads&lt;/p>
+&lt;p>This article is divided into 3 parts:&lt;/p></description></item><item><title>IaaS Automated Powersaving, Green Sustainability - Pt.2</title><link>https://bgronas.github.io/post/2023-04-16/</link><pubDate>Sun, 16 Apr 2023 14:34:56 +0200</pubDate><guid>https://bgronas.github.io/post/2023-04-16/</guid><description>
+&lt;h1 id="up-and-running-with-powersaving">&lt;strong>Up and running with powersaving&lt;/strong>&lt;/h1>
+&lt;p>&lt;strong>The goal and purpose of this article is to show an example of implementation to accomplish the scheduled Powering off(and on) of VMs in our own On-Premises datacenter the same way Google GCP, AWS, and Azure VMs does it with their Hyperscalers.&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>This article is divided into 3 parts:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://bgronas.github.io/post/2023-03-27/">IaaS Automated Powersaving, Green Sustainability - Pt.1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bgronas.github.io/post/2023-04-16/">IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bgronas.github.io/post/2023-04-18/">IaaS Automated Powersaving, Green Sustainability - Pt.3&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;img src="./images/index/image-20230416162218067.png" align="left" style="zoom:100%;" />
+&lt;p>This is the &lt;strong>second&lt;/strong> article containing the practical walk through of an example of how to do this with VMware technology.&lt;/p></description></item><item><title>IaaS Automated Powersaving, Green Sustainability - Pt.1</title><link>https://bgronas.github.io/post/2023-03-27/</link><pubDate>Mon, 27 Mar 2023 17:43:45 +0200</pubDate><guid>https://bgronas.github.io/post/2023-03-27/</guid><description>
+&lt;h1 id="powersaving-in-our-datacenter">&lt;strong>Powersaving in our datacenter&lt;/strong>&lt;/h1>
+&lt;p>&lt;strong>The goal and purpose of this article is to discuss “the WHY” in Powering off and Powering On VMs based on regular Schedule, just the way Google GCP, AWS, and Azure does it with VMs&lt;/strong>. Why would we implement Sustainable Practices to meet our sustainability goals?&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>This article is divided into 3 parts:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://bgronas.github.io/post/2023-03-27/">IaaS Automated Powersaving, Green Sustainability - Pt.1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bgronas.github.io/post/2023-04-16/">IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bgronas.github.io/post/2023-04-18/">IaaS Automated Powersaving, Green Sustainability - Pt.3&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="this-is-the-first-article-containing-the-why">This is the first article containing the WHY.&lt;/h4>
+&lt;p>Note: If you want to go ahead and implement everything immediately without further knowledge, please head over the article &lt;a href="https://bgronas.github.io/post/2023-04-16/">IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a>&lt;/p></description></item><item><title>Cloud Management Tech Zone</title><link>https://bgronas.github.io/post/2023-03-03/</link><pubDate>Fri, 03 Mar 2023 08:52:27 +0100</pubDate><guid>https://bgronas.github.io/post/2023-03-03/</guid><description>
+&lt;h1 id="dead-or-alive">Dead or alive?&lt;/h1>
+&lt;p>Is the good old Pathfinder dead and Modern Apps and Cloud Management &lt;strong>Techzone&lt;/strong> next? Maybe, or maybe it isn’t&lt;/p>
+&lt;p> &lt;/p>
+&lt;h2 id="what-am-i-talking-about">What am I talking about?&lt;/h2>
+&lt;p>For some time, VMware have had a collection of resources assembled as a collection in a one-stop-shop for resources such as videos, blogs, articles and training for all the cloud management products. Even the &lt;a href="https://labs.hol.vmware.com/">Hands-On Labs&lt;/a> have had links on these pages. This collection was called &lt;a href="https://pathfinder.vmware.com.">PathFinder&lt;/a>&lt;/p></description></item><item><title>VROPS Out of Disk Space</title><link>https://bgronas.github.io/post/2023-01-31/</link><pubDate>Tue, 31 Jan 2023 12:53:31 +0100</pubDate><guid>https://bgronas.github.io/post/2023-01-31/</guid><description>
+&lt;p>&lt;strong>What if you are Unable to bring your vRealize (Aria) Operations cluster online because one or more nodes are out of disk space. Let&amp;rsquo;s see if the log disk is the problem and try to fix it&lt;/strong>&lt;/p>
+&lt;p>The goal is to find out if the Log disk is full and how to clean it and hopefully you save some time with this mini-Recipe that will show you how to investigate the &amp;ldquo;Unable to bring the cluster online because one or more nodes are out of disk space.&amp;rdquo; error in the Admin console of vRealize Operations and what to check.&lt;/p></description></item><item><title>Bypass Windows 11 Install Problems</title><link>https://bgronas.github.io/post/2022-12-10/</link><pubDate>Sat, 10 Dec 2022 15:22:01 +0100</pubDate><guid>https://bgronas.github.io/post/2022-12-10/</guid><description>
+&lt;h1 id="the-problem">The problem&lt;/h1>
+&lt;p>The goal and purpose was that I needed to bypass the &amp;ldquo;&lt;strong>This PC can’t run Windows 11&lt;/strong>&amp;rdquo; problem during an installation of a Windows 11 Virtual Machine (VM) in my test environment. This DIY recipe will save us the hassle of googling it once again and sorting out the correct article to try out.&lt;/p>
+&lt;h3 id="this-pc-cant-run-windows-11">This PC can’t run Windows 11&lt;/h3>
+&lt;p>This happens during an install:&lt;/p>
+&lt;img src="./aria-automation/index/ErrorCropped-1670682926123-3.png" alt="Windows 11 Fresh Install - This PC can't run Windows 11" style="zoom:80%;" />
+&lt;h1 id="the-solution">The Solution&lt;/h1>
+&lt;ol>
+&lt;li>Go back one step by clicking &lt;strong>top-left blue arrow&lt;/strong>&lt;/li>
+&lt;li>press &amp;lsquo;&lt;strong>Shift+F10&lt;/strong>&amp;rsquo;&lt;/li>
+&lt;li>in the CMD box, type &amp;lsquo;&lt;strong>regedit&lt;/strong>&amp;rsquo; and press &lt;strong>enter&lt;/strong>&lt;/li>
+&lt;li>in the registry editor Navigate to “HKEY_LOCAL_MACHINE\SYSTEM\Setup”&lt;/li>
+&lt;li>Right click Setup, Choose New Key, and Name it &amp;ldquo;&lt;strong>LabConfig&lt;/strong>&amp;rdquo;&lt;/li>
+&lt;li>Under LabConfig, add all these values as &lt;strong>DWORD (32-bit) Values&lt;/strong> and set the data to &lt;strong>1&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>&lt;code>BypassCPUCheck&lt;/code>&lt;/li>
+&lt;li>&lt;code>BypassRAMCheck&lt;/code>&lt;/li>
+&lt;li>&lt;code>BypassSecureBootCheck&lt;/code>&lt;/li>
+&lt;li>&lt;code>BypassStorageCheck&lt;/code>&lt;/li>
+&lt;li>&lt;code>BypassTPMCheck&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;p>After all these manual inserrtions are done, you are ready to continue the fight of installing Windows 11.&lt;/p></description></item><item><title>Install Python 3.10.8 on RaspBerry PI [18.10.2022]</title><link>https://bgronas.github.io/post/2022-10-18/</link><pubDate>Tue, 18 Oct 2022 15:49:42 +0200</pubDate><guid>https://bgronas.github.io/post/2022-10-18/</guid><description>
+&lt;h2 id="how-to-set-up-python-on-pi">How-to set up Python on Pi&lt;/h2>
+&lt;p>The goal of this little article is to show how I installed Python on raspberry PI. There are lot&amp;rsquo;s of articles out there on the subject, but since I am a beginner, I am running through everything I find useful for my self and as a later notice to myself. This saves med the time and hassle to find the recipe or how-to next time. Plus, I know what worked for me.&lt;/p></description></item><item><title>Root Password Expiration on VRealize Appliances</title><link>https://bgronas.github.io/post/2022-06-23/</link><pubDate>Thu, 23 Jun 2022 11:03:00 +0200</pubDate><guid>https://bgronas.github.io/post/2022-06-23/</guid><description>
+&lt;h1 id="what">&lt;strong>What&amp;rsquo;s the problem?&lt;/strong>&lt;/h1>
+&lt;p>Normally a Virtual appliance (VA) in the vRealize Suite (VRS), aka Aria, will expire the root password you set under the installation within a year. Well, nothing dramatic about that. But, will you remember to change it next year? Maybe, if something told you in a GUI, mail or monitoring system that the password were going to expire.&lt;/p>
+&lt;h4 id="a-monitoring-dilemma">A monitoring dilemma&lt;/h4>
+&lt;p>When the VA root password is expired it will prompt you to change it when you SSH into it. &lt;strong>Fine&lt;/strong>. But how would you know if the password expires? AFAIK. There is currently no check for this in vRealize Operations manager, aka Aria Operations, or any of the other vRealize products. There might be a future health check for this, but as for now (june 2022) there was none.&lt;/p></description></item></channel></rss>

@@ -1,49 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Nutanix on Bengt Blog</title>
-    <link>https://bgronas.github.io/tags/nutanix/feed.xml</link>
-    <description>Recent content in Nutanix on Bengt Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>nb-NO</language>
-    <lastBuildDate>Sat, 29 Aug 2026 18:54:17 +0200</lastBuildDate><atom:link href="https://bgronas.github.io/tags/nutanix/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Nutanix User Group 3 September 2026</title>
-      <link>https://bgronas.github.io/post/2026-08-29-nutanix-user-group-3-september-2026/</link>
-      <pubDate>Sat, 29 Aug 2026 18:54:17 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2026-08-29-nutanix-user-group-3-september-2026/</guid>
-      <description>
-        
-          
-            &lt;h3 id=&#34;nutanix-user-group-norway-3-september-2026&#34;&gt;Nutanix User Group Norway 3. September 2026&lt;/h3&gt;
-&lt;p&gt;Den 3. september samler vi igjen det norske Nutanix-miljøet – denne gangen hos Move i Oslo.&lt;/p&gt;
-&lt;p&gt;Vi får besøk av &lt;a href=&#34;https://www.linkedin.com/in/stastro/&#34;&gt;&lt;strong&gt;Simon Todd MSc&lt;/strong&gt;&lt;/a&gt;, som tar oss gjennom &lt;strong&gt;Nutanix Enterprise AI&lt;/strong&gt; og hvordan plattformen utvikler seg fra å gjøre det enkelt å kjøre og konsumere GenAI-modeller til å bli et sentralt lag for enterprise AI.&lt;/p&gt;
-&lt;p&gt;Blant annet ser vi nærmere på AI Gateway – hvordan virksomheter kan få kontroll, sikkerhet og governance rundt bruken av ulike AI-modeller, med ett felles API for LLM-er enten de kjører lokalt eller som eksterne skytjenester som Anthropic.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>NUTANIX USER GROUP</title>
-      <link>https://bgronas.github.io/post/2026-01-26-nutanix-user-group/</link>
-      <pubDate>Mon, 26 Jan 2026 13:31:03 +0100</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2026-01-26-nutanix-user-group/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;nutanix-user-group-oslo-er-tilbake&#34;&gt;Nutanix User Group Oslo er tilbake&lt;/h1&gt;
-&lt;p&gt;Dette er kult hvis du liker samlinger der folk faktisk sier hva som fungerer i drift (og hva som ikke gjør det), er dette for deg. Praktiske erfaringer, ærlige historier og NCI 7.5 i fokus.&lt;/p&gt;
-&lt;p&gt;Det finnes to typer tech-samlinger: de som er “slideware”, og de som faktisk gjør deg bedre i drift.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Nutanix User Group (NUG)&lt;/strong&gt; er ment å være den siste typen: lokalt, community-drevet, og tett på virkeligheten - med demoer, erfaringsdeling og Q&amp;amp;A.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nutanix on Bengt Blog</title><link>https://bgronas.github.io/tags/nutanix/feed.xml</link><description>Recent content in Nutanix on Bengt Blog</description><generator>Hugo -- gohugo.io</generator><language>nb-NO</language><lastBuildDate>Fri, 25 Sep 2026 11:30:00 +0200</lastBuildDate><atom:link href="https://bgronas.github.io/tags/nutanix/feed.xml" rel="self" type="application/rss+xml"/><item><title>Høstens Nutanix-webinarer: fra første cluster til suveren plattform</title><link>https://bgronas.github.io/post/2026-09-25-hostens-nutanix-webinarer/</link><pubDate>Fri, 25 Sep 2026 11:30:00 +0200</pubDate><guid>https://bgronas.github.io/post/2026-09-25-hostens-nutanix-webinarer/</guid><description>
+&lt;p>&lt;strong>Høstens konferansesesong er startet for lenge siden – men du kan slippe mange flyreiser.&lt;/strong> Nutanix kjører en rekke gratis, tekniske online webinarer utover høsten. De kan være verdt en liten time (eller to).&lt;/p>
+&lt;p>Fra ditt første Kubernetes-cluster til en ekte enterprise-plattform, GitOps i praksis, datasuverenitet og en hands-on-Lab om fremtidens virtualisering. Her er litt av hvert. Første multi-rikskringkastning er allerede &lt;strong>onsdag 30. september&lt;/strong>.&lt;/p>
+&lt;h2 id="på-web-norsk-tid">På Web (Norsk tid)&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Dato&lt;/th>
+&lt;th>Klokken&lt;/th>
+&lt;th>Webinar&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Ons 30. september&lt;/td>
+&lt;td>11:00&lt;/td>
+&lt;td>&lt;a href="https://event.nutanix.com/from1clustertoanenterpriseep2">From Your First Kubernetes Cluster to an Enterprise Platform&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ons 7. oktober&lt;/td>
+&lt;td>11:00&lt;/td>
+&lt;td>&lt;a href="https://event.nutanix.com/multitenancygitopsinpractep3">Multitenancy and GitOps in Practice&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Tir 13. oktober&lt;/td>
+&lt;td>11:00–12:00&lt;/td>
+&lt;td>&lt;a href="https://event.nutanix.com/navigatingdatasovereignty">Navigating Data Sovereignty in the Hybrid Multicloud Era&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Fre 16. oktober&lt;/td>
+&lt;td>10:30–12:30&lt;/td>
+&lt;td>&lt;a href="https://event.nutanix.com/thefutureofvirtualizationoct">The Future of Virtualization&lt;/a> (HANDS ON LAB)&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="1-fra-første-cluster-til-enterprise-plattform--30-september">1. Fra første cluster til enterprise-plattform – 30. september&lt;/h2>
+&lt;p>&lt;img title=" " src="./image-20260925161223489.png" style="float: right; width: 10%; max-width: 350px; margin: 0 0 0 10px;" />Ett enkelt K8s cluster er easy-peacy. 10 clustre lukter plattform. Her går vi fra enkeltcluster til en arkitektur der management og produksjon er skilt i egne workload clusters, med produksjonsklare tjenester, &lt;em>&lt;strong>observability&lt;/strong>&lt;/em> og et privat container registry. Dette er Episode 2 i Kubernetes-serien.&lt;/p></description></item><item><title>Nutanix User Group 3 September 2026</title><link>https://bgronas.github.io/post/2026-08-29-nutanix-user-group-3-september-2026/</link><pubDate>Sat, 29 Aug 2026 18:54:17 +0200</pubDate><guid>https://bgronas.github.io/post/2026-08-29-nutanix-user-group-3-september-2026/</guid><description>
+&lt;h3 id="nutanix-user-group-norway-3-september-2026">Nutanix User Group Norway 3. September 2026&lt;/h3>
+&lt;p>Den 3. september samler vi igjen det norske Nutanix-miljøet – denne gangen hos Move i Oslo.&lt;/p>
+&lt;p>Vi får besøk av &lt;a href="https://www.linkedin.com/in/stastro/">&lt;strong>Simon Todd MSc&lt;/strong>&lt;/a>, som tar oss gjennom &lt;strong>Nutanix Enterprise AI&lt;/strong> og hvordan plattformen utvikler seg fra å gjøre det enkelt å kjøre og konsumere GenAI-modeller til å bli et sentralt lag for enterprise AI.&lt;/p>
+&lt;p>Blant annet ser vi nærmere på AI Gateway – hvordan virksomheter kan få kontroll, sikkerhet og governance rundt bruken av ulike AI-modeller, med ett felles API for LLM-er enten de kjører lokalt eller som eksterne skytjenester som Anthropic.&lt;/p></description></item><item><title>NUTANIX USER GROUP</title><link>https://bgronas.github.io/post/2026-01-26-nutanix-user-group/</link><pubDate>Mon, 26 Jan 2026 13:31:03 +0100</pubDate><guid>https://bgronas.github.io/post/2026-01-26-nutanix-user-group/</guid><description>
+&lt;h1 id="nutanix-user-group-oslo-er-tilbake">Nutanix User Group Oslo er tilbake&lt;/h1>
+&lt;p>Dette er kult hvis du liker samlinger der folk faktisk sier hva som fungerer i drift (og hva som ikke gjør det), er dette for deg. Praktiske erfaringer, ærlige historier og NCI 7.5 i fokus.&lt;/p>
+&lt;p>Det finnes to typer tech-samlinger: de som er “slideware”, og de som faktisk gjør deg bedre i drift.&lt;/p>
+&lt;p>&lt;strong>Nutanix User Group (NUG)&lt;/strong> er ment å være den siste typen: lokalt, community-drevet, og tett på virkeligheten - med demoer, erfaringsdeling og Q&amp;amp;A.&lt;/p></description></item></channel></rss>

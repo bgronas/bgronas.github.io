@@ -1,599 +1,223 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Bengt Blog</title>
-    <link>https://bgronas.github.io/post/feed.xml</link>
-    <description>Recent content in Posts on Bengt Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>nb-NO</language>
-    <lastBuildDate>Fri, 25 Sep 2026 11:30:00 +0200</lastBuildDate><atom:link href="https://bgronas.github.io/post/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Nutanix User Group 3 September 2026</title>
-      <link>https://bgronas.github.io/post/2026-08-29-nutanix-user-group-3-september-2026/</link>
-      <pubDate>Sat, 29 Aug 2026 18:54:17 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2026-08-29-nutanix-user-group-3-september-2026/</guid>
-      <description>
-        
-          
-            &lt;h3 id=&#34;nutanix-user-group-norway-3-september-2026&#34;&gt;Nutanix User Group Norway 3. September 2026&lt;/h3&gt;
-&lt;p&gt;Den 3. september samler vi igjen det norske Nutanix-miljøet – denne gangen hos Move i Oslo.&lt;/p&gt;
-&lt;p&gt;Vi får besøk av &lt;a href=&#34;https://www.linkedin.com/in/stastro/&#34;&gt;&lt;strong&gt;Simon Todd MSc&lt;/strong&gt;&lt;/a&gt;, som tar oss gjennom &lt;strong&gt;Nutanix Enterprise AI&lt;/strong&gt; og hvordan plattformen utvikler seg fra å gjøre det enkelt å kjøre og konsumere GenAI-modeller til å bli et sentralt lag for enterprise AI.&lt;/p&gt;
-&lt;p&gt;Blant annet ser vi nærmere på AI Gateway – hvordan virksomheter kan få kontroll, sikkerhet og governance rundt bruken av ulike AI-modeller, med ett felles API for LLM-er enten de kjører lokalt eller som eksterne skytjenester som Anthropic.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>NUTANIX USER GROUP</title>
-      <link>https://bgronas.github.io/post/2026-01-26-nutanix-user-group/</link>
-      <pubDate>Mon, 26 Jan 2026 13:31:03 +0100</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2026-01-26-nutanix-user-group/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;nutanix-user-group-oslo-er-tilbake&#34;&gt;Nutanix User Group Oslo er tilbake&lt;/h1&gt;
-&lt;p&gt;Dette er kult hvis du liker samlinger der folk faktisk sier hva som fungerer i drift (og hva som ikke gjør det), er dette for deg. Praktiske erfaringer, ærlige historier og NCI 7.5 i fokus.&lt;/p&gt;
-&lt;p&gt;Det finnes to typer tech-samlinger: de som er “slideware”, og de som faktisk gjør deg bedre i drift.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Nutanix User Group (NUG)&lt;/strong&gt; er ment å være den siste typen: lokalt, community-drevet, og tett på virkeligheten - med demoer, erfaringsdeling og Q&amp;amp;A.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Android telefon med 200mpx</title>
-      <link>https://bgronas.github.io/post/2025-12-25-android-with-200-megapixels-is-it-any-good/</link>
-      <pubDate>Thu, 25 Dec 2025 18:02:02 +0100</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2025-12-25-android-with-200-megapixels-is-it-any-good/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;47-km-illusjonen&#34;&gt;4,7 km-illusjonen&lt;/h1&gt;
-&lt;p&gt;Den &lt;strong&gt;21. november 2025&lt;/strong&gt;, mens jeg sto på &lt;strong&gt;Alcatraz Island&lt;/strong&gt;, tok jeg et håndholdt bilde av &lt;strong&gt;Golden Gate Bridge&lt;/strong&gt; med en &lt;strong&gt;Samsung Galaxy S24 Ultra&lt;/strong&gt;. Bildet ble tatt med omtrent &lt;strong&gt;20× zoom&lt;/strong&gt; (kanskje mer). Resultatet ble overraskende nok tilfredsstillende. Broen ser nærmere ut. Kameraet fikk avstanden til å se kort ut … men … &lt;strong&gt;Den geodetiske avstanden (rett linje) mellom Fort Point og Alcatraz er omtrent 4,7 km!!&lt;/strong&gt; Dette er en koordinatbasert, geodetisk måling uavhengig av veier, ruter, tidevann eller egen visuell vurdering.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Himalaya på MC</title>
-      <link>https://bgronas.github.io/post/2025-12-09-mc-tur-til-himalaya-med-norind/</link>
-      <pubDate>Tue, 09 Dec 2025 21:35:24 +0100</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2025-12-09-mc-tur-til-himalaya-med-norind/</guid>
-      <description>
-        
-          
-            &lt;p&gt;
-  &lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;åååå… DEN følelsen!&#34;
-      
-        class=&#34;image_figure image_internal image_processed&#34;
-        width=&#34;2048&#34;
-        height=&#34;946&#34;
-        src=&#34;https://bgronas.github.io/post/2025-12-09-mc-tur-til-himalaya-med-norind/intro.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
-&lt;/p&gt;
-&lt;p&gt;Norind Adventures og motorsykkeltur i Himalaya - Lurer på om dette kan være noe for deg? Her er en liten oppsummering&lt;/p&gt;
-&lt;h1 id=&#34;himalaya-på-mc&#34;&gt;Himalaya på MC&lt;/h1&gt;
-&lt;p&gt;
-  &lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;Royal Enfield Himalayan 411. Første kjøredag var våt&#34;
-      
-        class=&#34;image_figure image_internal image_processed&#34;
-        width=&#34;2048&#34;
-        height=&#34;946&#34;
-        src=&#34;https://bgronas.github.io/post/2025-12-09-mc-tur-til-himalaya-med-norind/bikes.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
-&lt;/p&gt;
-&lt;p&gt;I september 2025 var vi med Norind Adventures på en episk motorsykkeltur i Himalaya. Blant tingene vi opplevde var dager med MC ekspedisjoner i regionen &lt;strong&gt;Ladakh&lt;/strong&gt;. Vi kjørte gjennom ganske mye ekstreme landskap — snødekte fjell, gjørme og regn, tørre ørkener, daler, høydedaler, alpine innsjøer og sanddyner og sist men ikke minst Kjøring over &lt;strong&gt;pass&lt;/strong&gt;.   Terrenget varierer fra asfalt til røff stein, grus og sand. Noen ganger var det hardt arbeid, andre ganger følelsen av å seile gjennom eventyrlige Himalaya-landskap.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Goodbye Broadcom, Goodbye VMware, Hello Future</title>
-      <link>https://bgronas.github.io/post/2025-01-10/</link>
-      <pubDate>Fri, 10 Jan 2025 15:19:01 +0100</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2025-01-10/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;my-turn-came&#34;&gt;My turn came..&lt;/h1&gt;
-&lt;p&gt;The priorities for FY25 have unfortunately led to changes in our team. I am one of those affected. It’s not hopeless. I’m not angry or bitter, just a bit disappointed. But life goes on, and so will I. I will look for something sustainable, and reflect on what to do next.&lt;/p&gt;
-&lt;h1 id=&#34;vmware--a-journey-of-a-lifetime&#34;&gt;VMware – A Journey of a Lifetime&lt;/h1&gt;
-&lt;p&gt;So, my turn has come. Now in 2025, my time at VMware, VMware by Broadcom, or simply VMware, drew to a close. As I sit here reflecting, my mind is full of memories, and my heart is filled with gratitude for what has truly been an incredible journey, one that began in November 2013. It has been a time marked by innovation, collaboration, and genuine camaraderie – a chapter of my life I will cherish forever.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Maximize Efficiency: Power-Saving Techniques in vSphere &#43; Operations Dashboards</title>
-      <link>https://bgronas.github.io/post/2023-10-03/</link>
-      <pubDate>Tue, 21 Nov 2023 14:24:39 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2023-10-03/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;better--faster-vs-save-power&#34;&gt;Better &amp;amp; faster vs. Save power!&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;./assets/1578728-200.png&#34; align=right style=&#34;zoom:80%;&#34; /&gt;The technological wonders we&amp;rsquo;ve created have undoubtedly made our lives more connected, better and faster. Our dependency on IT infrastructures has grown, and so has also the &lt;em&gt;&lt;strong&gt;demand for power&lt;/strong&gt;&lt;/em&gt;.  But with a  passion for sustainability, let’s talk about the server power-saving techniques, particularly in a vSphere environment.&lt;/p&gt;
-&lt;p&gt;In my previous article I talked about the vSphere feature &lt;strong&gt;DPM&lt;/strong&gt;, or Distributed Power Management, to power off hosts dynamically when the demand is low. &lt;a href=&#34;https://bgronas.github.io/post/2023-09-08/&#34;&gt;Go and have a look.&lt;/a&gt;   This article complements the VMware Explore session where my buddy &lt;a href=&#34;vbondzio@vmware.com&#34;&gt;Valentin Bondzio&lt;/a&gt; explained his &amp;ldquo;no Risk HPM&amp;rdquo; methodology. Note: It starts at 27:52 in the session &lt;a href=&#34;https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683885521040001LU2d&amp;amp;videoId=6340794321112&#34;&gt;Orange journey to reduce their carbon emissions &amp;amp; Focus on HPM&lt;/a&gt; - Head over to his Blog &lt;a href=&#34;https://valentin.bondz.io/no-risk-host-power-management/&#34;&gt;No Risk Host Power Management&lt;/a&gt;.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Eco-Friendly Datacenter Management: Power Management Strategies</title>
-      <link>https://bgronas.github.io/post/2023-09-08/</link>
-      <pubDate>Fri, 08 Sep 2023 10:19:28 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2023-09-08/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;sustainability-is-key-for-eu-organizations&#34;&gt;Sustainability is key for EU organizations&lt;/h1&gt;
-&lt;img src=&#34;./assets/image-20230927225014134.png&#34; style=&#34;zoom:40%;float:left;margin:1px 55px 100px 1px;border:2px solid green&#34;/&gt; 
-&lt;p&gt;GREENHOUSE GAS EMMISSIONS (GhG):&lt;/p&gt;
-&lt;p&gt;We&amp;rsquo;re cutting emissions and costs by optimizing workloads and promoting virtualization.&lt;/p&gt;
-&lt;p&gt;A Green Score in Aria Operations tracks progress with five parameters, to target improvements, these are:&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Workload Efficiency, Resource Utilization, Virtualization Rate, power Source, and Hardware Efficiency&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://bgronas.github.io/post/2023-03-27/#hyperscalers-are-power-saving&#34;&gt;The large Hyperscalers are saving&lt;/a&gt;,&lt;/strong&gt; and so should we.&lt;/p&gt;
-&lt;p&gt; &lt;p&gt; &lt;p&gt; &lt;p&gt;
-&lt;h1 id=&#34;vsphere-distributed-power-management&#34;&gt;vSphere Distributed Power Management&lt;/h1&gt;
-&lt;img src=&#34;./assets/image-20231122075434152.png&#34; style=&#34;margin:1px 25px 1px 1px;border:1px solid green&#34;/&gt;
-&lt;p&gt;The vSphere Distributed Power Management (&lt;strong&gt;DPM&lt;/strong&gt;) feature optimizes power usage in virtualized data centers by dynamically adjusting server power states based on workload demand, saving energy and costs while maintaining high availability.  Its excellence lies in its ability to optimize power consumption and dynamically adjusts the power state of servers based on workload demand. Unused servers are powered off or placed in a low-power state.  This reduces energy costs, and contributes to environmental sustainability. &lt;strong&gt;So, have you tried to give DPM a second chance?&lt;/strong&gt;  If not, please consider it. For every kilowatt consumed by servers you would need cooling!&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>IaaS Automated Powersaving, Green Sustainability   Pt. 3</title>
-      <link>https://bgronas.github.io/post/2023-04-18/</link>
-      <pubDate>Tue, 18 Apr 2023 09:11:13 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2023-04-18/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;get-wise-about-operations&#34;&gt;&lt;strong&gt;Get wise about Operations&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;When using Aria Operations we should ensure we are using corresponding working hours in the capacity policy, to avoid unforeseen effects on the calculation for powered off VMs&lt;/strong&gt;. The goal and purpose of this Topic is to show why we should either use the construct “Business Hours” or “Maintenance Schedules” in a VMware Aria Operations Policy to avoid hassle during the powering off of workloads&lt;/p&gt;
-&lt;p&gt;This article is divided into 3 parts:&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>IaaS Automated Powersaving, Green Sustainability - Pt.2</title>
-      <link>https://bgronas.github.io/post/2023-04-16/</link>
-      <pubDate>Sun, 16 Apr 2023 14:34:56 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2023-04-16/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;up-and-running-with-powersaving&#34;&gt;&lt;strong&gt;Up and running with powersaving&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;The goal and purpose of this article is to show an example of implementation to accomplish the scheduled Powering off(and on) of VMs in our own On-Premises datacenter the same way Google GCP, AWS, and Azure VMs does it with their Hyperscalers.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;This article is divided into 3 parts:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://bgronas.github.io/post/2023-03-27/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bgronas.github.io/post/2023-04-16/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bgronas.github.io/post/2023-04-18/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.3&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;img src=&#34;./images/index/image-20230416162218067.png&#34; align=&#34;left&#34; style=&#34;zoom:100%;&#34; /&gt;
-&lt;p&gt;This is the &lt;strong&gt;second&lt;/strong&gt; article containing the practical walk through of an example of how to do this with VMware technology.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>IaaS Automated Powersaving, Green Sustainability - Pt.1</title>
-      <link>https://bgronas.github.io/post/2023-03-27/</link>
-      <pubDate>Mon, 27 Mar 2023 17:43:45 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2023-03-27/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;powersaving-in-our-datacenter&#34;&gt;&lt;strong&gt;Powersaving in our datacenter&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;The goal and purpose of this article is to discuss “the WHY” in Powering off and Powering On VMs based on regular Schedule, just the way Google GCP, AWS, and Azure does it with VMs&lt;/strong&gt;. Why would we implement Sustainable Practices to meet our sustainability goals?&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;This article is divided into 3 parts:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://bgronas.github.io/post/2023-03-27/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bgronas.github.io/post/2023-04-16/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bgronas.github.io/post/2023-04-18/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.3&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;this-is-the-first-article-containing-the-why&#34;&gt;This is the first article containing the WHY.&lt;/h4&gt;
-&lt;p&gt;Note: If you want to go ahead and implement everything immediately without further knowledge, please head over the article &lt;a href=&#34;https://bgronas.github.io/post/2023-04-16/&#34;&gt;IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a&gt;&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Cloud Management Tech Zone</title>
-      <link>https://bgronas.github.io/post/2023-03-03/</link>
-      <pubDate>Fri, 03 Mar 2023 08:52:27 +0100</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2023-03-03/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;dead-or-alive&#34;&gt;Dead or alive?&lt;/h1&gt;
-&lt;p&gt;Is the good old Pathfinder dead and Modern Apps and Cloud Management &lt;strong&gt;Techzone&lt;/strong&gt; next? Maybe, or maybe it isn’t&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;h2 id=&#34;what-am-i-talking-about&#34;&gt;What am I talking about?&lt;/h2&gt;
-&lt;p&gt;For some time, VMware have had a collection of resources assembled as a collection in a one-stop-shop for resources such as videos, blogs, articles and training for all the cloud management products. Even the &lt;a href=&#34;https://labs.hol.vmware.com/&#34;&gt;Hands-On Labs&lt;/a&gt; have had links on these pages. This collection was called &lt;a href=&#34;https://pathfinder.vmware.com.&#34;&gt;PathFinder&lt;/a&gt;&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Operations and Orchestrator</title>
-      <link>https://bgronas.github.io/post/2023-02-24/</link>
-      <pubDate>Fri, 24 Feb 2023 10:02:11 +0100</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2023-02-24/</guid>
-      <description>
-        
-          
-            &lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
-&lt;p&gt;The goal and purpose is to show how to connect vRealize Orchestrator to vRealize Operations to later be able to do actions and remedies based on alerts in vRealize Operations. You can then also run Orchestrator workflows directly from vRealize Operations objects.  I hope this little article with it’s two cruicial tips will save you time and hassle and to easily be successful.&lt;/p&gt;
-&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;vRealize Orchestrator&lt;/strong&gt; installed. My Orchestrator is installed with vRealize Automation or you can download your standalone version from &lt;a href=&#34;https://customerconnect.vmware.com/&#34;&gt;Customer Connect&lt;/a&gt; Look under &amp;ldquo;Download VMware vSphere&amp;rdquo; (vRO is free with vCenter).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;vRealize Operations&lt;/strong&gt; installed. I used vRealize Lifecycle Manager and deployed VROPS from there.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;vRealize Operations management pack&lt;/strong&gt; go to the marketplace and search for &amp;ldquo;Management Pack for vRealize Orchestrator&amp;rdquo;. I will be using version 3.2.1 of the Management Pack for vRealize Orchestrator. The file name is: &lt;em&gt;&amp;quot;&lt;a href=&#34;https://marketplace.cloud.vmware.com/services/details/management-pack-for-vrealize-orchestrator11-11?slug=true&#34;&gt;vmware-mpforvro-3-2-1-19171022-pak&lt;/a&gt;&amp;quot;&lt;/em&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
-&lt;p&gt;I recommend to read this thoroughly, because not every step will be explained here. At least go to the &lt;a href=&#34;&#34;&gt;Overview to see all the steps&lt;/a&gt; and the &lt;a href=&#34;https://docs.vmware.com/en/VMware-vRealize-Operations-Management-Pack-for-vRealize-Orchestrator/3.2/vrealize-orchestrator/GUID-CE89A064-09D8-4412-9903-9604A09BD0EF.html&#34;&gt;Configure&lt;/a&gt; section.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>VROPS Out of Disk Space</title>
-      <link>https://bgronas.github.io/post/2023-01-31/</link>
-      <pubDate>Tue, 31 Jan 2023 12:53:31 +0100</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2023-01-31/</guid>
-      <description>
-        
-          
-            &lt;p&gt;&lt;strong&gt;What if you are Unable to bring your vRealize (Aria) Operations cluster online because one or more nodes are out of disk space. Let&amp;rsquo;s see if the log disk is the problem and try to fix it&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The goal is to find out if the Log disk is full and how to clean it and hopefully you save some time with this mini-Recipe that will show you how to investigate the &amp;ldquo;Unable to bring the cluster online because one or more nodes are out of disk space.&amp;rdquo; error in the Admin console of vRealize Operations and what to check.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Bypass Windows 11 Install Problems</title>
-      <link>https://bgronas.github.io/post/2022-12-10/</link>
-      <pubDate>Sat, 10 Dec 2022 15:22:01 +0100</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2022-12-10/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;the-problem&#34;&gt;The problem&lt;/h1&gt;
-&lt;p&gt;The goal and purpose was that I needed to bypass the &amp;ldquo;&lt;strong&gt;This PC can’t run Windows 11&lt;/strong&gt;&amp;rdquo; problem during an installation of a Windows 11 Virtual Machine (VM) in my test environment.  This DIY recipe will save us the hassle of googling it once again and sorting out the correct article to try out.&lt;/p&gt;
-&lt;h3 id=&#34;this-pc-cant-run-windows-11&#34;&gt;This PC can’t run Windows 11&lt;/h3&gt;
-&lt;p&gt;This happens during an install:&lt;/p&gt;
-&lt;img src=&#34;./aria-automation/index/ErrorCropped-1670682926123-3.png&#34; alt=&#34;Windows 11 Fresh Install - This PC can&#39;t run Windows 11&#34; style=&#34;zoom:80%;&#34; /&gt;
-&lt;h1 id=&#34;the-solution&#34;&gt;The Solution&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;Go back one step by clicking &lt;strong&gt;top-left blue arrow&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;press &amp;lsquo;&lt;strong&gt;Shift+F10&lt;/strong&gt;&amp;rsquo;&lt;/li&gt;
-&lt;li&gt;in the CMD box, type &amp;lsquo;&lt;strong&gt;regedit&lt;/strong&gt;&amp;rsquo; and press &lt;strong&gt;enter&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;in the registry editor Navigate to “HKEY_LOCAL_MACHINE\SYSTEM\Setup”&lt;/li&gt;
-&lt;li&gt;Right click Setup, Choose New Key, and Name it &amp;ldquo;&lt;strong&gt;LabConfig&lt;/strong&gt;&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Under LabConfig, add all these values as &lt;strong&gt;DWORD (32-bit) Values&lt;/strong&gt; and set the data to &lt;strong&gt;1&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;BypassCPUCheck&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;BypassRAMCheck&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;BypassSecureBootCheck&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;BypassStorageCheck&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;BypassTPMCheck&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;After all these manual inserrtions are done, you are ready to continue the fight of installing Windows 11.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>VRealize Operations Management Pack for Kubernetes 1.8 [15.11.2022]</title>
-      <link>https://bgronas.github.io/post/2022-11-15/</link>
-      <pubDate>Tue, 15 Nov 2022 17:57:00 +0100</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2022-11-15/</guid>
-      <description>
-        
-          
-            &lt;h2 id=&#34;monitoring-k8s-with-vmware&#34;&gt;Monitoring K8s with VMware&lt;/h2&gt;
-&lt;p&gt;Monitoring is an essential part of &lt;em&gt;DevOps&lt;/em&gt;. As enterprises are using Kubernetes, they would need all the capabilities they leverage today for virtual machines. Starting from discovering the Kubernetes clusters, creating an inventory, defining relationships, and finally collecting all the key metrics and events to provide full visibility and do Troubleshooting and Root Cause Analysis.&lt;/p&gt;
-&lt;p&gt;You can use &lt;strong&gt;vRealize Operations&lt;/strong&gt; to monitor your open-source container orchestration system &lt;strong&gt;Kubernetes&lt;/strong&gt; environment.  Why wouldn&amp;rsquo;t Prometheus &amp;amp; Grafana be enough? Well, Aria Operations formerly known as vRealize Operations can do so much more than just monitor Kubernetes, but we&amp;rsquo;re not going to talk about that in-depth here. Even if Grafana in the end will give you some charts, graphs, and alerts regarding your Kubernetes environment, you would want to use vROps or Aria Operations for the task. This will save you the hassle of maintaining the various solutions required and maybe even have separate people for separate expertise.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Install Python 3.10.8 on RaspBerry PI [18.10.2022]</title>
-      <link>https://bgronas.github.io/post/2022-10-18/</link>
-      <pubDate>Tue, 18 Oct 2022 15:49:42 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2022-10-18/</guid>
-      <description>
-        
-          
-            &lt;h2 id=&#34;how-to-set-up-python-on-pi&#34;&gt;How-to set up Python on Pi&lt;/h2&gt;
-&lt;p&gt;The goal of this little article is to show how I installed Python on raspberry PI.  There are lot&amp;rsquo;s of articles out there on the subject, but since I am a beginner, I am running through everything I find useful for  my self and as a later notice to myself. This saves med the time and hassle to find the recipe or how-to next time. Plus, I know what worked for me.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Become a Power User of VRealize Log Insight [19.07.2022]</title>
-      <link>https://bgronas.github.io/post/2022-07-19/</link>
-      <pubDate>Tue, 19 Jul 2022 10:05:04 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2022-07-19/</guid>
-      <description>
-        
-          
-            &lt;h5 id=&#34;for-the-fourth-time-i-am-a-captain-as-a-part-of-the-vmware-hands-on-labs-and-this-year-i-will-be-on-both-vmware-explore-arrangements-in-usa-and-europe&#34;&gt;For the fourth time I am a &amp;lsquo;captain&amp;rsquo; as a part of the VMware Hands-On Labs, and this year I will be on both &lt;strong&gt;VMware Explore&lt;/strong&gt; arrangements in USA and EUROPE.&lt;/h5&gt;
-&lt;h6 id=&#34;while-serving-the-hands-on-labs-environment-we-will-have-instructor-lead-workshops-elw-where-the-participating-audience-will-have-headsets-and-listening-to-me-while-we-go-through-one-of-the-labs&#34;&gt;While serving the Hands-on Labs environment, we will have Instructor Lead Workshops (ELW) where the participating audience will have headsets and listening to me while we go through one of the labs.&lt;/h6&gt;
-&lt;h6 id=&#34;one-of-the-labs-ive-previously-have-written-is-the-advanced-topics-in-vrealize-log-insight-hol-2201-11-cmp-and-this-particular-instructor-lead-workshops-will-be-taken-from-one-of-the-modules-from-that-lab&#34;&gt;One of the Labs I&amp;rsquo;ve previously have written is the Advanced Topics in vRealize Log Insight (HOL-2201-11-CMP), and this particular Instructor Lead Workshops will be taken from one of the modules from that Lab.&lt;/h6&gt;
-&lt;p&gt;With me will be my CO-Host: Staff Technical Account Manager at VMware, &lt;strong&gt;Shannon Fitzpatrick&lt;/strong&gt;&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Root Password Expiration on VRealize Appliances</title>
-      <link>https://bgronas.github.io/post/2022-06-23/</link>
-      <pubDate>Thu, 23 Jun 2022 11:03:00 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2022-06-23/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;what&#34;&gt;&lt;strong&gt;What&amp;rsquo;s the problem?&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Normally a Virtual appliance (VA) in the vRealize Suite (VRS), aka Aria, will expire the root password you set under the installation within a year. Well, nothing dramatic about that. But, will you remember to change it next year? Maybe, if something told you in a GUI, mail or monitoring system that the password were going to expire.&lt;/p&gt;
-&lt;h4 id=&#34;a-monitoring-dilemma&#34;&gt;A monitoring dilemma&lt;/h4&gt;
-&lt;p&gt;When the VA root password is expired it will prompt you to change it when you SSH into it. &lt;strong&gt;Fine&lt;/strong&gt;. But how would you know if the password expires? AFAIK. There is currently no check for this in vRealize Operations manager, aka Aria Operations, or any of the other vRealize products. There might be a future health check for this, but as for now (june 2022) there was none.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>VMware Explore, the New VMworld! [19.05.2022]</title>
-      <link>https://bgronas.github.io/post/2022-05-19/</link>
-      <pubDate>Thu, 19 May 2022 10:43:52 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2022-05-19/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;vmware-explore-is-the-new-vmworld&#34;&gt;VMware Explore is the new VMworld&lt;/h1&gt;
-&lt;p&gt;Right? Right!  Yes it&amp;rsquo;s all here, this will not change back again. Do we all want to change in the same pace VMware does. We all know that can be challenging for customers, but what about you? Read through this and see if your own personal opinions differ from mine, I hope they do.&lt;/p&gt;
-&lt;h4 id=&#34;being-a-vmware-employee&#34;&gt;Being a VMware employee&lt;/h4&gt;
-&lt;p&gt;VMware is all about diversity. We can all be ourselves as long as we don&amp;rsquo;t hurt anyone. So even if VMware from time to time does something that an &lt;strong&gt;&lt;u&gt;old&lt;/u&gt;&lt;/strong&gt; guy like me do not like, there&amp;rsquo;s still hope. On the other hand, why would I ?   There should be no reason to slag off people of CHANGE. We all are professionals seeing change in the fastest pace ever. There is no reason to  criticize crazy people with passionate inventions (that actually worked). And now, I&amp;rsquo;m not talking about &lt;em&gt;The Cyclomer&lt;/em&gt; :-)&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>vRealize Operations 8.6.3. [29.04.2022]</title>
-      <link>https://bgronas.github.io/post/2022-04-29/</link>
-      <pubDate>Fri, 29 Apr 2022 14:54:50 +0200</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2022-04-29/</guid>
-      <description>
-        
-          
-            &lt;p&gt;** &amp;ldquo;Recently&amp;rdquo;, VMware released new and improved vRealize versions. Let&amp;rsquo;s have a look on vRealize Operations and the new v8.6.3 of the product**.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;** Note: If you can&amp;rsquo;t find stuff ** - Exit Broadcom and go see: &lt;a href=&#34;https://www.youtube.com/@Nutanix/videos&#34;&gt;NUTANIX videos&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;This release from 8.6.2 to 8.6.3. is a is a &lt;strong&gt;maintenance release&lt;/strong&gt; which resolves a few important security and functionality issues identified in the product For more details, see &lt;a href=&#34;https://kb.vmware.com/s/article/88081&#34;&gt;KB 88081&lt;/a&gt;. There are &lt;em&gt;154 CVE&amp;rsquo;s&lt;/em&gt; (Common Vulnerabilities and Exposures) solved and fixed. I&amp;rsquo;d say it&amp;rsquo;s quite a large update even if it feels minor. The following issues have been resolved as of vRealize Operations 8.6.3:&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Frigate - I&#39;ve neither seen the boat nor the bird</title>
-      <link>https://bgronas.github.io/post/2022-03-07/</link>
-      <pubDate>Mon, 07 Mar 2022 20:31:51 +0000</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2022-03-07/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;frigate&#34;&gt;Frigate&lt;/h1&gt;
-&lt;p&gt;Frigate - I&amp;rsquo;ve neither seen the boat nor the bird but my Frigate can actually dock or nest?! :-)
-Frigate is an open source NVR, a &lt;strong&gt;N&lt;/strong&gt;etwork &lt;strong&gt;V&lt;/strong&gt;ideo &lt;strong&gt;R&lt;/strong&gt;ecorder which is run as a Docker container on a Docker host. My preferred choice was to run it on Ubuntu 21.04 and install all the docker components directly on ubuntu on hardware. This is the recommended install method.&lt;/p&gt;
-&lt;p&gt;I hope that, by exposing my own configuration here, people might install and configure frigate faster than I did.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>New Year, New Blog, Learning HUGO [19.01.2022]</title>
-      <link>https://bgronas.github.io/post/year-blog-learning-hugo-19-01-2022/</link>
-      <pubDate>Wed, 19 Jan 2022 15:55:16 +0000</pubDate>
-      
-      <guid>https://bgronas.github.io/post/year-blog-learning-hugo-19-01-2022/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;wow-i-just-moved-to-hugo&#34;&gt;WOW, I just moved to HUGO.&lt;/h1&gt;
-&lt;h6 id=&#34;wordpress&#34;&gt;Wordpress&lt;/h6&gt;
-&lt;p&gt;I was previously using Wordpress with my public web  provider. proISP. I have loved ProISP, they are providing me with domains, e-mail, web hosting, MySQL databases and everything.&lt;/p&gt;
-&lt;p&gt;Hosting a Wordpress site with them and paying almost nothing for it was very cool, and I have loved wordpress for the simplicity and for the easiness of changing the looks by using simple CSS, Templates, and publishing, It&amp;rsquo;s just been a walk in the park. :-)&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Connect vROps to vRO</title>
-      <link>https://bgronas.github.io/post/2022-01-12/</link>
-      <pubDate>Wed, 12 Jan 2022 19:20:12 +0100</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2022-01-12/</guid>
-      <description>
-        
-          
-            &lt;p&gt;&lt;strong&gt;Extending vRealize Operations with vRealize Orchestrator&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Sometimes it&amp;rsquo;s a good thing to connect vRealize Orchestrator to vRealize Operations to be able to do actions and remedies based on alerts in vRealize Operations. Another thing that this connection provides is the possibilities to run Orchestrator workflows directly from vRealize Operations objects.&lt;/p&gt;
-&lt;h3 id=&#34;how-we-do-this---in-details-now&#34;&gt;How we do this - in details, now!&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;You will need:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;vRealize Orchestrator&lt;/strong&gt; installed
-This can either be included together with vRealize Automation, or, a standalone Orchestrator solution. My Orchestrator is installed with vRealize Automation. I&amp;rsquo;ll use that! If you do not have it, download your standalone version from &lt;a href=&#34;https://customerconnect.vmware.com/&#34;&gt;Customer Connect&lt;/a&gt; (vRO is free with vCenter). Look under &amp;ldquo;Download VMware vSphere&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;vRealize Operations&lt;/strong&gt; installed. Well I have already used vRealize Lifecycle Manager and deployed mine. It is connected to vCenter,  to vRealize Log Insight, and to vRealize Automation. This helps with both a Last mile of troubleshooting as well as providing my deployments in vRealize automation with metrics from vRealize Operations, for example Cost / Price, Showback / Chargeback information&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Download&lt;/strong&gt; the vRealize Operations management pack from the marketplace. Basically, just go to the marketplace and search for &amp;ldquo;VMware vRealize Operations Management Pack for vRealize Orchestrator&amp;rdquo;. Since I will be showing this for vRealize Operations 8.6.x we need version 3.2 of the Management Pack for vRealize Orchestrator: &lt;a href=&#34;https://marketplace.cloud.vmware.com/services/details/management-pack-for-vrealize-orchestrator11?slug=true&#34;&gt;https://marketplace.cloud.vmware.com/services/details/management-pack-for-vrealize-orchestrator11?slug=true&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The file name would for example be: &lt;em&gt;&amp;ldquo;vmware-mpforvro-3-1634214904032.pak&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h5 id=&#34;note-if-you-cant-find-stuff--&#34;&gt;Note: If you can&amp;rsquo;t find stuff -&lt;/h5&gt;
-&lt;p&gt;Exit Broadcom and go see: &lt;a href=&#34;https://www.youtube.com/@Nutanix/videos&#34;&gt;NUTANIX videos&lt;/a&gt;&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Mixing VRealize Operations Licenses</title>
-      <link>https://bgronas.github.io/post/2022-01-11/</link>
-      <pubDate>Tue, 11 Jan 2022 01:29:03 +0100</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2022-01-11/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;mixing-vrealize-operations-licenses-isnt-easy-lets-try-to-define-whats-possible&#34;&gt;Mixing vRealize Operations Licenses isn&amp;rsquo;t easy. Let&amp;rsquo;s try to define what&amp;rsquo;s possible.&lt;/h1&gt;
-&lt;h1 id=&#34;mixing-vrealize-suite--vrealize-operations-licenses&#34;&gt;Mixing vRealize Suite / vRealize Operations Licenses.&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;The vRealize Suite STD will give you vROps ADV&lt;/li&gt;
-&lt;li&gt;With both suites (adv/std) you will end up with vROps Adv.&lt;/li&gt;
-&lt;li&gt;You can mix vROps ADV and vROps ENT editions/licenses.&lt;/li&gt;
-&lt;li&gt;You can&amp;rsquo;t mix vROps STD with vROps ADV or vROps Ent.&lt;/li&gt;
-&lt;li&gt;vRealize Suite Per-CPU and per OSI can be mixed&lt;/li&gt;
-&lt;li&gt;vRealize Operations ADV + vRealize Suite STD - This allowed but ONLY as separate license groups. &lt;em&gt;It doesn&amp;rsquo;t work when you mix the keys in one group&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;vRealize Suite ADV + vRealize Suite STD - will work too, 	as both with both suites you will end up with vROps Adv. &lt;em&gt;Separate license types into License Groups&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Don&amp;rsquo;t forget you have vRA in vRealize Suite ADV too, and mixing editions at vRA might not be permitted&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://bgronas.github.io/post/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bgronas.github.io/post/about/</guid>
-      <description>
-        
-          
-          
-        
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Bengt Blog</title><link>https://bgronas.github.io/post/feed.xml</link><description>Recent content in Posts on Bengt Blog</description><generator>Hugo -- gohugo.io</generator><language>nb-NO</language><lastBuildDate>Fri, 25 Sep 2026 11:30:00 +0200</lastBuildDate><atom:link href="https://bgronas.github.io/post/feed.xml" rel="self" type="application/rss+xml"/><item><title>Høstens Nutanix-webinarer: fra første cluster til suveren plattform</title><link>https://bgronas.github.io/post/2026-09-25-hostens-nutanix-webinarer/</link><pubDate>Fri, 25 Sep 2026 11:30:00 +0200</pubDate><guid>https://bgronas.github.io/post/2026-09-25-hostens-nutanix-webinarer/</guid><description>
+&lt;p>&lt;strong>Høstens konferansesesong er startet for lenge siden – men du kan slippe mange flyreiser.&lt;/strong> Nutanix kjører en rekke gratis, tekniske online webinarer utover høsten. De kan være verdt en liten time (eller to).&lt;/p>
+&lt;p>Fra ditt første Kubernetes-cluster til en ekte enterprise-plattform, GitOps i praksis, datasuverenitet og en hands-on-Lab om fremtidens virtualisering. Her er litt av hvert. Første multi-rikskringkastning er allerede &lt;strong>onsdag 30. september&lt;/strong>.&lt;/p>
+&lt;h2 id="på-web-norsk-tid">På Web (Norsk tid)&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Dato&lt;/th>
+&lt;th>Klokken&lt;/th>
+&lt;th>Webinar&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Ons 30. september&lt;/td>
+&lt;td>11:00&lt;/td>
+&lt;td>&lt;a href="https://event.nutanix.com/from1clustertoanenterpriseep2">From Your First Kubernetes Cluster to an Enterprise Platform&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ons 7. oktober&lt;/td>
+&lt;td>11:00&lt;/td>
+&lt;td>&lt;a href="https://event.nutanix.com/multitenancygitopsinpractep3">Multitenancy and GitOps in Practice&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Tir 13. oktober&lt;/td>
+&lt;td>11:00–12:00&lt;/td>
+&lt;td>&lt;a href="https://event.nutanix.com/navigatingdatasovereignty">Navigating Data Sovereignty in the Hybrid Multicloud Era&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Fre 16. oktober&lt;/td>
+&lt;td>10:30–12:30&lt;/td>
+&lt;td>&lt;a href="https://event.nutanix.com/thefutureofvirtualizationoct">The Future of Virtualization&lt;/a> (HANDS ON LAB)&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="1-fra-første-cluster-til-enterprise-plattform--30-september">1. Fra første cluster til enterprise-plattform – 30. september&lt;/h2>
+&lt;p>&lt;img title=" " src="./image-20260925161223489.png" style="float: right; width: 10%; max-width: 350px; margin: 0 0 0 10px;" />Ett enkelt K8s cluster er easy-peacy. 10 clustre lukter plattform. Her går vi fra enkeltcluster til en arkitektur der management og produksjon er skilt i egne workload clusters, med produksjonsklare tjenester, &lt;em>&lt;strong>observability&lt;/strong>&lt;/em> og et privat container registry. Dette er Episode 2 i Kubernetes-serien.&lt;/p></description></item><item><title>Nutanix User Group 3 September 2026</title><link>https://bgronas.github.io/post/2026-08-29-nutanix-user-group-3-september-2026/</link><pubDate>Sat, 29 Aug 2026 18:54:17 +0200</pubDate><guid>https://bgronas.github.io/post/2026-08-29-nutanix-user-group-3-september-2026/</guid><description>
+&lt;h3 id="nutanix-user-group-norway-3-september-2026">Nutanix User Group Norway 3. September 2026&lt;/h3>
+&lt;p>Den 3. september samler vi igjen det norske Nutanix-miljøet – denne gangen hos Move i Oslo.&lt;/p>
+&lt;p>Vi får besøk av &lt;a href="https://www.linkedin.com/in/stastro/">&lt;strong>Simon Todd MSc&lt;/strong>&lt;/a>, som tar oss gjennom &lt;strong>Nutanix Enterprise AI&lt;/strong> og hvordan plattformen utvikler seg fra å gjøre det enkelt å kjøre og konsumere GenAI-modeller til å bli et sentralt lag for enterprise AI.&lt;/p>
+&lt;p>Blant annet ser vi nærmere på AI Gateway – hvordan virksomheter kan få kontroll, sikkerhet og governance rundt bruken av ulike AI-modeller, med ett felles API for LLM-er enten de kjører lokalt eller som eksterne skytjenester som Anthropic.&lt;/p></description></item><item><title>NUTANIX USER GROUP</title><link>https://bgronas.github.io/post/2026-01-26-nutanix-user-group/</link><pubDate>Mon, 26 Jan 2026 13:31:03 +0100</pubDate><guid>https://bgronas.github.io/post/2026-01-26-nutanix-user-group/</guid><description>
+&lt;h1 id="nutanix-user-group-oslo-er-tilbake">Nutanix User Group Oslo er tilbake&lt;/h1>
+&lt;p>Dette er kult hvis du liker samlinger der folk faktisk sier hva som fungerer i drift (og hva som ikke gjør det), er dette for deg. Praktiske erfaringer, ærlige historier og NCI 7.5 i fokus.&lt;/p>
+&lt;p>Det finnes to typer tech-samlinger: de som er “slideware”, og de som faktisk gjør deg bedre i drift.&lt;/p>
+&lt;p>&lt;strong>Nutanix User Group (NUG)&lt;/strong> er ment å være den siste typen: lokalt, community-drevet, og tett på virkeligheten - med demoer, erfaringsdeling og Q&amp;amp;A.&lt;/p></description></item><item><title>Android telefon med 200mpx</title><link>https://bgronas.github.io/post/2025-12-25-android-with-200-megapixels-is-it-any-good/</link><pubDate>Thu, 25 Dec 2025 18:02:02 +0100</pubDate><guid>https://bgronas.github.io/post/2025-12-25-android-with-200-megapixels-is-it-any-good/</guid><description>
+&lt;h1 id="47-km-illusjonen">4,7 km-illusjonen&lt;/h1>
+&lt;p>Den &lt;strong>21. november 2025&lt;/strong>, mens jeg sto på &lt;strong>Alcatraz Island&lt;/strong>, tok jeg et håndholdt bilde av &lt;strong>Golden Gate Bridge&lt;/strong> med en &lt;strong>Samsung Galaxy S24 Ultra&lt;/strong>. Bildet ble tatt med omtrent &lt;strong>20× zoom&lt;/strong> (kanskje mer). Resultatet ble overraskende nok tilfredsstillende. Broen ser nærmere ut. Kameraet fikk avstanden til å se kort ut … men … &lt;strong>Den geodetiske avstanden (rett linje) mellom Fort Point og Alcatraz er omtrent 4,7 km!!&lt;/strong> Dette er en koordinatbasert, geodetisk måling uavhengig av veier, ruter, tidevann eller egen visuell vurdering.&lt;/p></description></item><item><title>Himalaya på MC</title><link>https://bgronas.github.io/post/2025-12-09-mc-tur-til-himalaya-med-norind/</link><pubDate>Tue, 09 Dec 2025 21:35:24 +0100</pubDate><guid>https://bgronas.github.io/post/2025-12-09-mc-tur-til-himalaya-med-norind/</guid><description>
+&lt;p>
+&lt;figure>
+&lt;picture>
+&lt;img
+loading="lazy"
+decoding="async"
+alt="åååå… DEN følelsen!"
+class="image_figure image_internal image_processed"
+width="2048"
+height="946"
+src="https://bgronas.github.io/post/2025-12-09-mc-tur-til-himalaya-med-norind/intro.jpg"
+/>
+&lt;/picture>
+&lt;/figure>
+&lt;/p>
+&lt;p>Norind Adventures og motorsykkeltur i Himalaya - Lurer på om dette kan være noe for deg? Her er en liten oppsummering&lt;/p>
+&lt;h1 id="himalaya-på-mc">Himalaya på MC&lt;/h1>
+&lt;p>
+&lt;figure>
+&lt;picture>
+&lt;img
+loading="lazy"
+decoding="async"
+alt="Royal Enfield Himalayan 411. Første kjøredag var våt"
+class="image_figure image_internal image_processed"
+width="2048"
+height="946"
+src="https://bgronas.github.io/post/2025-12-09-mc-tur-til-himalaya-med-norind/bikes.jpg"
+/>
+&lt;/picture>
+&lt;/figure>
+&lt;/p>
+&lt;p>I september 2025 var vi med Norind Adventures på en episk motorsykkeltur i Himalaya. Blant tingene vi opplevde var dager med MC ekspedisjoner i regionen &lt;strong>Ladakh&lt;/strong>. Vi kjørte gjennom ganske mye ekstreme landskap — snødekte fjell, gjørme og regn, tørre ørkener, daler, høydedaler, alpine innsjøer og sanddyner og sist men ikke minst Kjøring over &lt;strong>pass&lt;/strong>. Terrenget varierer fra asfalt til røff stein, grus og sand. Noen ganger var det hardt arbeid, andre ganger følelsen av å seile gjennom eventyrlige Himalaya-landskap.&lt;/p></description></item><item><title>Goodbye Broadcom, Goodbye VMware, Hello Future</title><link>https://bgronas.github.io/post/2025-01-10/</link><pubDate>Fri, 10 Jan 2025 15:19:01 +0100</pubDate><guid>https://bgronas.github.io/post/2025-01-10/</guid><description>
+&lt;h1 id="my-turn-came">My turn came..&lt;/h1>
+&lt;p>The priorities for FY25 have unfortunately led to changes in our team. I am one of those affected. It’s not hopeless. I’m not angry or bitter, just a bit disappointed. But life goes on, and so will I. I will look for something sustainable, and reflect on what to do next.&lt;/p>
+&lt;h1 id="vmware--a-journey-of-a-lifetime">VMware – A Journey of a Lifetime&lt;/h1>
+&lt;p>So, my turn has come. Now in 2025, my time at VMware, VMware by Broadcom, or simply VMware, drew to a close. As I sit here reflecting, my mind is full of memories, and my heart is filled with gratitude for what has truly been an incredible journey, one that began in November 2013. It has been a time marked by innovation, collaboration, and genuine camaraderie – a chapter of my life I will cherish forever.&lt;/p></description></item><item><title>Maximize Efficiency: Power-Saving Techniques in vSphere + Operations Dashboards</title><link>https://bgronas.github.io/post/2023-10-03/</link><pubDate>Tue, 21 Nov 2023 14:24:39 +0200</pubDate><guid>https://bgronas.github.io/post/2023-10-03/</guid><description>
+&lt;h1 id="better--faster-vs-save-power">Better &amp;amp; faster vs. Save power!&lt;/h1>
+&lt;p>&lt;img src="./assets/1578728-200.png" align=right style="zoom:80%;" />The technological wonders we&amp;rsquo;ve created have undoubtedly made our lives more connected, better and faster. Our dependency on IT infrastructures has grown, and so has also the &lt;em>&lt;strong>demand for power&lt;/strong>&lt;/em>. But with a passion for sustainability, let’s talk about the server power-saving techniques, particularly in a vSphere environment.&lt;/p>
+&lt;p>In my previous article I talked about the vSphere feature &lt;strong>DPM&lt;/strong>, or Distributed Power Management, to power off hosts dynamically when the demand is low. &lt;a href="https://bgronas.github.io/post/2023-09-08/">Go and have a look.&lt;/a> This article complements the VMware Explore session where my buddy &lt;a href="vbondzio@vmware.com">Valentin Bondzio&lt;/a> explained his &amp;ldquo;no Risk HPM&amp;rdquo; methodology. Note: It starts at 27:52 in the session &lt;a href="https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1683885521040001LU2d&amp;amp;videoId=6340794321112">Orange journey to reduce their carbon emissions &amp;amp; Focus on HPM&lt;/a> - Head over to his Blog &lt;a href="https://valentin.bondz.io/no-risk-host-power-management/">No Risk Host Power Management&lt;/a>.&lt;/p></description></item><item><title>Eco-Friendly Datacenter Management: Power Management Strategies</title><link>https://bgronas.github.io/post/2023-09-08/</link><pubDate>Fri, 08 Sep 2023 10:19:28 +0200</pubDate><guid>https://bgronas.github.io/post/2023-09-08/</guid><description>
+&lt;h1 id="sustainability-is-key-for-eu-organizations">Sustainability is key for EU organizations&lt;/h1>
+&lt;img src="./assets/image-20230927225014134.png" style="zoom:40%;float:left;margin:1px 55px 100px 1px;border:2px solid green"/>
+&lt;p>GREENHOUSE GAS EMMISSIONS (GhG):&lt;/p>
+&lt;p>We&amp;rsquo;re cutting emissions and costs by optimizing workloads and promoting virtualization.&lt;/p>
+&lt;p>A Green Score in Aria Operations tracks progress with five parameters, to target improvements, these are:&lt;/p>
+&lt;p>&lt;em>Workload Efficiency, Resource Utilization, Virtualization Rate, power Source, and Hardware Efficiency&lt;/em>.&lt;/p>
+&lt;p>&lt;strong>&lt;a href="https://bgronas.github.io/post/2023-03-27/#hyperscalers-are-power-saving">The large Hyperscalers are saving&lt;/a>,&lt;/strong> and so should we.&lt;/p>
+&lt;p> &lt;p> &lt;p> &lt;p>
+&lt;h1 id="vsphere-distributed-power-management">vSphere Distributed Power Management&lt;/h1>
+&lt;img src="./assets/image-20231122075434152.png" style="margin:1px 25px 1px 1px;border:1px solid green"/>
+&lt;p>The vSphere Distributed Power Management (&lt;strong>DPM&lt;/strong>) feature optimizes power usage in virtualized data centers by dynamically adjusting server power states based on workload demand, saving energy and costs while maintaining high availability. Its excellence lies in its ability to optimize power consumption and dynamically adjusts the power state of servers based on workload demand. Unused servers are powered off or placed in a low-power state. This reduces energy costs, and contributes to environmental sustainability. &lt;strong>So, have you tried to give DPM a second chance?&lt;/strong> If not, please consider it. For every kilowatt consumed by servers you would need cooling!&lt;/p></description></item><item><title>IaaS Automated Powersaving, Green Sustainability Pt. 3</title><link>https://bgronas.github.io/post/2023-04-18/</link><pubDate>Tue, 18 Apr 2023 09:11:13 +0200</pubDate><guid>https://bgronas.github.io/post/2023-04-18/</guid><description>
+&lt;h1 id="get-wise-about-operations">&lt;strong>Get wise about Operations&lt;/strong>&lt;/h1>
+&lt;p>&lt;strong>When using Aria Operations we should ensure we are using corresponding working hours in the capacity policy, to avoid unforeseen effects on the calculation for powered off VMs&lt;/strong>. The goal and purpose of this Topic is to show why we should either use the construct “Business Hours” or “Maintenance Schedules” in a VMware Aria Operations Policy to avoid hassle during the powering off of workloads&lt;/p>
+&lt;p>This article is divided into 3 parts:&lt;/p></description></item><item><title>IaaS Automated Powersaving, Green Sustainability - Pt.2</title><link>https://bgronas.github.io/post/2023-04-16/</link><pubDate>Sun, 16 Apr 2023 14:34:56 +0200</pubDate><guid>https://bgronas.github.io/post/2023-04-16/</guid><description>
+&lt;h1 id="up-and-running-with-powersaving">&lt;strong>Up and running with powersaving&lt;/strong>&lt;/h1>
+&lt;p>&lt;strong>The goal and purpose of this article is to show an example of implementation to accomplish the scheduled Powering off(and on) of VMs in our own On-Premises datacenter the same way Google GCP, AWS, and Azure VMs does it with their Hyperscalers.&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>This article is divided into 3 parts:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://bgronas.github.io/post/2023-03-27/">IaaS Automated Powersaving, Green Sustainability - Pt.1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bgronas.github.io/post/2023-04-16/">IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bgronas.github.io/post/2023-04-18/">IaaS Automated Powersaving, Green Sustainability - Pt.3&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;img src="./images/index/image-20230416162218067.png" align="left" style="zoom:100%;" />
+&lt;p>This is the &lt;strong>second&lt;/strong> article containing the practical walk through of an example of how to do this with VMware technology.&lt;/p></description></item><item><title>IaaS Automated Powersaving, Green Sustainability - Pt.1</title><link>https://bgronas.github.io/post/2023-03-27/</link><pubDate>Mon, 27 Mar 2023 17:43:45 +0200</pubDate><guid>https://bgronas.github.io/post/2023-03-27/</guid><description>
+&lt;h1 id="powersaving-in-our-datacenter">&lt;strong>Powersaving in our datacenter&lt;/strong>&lt;/h1>
+&lt;p>&lt;strong>The goal and purpose of this article is to discuss “the WHY” in Powering off and Powering On VMs based on regular Schedule, just the way Google GCP, AWS, and Azure does it with VMs&lt;/strong>. Why would we implement Sustainable Practices to meet our sustainability goals?&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>This article is divided into 3 parts:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://bgronas.github.io/post/2023-03-27/">IaaS Automated Powersaving, Green Sustainability - Pt.1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bgronas.github.io/post/2023-04-16/">IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bgronas.github.io/post/2023-04-18/">IaaS Automated Powersaving, Green Sustainability - Pt.3&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="this-is-the-first-article-containing-the-why">This is the first article containing the WHY.&lt;/h4>
+&lt;p>Note: If you want to go ahead and implement everything immediately without further knowledge, please head over the article &lt;a href="https://bgronas.github.io/post/2023-04-16/">IaaS Automated Powersaving, Green Sustainability - Pt.2&lt;/a>&lt;/p></description></item><item><title>Cloud Management Tech Zone</title><link>https://bgronas.github.io/post/2023-03-03/</link><pubDate>Fri, 03 Mar 2023 08:52:27 +0100</pubDate><guid>https://bgronas.github.io/post/2023-03-03/</guid><description>
+&lt;h1 id="dead-or-alive">Dead or alive?&lt;/h1>
+&lt;p>Is the good old Pathfinder dead and Modern Apps and Cloud Management &lt;strong>Techzone&lt;/strong> next? Maybe, or maybe it isn’t&lt;/p>
+&lt;p> &lt;/p>
+&lt;h2 id="what-am-i-talking-about">What am I talking about?&lt;/h2>
+&lt;p>For some time, VMware have had a collection of resources assembled as a collection in a one-stop-shop for resources such as videos, blogs, articles and training for all the cloud management products. Even the &lt;a href="https://labs.hol.vmware.com/">Hands-On Labs&lt;/a> have had links on these pages. This collection was called &lt;a href="https://pathfinder.vmware.com.">PathFinder&lt;/a>&lt;/p></description></item><item><title>Operations and Orchestrator</title><link>https://bgronas.github.io/post/2023-02-24/</link><pubDate>Fri, 24 Feb 2023 10:02:11 +0100</pubDate><guid>https://bgronas.github.io/post/2023-02-24/</guid><description>
+&lt;h2 id="objectives">Objectives&lt;/h2>
+&lt;p>The goal and purpose is to show how to connect vRealize Orchestrator to vRealize Operations to later be able to do actions and remedies based on alerts in vRealize Operations. You can then also run Orchestrator workflows directly from vRealize Operations objects. I hope this little article with it’s two cruicial tips will save you time and hassle and to easily be successful.&lt;/p>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
+&lt;ol>
+&lt;li>&lt;strong>vRealize Orchestrator&lt;/strong> installed. My Orchestrator is installed with vRealize Automation or you can download your standalone version from &lt;a href="https://customerconnect.vmware.com/">Customer Connect&lt;/a> Look under &amp;ldquo;Download VMware vSphere&amp;rdquo; (vRO is free with vCenter).&lt;/li>
+&lt;li>&lt;strong>vRealize Operations&lt;/strong> installed. I used vRealize Lifecycle Manager and deployed VROPS from there.&lt;/li>
+&lt;li>&lt;strong>vRealize Operations management pack&lt;/strong> go to the marketplace and search for &amp;ldquo;Management Pack for vRealize Orchestrator&amp;rdquo;. I will be using version 3.2.1 of the Management Pack for vRealize Orchestrator. The file name is: &lt;em>&amp;quot;&lt;a href="https://marketplace.cloud.vmware.com/services/details/management-pack-for-vrealize-orchestrator11-11?slug=true">vmware-mpforvro-3-2-1-19171022-pak&lt;/a>&amp;quot;&lt;/em>&lt;/li>
+&lt;/ol>
+&lt;h2 id="documentation">Documentation&lt;/h2>
+&lt;p>I recommend to read this thoroughly, because not every step will be explained here. At least go to the &lt;a href="">Overview to see all the steps&lt;/a> and the &lt;a href="https://docs.vmware.com/en/VMware-vRealize-Operations-Management-Pack-for-vRealize-Orchestrator/3.2/vrealize-orchestrator/GUID-CE89A064-09D8-4412-9903-9604A09BD0EF.html">Configure&lt;/a> section.&lt;/p></description></item><item><title>VROPS Out of Disk Space</title><link>https://bgronas.github.io/post/2023-01-31/</link><pubDate>Tue, 31 Jan 2023 12:53:31 +0100</pubDate><guid>https://bgronas.github.io/post/2023-01-31/</guid><description>
+&lt;p>&lt;strong>What if you are Unable to bring your vRealize (Aria) Operations cluster online because one or more nodes are out of disk space. Let&amp;rsquo;s see if the log disk is the problem and try to fix it&lt;/strong>&lt;/p>
+&lt;p>The goal is to find out if the Log disk is full and how to clean it and hopefully you save some time with this mini-Recipe that will show you how to investigate the &amp;ldquo;Unable to bring the cluster online because one or more nodes are out of disk space.&amp;rdquo; error in the Admin console of vRealize Operations and what to check.&lt;/p></description></item><item><title>Bypass Windows 11 Install Problems</title><link>https://bgronas.github.io/post/2022-12-10/</link><pubDate>Sat, 10 Dec 2022 15:22:01 +0100</pubDate><guid>https://bgronas.github.io/post/2022-12-10/</guid><description>
+&lt;h1 id="the-problem">The problem&lt;/h1>
+&lt;p>The goal and purpose was that I needed to bypass the &amp;ldquo;&lt;strong>This PC can’t run Windows 11&lt;/strong>&amp;rdquo; problem during an installation of a Windows 11 Virtual Machine (VM) in my test environment. This DIY recipe will save us the hassle of googling it once again and sorting out the correct article to try out.&lt;/p>
+&lt;h3 id="this-pc-cant-run-windows-11">This PC can’t run Windows 11&lt;/h3>
+&lt;p>This happens during an install:&lt;/p>
+&lt;img src="./aria-automation/index/ErrorCropped-1670682926123-3.png" alt="Windows 11 Fresh Install - This PC can't run Windows 11" style="zoom:80%;" />
+&lt;h1 id="the-solution">The Solution&lt;/h1>
+&lt;ol>
+&lt;li>Go back one step by clicking &lt;strong>top-left blue arrow&lt;/strong>&lt;/li>
+&lt;li>press &amp;lsquo;&lt;strong>Shift+F10&lt;/strong>&amp;rsquo;&lt;/li>
+&lt;li>in the CMD box, type &amp;lsquo;&lt;strong>regedit&lt;/strong>&amp;rsquo; and press &lt;strong>enter&lt;/strong>&lt;/li>
+&lt;li>in the registry editor Navigate to “HKEY_LOCAL_MACHINE\SYSTEM\Setup”&lt;/li>
+&lt;li>Right click Setup, Choose New Key, and Name it &amp;ldquo;&lt;strong>LabConfig&lt;/strong>&amp;rdquo;&lt;/li>
+&lt;li>Under LabConfig, add all these values as &lt;strong>DWORD (32-bit) Values&lt;/strong> and set the data to &lt;strong>1&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>&lt;code>BypassCPUCheck&lt;/code>&lt;/li>
+&lt;li>&lt;code>BypassRAMCheck&lt;/code>&lt;/li>
+&lt;li>&lt;code>BypassSecureBootCheck&lt;/code>&lt;/li>
+&lt;li>&lt;code>BypassStorageCheck&lt;/code>&lt;/li>
+&lt;li>&lt;code>BypassTPMCheck&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;p>After all these manual inserrtions are done, you are ready to continue the fight of installing Windows 11.&lt;/p></description></item><item><title>VRealize Operations Management Pack for Kubernetes 1.8 [15.11.2022]</title><link>https://bgronas.github.io/post/2022-11-15/</link><pubDate>Tue, 15 Nov 2022 17:57:00 +0100</pubDate><guid>https://bgronas.github.io/post/2022-11-15/</guid><description>
+&lt;h2 id="monitoring-k8s-with-vmware">Monitoring K8s with VMware&lt;/h2>
+&lt;p>Monitoring is an essential part of &lt;em>DevOps&lt;/em>. As enterprises are using Kubernetes, they would need all the capabilities they leverage today for virtual machines. Starting from discovering the Kubernetes clusters, creating an inventory, defining relationships, and finally collecting all the key metrics and events to provide full visibility and do Troubleshooting and Root Cause Analysis.&lt;/p>
+&lt;p>You can use &lt;strong>vRealize Operations&lt;/strong> to monitor your open-source container orchestration system &lt;strong>Kubernetes&lt;/strong> environment. Why wouldn&amp;rsquo;t Prometheus &amp;amp; Grafana be enough? Well, Aria Operations formerly known as vRealize Operations can do so much more than just monitor Kubernetes, but we&amp;rsquo;re not going to talk about that in-depth here. Even if Grafana in the end will give you some charts, graphs, and alerts regarding your Kubernetes environment, you would want to use vROps or Aria Operations for the task. This will save you the hassle of maintaining the various solutions required and maybe even have separate people for separate expertise.&lt;/p></description></item><item><title>Install Python 3.10.8 on RaspBerry PI [18.10.2022]</title><link>https://bgronas.github.io/post/2022-10-18/</link><pubDate>Tue, 18 Oct 2022 15:49:42 +0200</pubDate><guid>https://bgronas.github.io/post/2022-10-18/</guid><description>
+&lt;h2 id="how-to-set-up-python-on-pi">How-to set up Python on Pi&lt;/h2>
+&lt;p>The goal of this little article is to show how I installed Python on raspberry PI. There are lot&amp;rsquo;s of articles out there on the subject, but since I am a beginner, I am running through everything I find useful for my self and as a later notice to myself. This saves med the time and hassle to find the recipe or how-to next time. Plus, I know what worked for me.&lt;/p></description></item><item><title>Become a Power User of VRealize Log Insight [19.07.2022]</title><link>https://bgronas.github.io/post/2022-07-19/</link><pubDate>Tue, 19 Jul 2022 10:05:04 +0200</pubDate><guid>https://bgronas.github.io/post/2022-07-19/</guid><description>
+&lt;h5 id="for-the-fourth-time-i-am-a-captain-as-a-part-of-the-vmware-hands-on-labs-and-this-year-i-will-be-on-both-vmware-explore-arrangements-in-usa-and-europe">For the fourth time I am a &amp;lsquo;captain&amp;rsquo; as a part of the VMware Hands-On Labs, and this year I will be on both &lt;strong>VMware Explore&lt;/strong> arrangements in USA and EUROPE.&lt;/h5>
+&lt;h6 id="while-serving-the-hands-on-labs-environment-we-will-have-instructor-lead-workshops-elw-where-the-participating-audience-will-have-headsets-and-listening-to-me-while-we-go-through-one-of-the-labs">While serving the Hands-on Labs environment, we will have Instructor Lead Workshops (ELW) where the participating audience will have headsets and listening to me while we go through one of the labs.&lt;/h6>
+&lt;h6 id="one-of-the-labs-ive-previously-have-written-is-the-advanced-topics-in-vrealize-log-insight-hol-2201-11-cmp-and-this-particular-instructor-lead-workshops-will-be-taken-from-one-of-the-modules-from-that-lab">One of the Labs I&amp;rsquo;ve previously have written is the Advanced Topics in vRealize Log Insight (HOL-2201-11-CMP), and this particular Instructor Lead Workshops will be taken from one of the modules from that Lab.&lt;/h6>
+&lt;p>With me will be my CO-Host: Staff Technical Account Manager at VMware, &lt;strong>Shannon Fitzpatrick&lt;/strong>&lt;/p></description></item><item><title>Root Password Expiration on VRealize Appliances</title><link>https://bgronas.github.io/post/2022-06-23/</link><pubDate>Thu, 23 Jun 2022 11:03:00 +0200</pubDate><guid>https://bgronas.github.io/post/2022-06-23/</guid><description>
+&lt;h1 id="what">&lt;strong>What&amp;rsquo;s the problem?&lt;/strong>&lt;/h1>
+&lt;p>Normally a Virtual appliance (VA) in the vRealize Suite (VRS), aka Aria, will expire the root password you set under the installation within a year. Well, nothing dramatic about that. But, will you remember to change it next year? Maybe, if something told you in a GUI, mail or monitoring system that the password were going to expire.&lt;/p>
+&lt;h4 id="a-monitoring-dilemma">A monitoring dilemma&lt;/h4>
+&lt;p>When the VA root password is expired it will prompt you to change it when you SSH into it. &lt;strong>Fine&lt;/strong>. But how would you know if the password expires? AFAIK. There is currently no check for this in vRealize Operations manager, aka Aria Operations, or any of the other vRealize products. There might be a future health check for this, but as for now (june 2022) there was none.&lt;/p></description></item><item><title>VMware Explore, the New VMworld! [19.05.2022]</title><link>https://bgronas.github.io/post/2022-05-19/</link><pubDate>Thu, 19 May 2022 10:43:52 +0200</pubDate><guid>https://bgronas.github.io/post/2022-05-19/</guid><description>
+&lt;h1 id="vmware-explore-is-the-new-vmworld">VMware Explore is the new VMworld&lt;/h1>
+&lt;p>Right? Right! Yes it&amp;rsquo;s all here, this will not change back again. Do we all want to change in the same pace VMware does. We all know that can be challenging for customers, but what about you? Read through this and see if your own personal opinions differ from mine, I hope they do.&lt;/p>
+&lt;h4 id="being-a-vmware-employee">Being a VMware employee&lt;/h4>
+&lt;p>VMware is all about diversity. We can all be ourselves as long as we don&amp;rsquo;t hurt anyone. So even if VMware from time to time does something that an &lt;strong>&lt;u>old&lt;/u>&lt;/strong> guy like me do not like, there&amp;rsquo;s still hope. On the other hand, why would I ? There should be no reason to slag off people of CHANGE. We all are professionals seeing change in the fastest pace ever. There is no reason to criticize crazy people with passionate inventions (that actually worked). And now, I&amp;rsquo;m not talking about &lt;em>The Cyclomer&lt;/em> :-)&lt;/p></description></item><item><title>vRealize Operations 8.6.3. [29.04.2022]</title><link>https://bgronas.github.io/post/2022-04-29/</link><pubDate>Fri, 29 Apr 2022 14:54:50 +0200</pubDate><guid>https://bgronas.github.io/post/2022-04-29/</guid><description>
+&lt;p>** &amp;ldquo;Recently&amp;rdquo;, VMware released new and improved vRealize versions. Let&amp;rsquo;s have a look on vRealize Operations and the new v8.6.3 of the product**.&lt;/p>
+&lt;blockquote>
+&lt;p>** Note: If you can&amp;rsquo;t find stuff ** - Exit Broadcom and go see: &lt;a href="https://www.youtube.com/@Nutanix/videos">NUTANIX videos&lt;/a>&lt;/p>&lt;/blockquote>
+&lt;p>This release from 8.6.2 to 8.6.3. is a is a &lt;strong>maintenance release&lt;/strong> which resolves a few important security and functionality issues identified in the product For more details, see &lt;a href="https://kb.vmware.com/s/article/88081">KB 88081&lt;/a>. There are &lt;em>154 CVE&amp;rsquo;s&lt;/em> (Common Vulnerabilities and Exposures) solved and fixed. I&amp;rsquo;d say it&amp;rsquo;s quite a large update even if it feels minor. The following issues have been resolved as of vRealize Operations 8.6.3:&lt;/p></description></item><item><title>Frigate - I've neither seen the boat nor the bird</title><link>https://bgronas.github.io/post/2022-03-07/</link><pubDate>Mon, 07 Mar 2022 20:31:51 +0000</pubDate><guid>https://bgronas.github.io/post/2022-03-07/</guid><description>
+&lt;h1 id="frigate">Frigate&lt;/h1>
+&lt;p>Frigate - I&amp;rsquo;ve neither seen the boat nor the bird but my Frigate can actually dock or nest?! :-)
+Frigate is an open source NVR, a &lt;strong>N&lt;/strong>etwork &lt;strong>V&lt;/strong>ideo &lt;strong>R&lt;/strong>ecorder which is run as a Docker container on a Docker host. My preferred choice was to run it on Ubuntu 21.04 and install all the docker components directly on ubuntu on hardware. This is the recommended install method.&lt;/p>
+&lt;p>I hope that, by exposing my own configuration here, people might install and configure frigate faster than I did.&lt;/p></description></item><item><title>New Year, New Blog, Learning HUGO [19.01.2022]</title><link>https://bgronas.github.io/post/year-blog-learning-hugo-19-01-2022/</link><pubDate>Wed, 19 Jan 2022 15:55:16 +0000</pubDate><guid>https://bgronas.github.io/post/year-blog-learning-hugo-19-01-2022/</guid><description>
+&lt;h1 id="wow-i-just-moved-to-hugo">WOW, I just moved to HUGO.&lt;/h1>
+&lt;h6 id="wordpress">Wordpress&lt;/h6>
+&lt;p>I was previously using Wordpress with my public web provider. proISP. I have loved ProISP, they are providing me with domains, e-mail, web hosting, MySQL databases and everything.&lt;/p>
+&lt;p>Hosting a Wordpress site with them and paying almost nothing for it was very cool, and I have loved wordpress for the simplicity and for the easiness of changing the looks by using simple CSS, Templates, and publishing, It&amp;rsquo;s just been a walk in the park. :-)&lt;/p></description></item><item><title>Connect vROps to vRO</title><link>https://bgronas.github.io/post/2022-01-12/</link><pubDate>Wed, 12 Jan 2022 19:20:12 +0100</pubDate><guid>https://bgronas.github.io/post/2022-01-12/</guid><description>
+&lt;p>&lt;strong>Extending vRealize Operations with vRealize Orchestrator&lt;/strong>&lt;/p>
+&lt;p>Sometimes it&amp;rsquo;s a good thing to connect vRealize Orchestrator to vRealize Operations to be able to do actions and remedies based on alerts in vRealize Operations. Another thing that this connection provides is the possibilities to run Orchestrator workflows directly from vRealize Operations objects.&lt;/p>
+&lt;h3 id="how-we-do-this---in-details-now">How we do this - in details, now!&lt;/h3>
+&lt;p>&lt;strong>Prerequisites&lt;/strong>&lt;/p>
+&lt;p>You will need:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>vRealize Orchestrator&lt;/strong> installed
+This can either be included together with vRealize Automation, or, a standalone Orchestrator solution. My Orchestrator is installed with vRealize Automation. I&amp;rsquo;ll use that! If you do not have it, download your standalone version from &lt;a href="https://customerconnect.vmware.com/">Customer Connect&lt;/a> (vRO is free with vCenter). Look under &amp;ldquo;Download VMware vSphere&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>vRealize Operations&lt;/strong> installed. Well I have already used vRealize Lifecycle Manager and deployed mine. It is connected to vCenter, to vRealize Log Insight, and to vRealize Automation. This helps with both a Last mile of troubleshooting as well as providing my deployments in vRealize automation with metrics from vRealize Operations, for example Cost / Price, Showback / Chargeback information&lt;/li>
+&lt;li>&lt;strong>Download&lt;/strong> the vRealize Operations management pack from the marketplace. Basically, just go to the marketplace and search for &amp;ldquo;VMware vRealize Operations Management Pack for vRealize Orchestrator&amp;rdquo;. Since I will be showing this for vRealize Operations 8.6.x we need version 3.2 of the Management Pack for vRealize Orchestrator: &lt;a href="https://marketplace.cloud.vmware.com/services/details/management-pack-for-vrealize-orchestrator11?slug=true">https://marketplace.cloud.vmware.com/services/details/management-pack-for-vrealize-orchestrator11?slug=true&lt;/a>&lt;/li>
+&lt;li>The file name would for example be: &lt;em>&amp;ldquo;vmware-mpforvro-3-1634214904032.pak&amp;rdquo;&lt;/em>&lt;/li>
+&lt;/ol>
+&lt;h5 id="note-if-you-cant-find-stuff--">Note: If you can&amp;rsquo;t find stuff -&lt;/h5>
+&lt;p>Exit Broadcom and go see: &lt;a href="https://www.youtube.com/@Nutanix/videos">NUTANIX videos&lt;/a>&lt;/p></description></item><item><title>Mixing VRealize Operations Licenses</title><link>https://bgronas.github.io/post/2022-01-11/</link><pubDate>Tue, 11 Jan 2022 01:29:03 +0100</pubDate><guid>https://bgronas.github.io/post/2022-01-11/</guid><description>
+&lt;h1 id="mixing-vrealize-operations-licenses-isnt-easy-lets-try-to-define-whats-possible">Mixing vRealize Operations Licenses isn&amp;rsquo;t easy. Let&amp;rsquo;s try to define what&amp;rsquo;s possible.&lt;/h1>
+&lt;h1 id="mixing-vrealize-suite--vrealize-operations-licenses">Mixing vRealize Suite / vRealize Operations Licenses.&lt;/h1>
+&lt;ul>
+&lt;li>The vRealize Suite STD will give you vROps ADV&lt;/li>
+&lt;li>With both suites (adv/std) you will end up with vROps Adv.&lt;/li>
+&lt;li>You can mix vROps ADV and vROps ENT editions/licenses.&lt;/li>
+&lt;li>You can&amp;rsquo;t mix vROps STD with vROps ADV or vROps Ent.&lt;/li>
+&lt;li>vRealize Suite Per-CPU and per OSI can be mixed&lt;/li>
+&lt;li>vRealize Operations ADV + vRealize Suite STD - This allowed but ONLY as separate license groups. &lt;em>It doesn&amp;rsquo;t work when you mix the keys in one group&lt;/em>&lt;/li>
+&lt;li>vRealize Suite ADV + vRealize Suite STD - will work too, as both with both suites you will end up with vROps Adv. &lt;em>Separate license types into License Groups&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;p>Don&amp;rsquo;t forget you have vRA in vRealize Suite ADV too, and mixing editions at vRA might not be permitted&lt;/p></description></item><item><title/><link>https://bgronas.github.io/post/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bgronas.github.io/post/about/</guid><description/></item></channel></rss>

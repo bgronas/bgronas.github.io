@@ -4,8 +4,8 @@ title: "Høstens Nutanix-webinarer: fra første cluster til suveren plattform"
 date: 2026-09-25T11:30:00+02:00
 lastmod: 2026-09-25T11:30:00+02:00
 description: "Fire gratis tekniske Nutanix-webinarer denne høsten: Kubernetes fra første cluster til enterprise-plattform, GitOps og multitenancy, datasuverenitet og virtualisering."
-featured: false
-draft: true
+featured: true
+draft: false
 toc: false
 
 usePageBundles: true
@@ -73,27 +73,27 @@ Fra ditt første Kubernetes-cluster til en ekte enterprise-plattform, GitOps i p
 
 ## 1. Fra første cluster til enterprise-plattform – 30. september
 
-<img src="./image-20260925161223489.png" alt="image-20260925161223489" style="float: right; width: 10%; max-width: 350px; margin: 0 0 0 10px;" />Ett enkelt K8s cluster er easy-peacy. 10 clustre lukter plattform. Her går vi fra enkeltcluster til en arkitektur der management og produksjon er skilt i egne workload clusters, med produksjonsklare tjenester, ***observability*** og et privat container registry. Dette er Episode 2 i Kubernetes-serien.
+<img title=" " src="./image-20260925161223489.png"  style="float: right; width: 10%; max-width: 350px; margin: 0 0 0 10px;" />Ett enkelt K8s cluster er easy-peacy. 10 clustre lukter plattform. Her går vi fra enkeltcluster til en arkitektur der management og produksjon er skilt i egne workload clusters, med produksjonsklare tjenester, ***observability*** og et privat container registry. Dette er Episode 2 i Kubernetes-serien.
 
-<img src="./image-20260925160338270.png" alt="image-20260925160338270" style="zoom:25%;" /> [Meld deg på](https://event.nutanix.com/from1clustertoanenterpriseep2)
+<img title=" " src="./image-20260925160338270.png"  style="zoom:25%;" /> [Meld deg på](https://event.nutanix.com/from1clustertoanenterpriseep2)
 
 ## 2. Multitenancy og GitOps i praksis – 7. oktober
 
-<img src="./image-20260925161457226.png" alt="image-20260925161457226" style="float: right; width: 20%; max-width: 350px; margin: 0 0 0 10px;"   />Mange team, én plattform, intet kaos. Denne Episode 3 viser hvordan Nutanix Kubernetes Platform (NKP) partisjonerer ressurser og tilganger sikkert, hvordan GitOps ruller ut applikasjoner på tvers av fleets (clusters), og hvordan *Insights* fanger opp avvik før noen andre luringer gjør det.
+<img title=" " src="./image-20260925161457226.png" style="float: right; width: 20%; max-width: 350px; margin: 0 0 0 10px;"   />Mange team, én plattform, intet kaos. Denne Episode 3 viser hvordan Nutanix Kubernetes Platform (NKP) partisjonerer ressurser og tilganger sikkert, hvordan GitOps ruller ut applikasjoner på tvers av fleets (clusters), og hvordan *Insights* fanger opp avvik før noen andre luringer gjør det.
 
-<img src="./image-20260925160338270.png" alt="image-20260925160338270" style="zoom:25%;" /> [Meld deg på](https://event.nutanix.com/multitenancygitopsinpractep3)
+<img title=" " src="./image-20260925160338270.png" style="zoom:25%;" /> [Meld deg på](https://event.nutanix.com/multitenancygitopsinpractep3)
 
 ## 3. Datasuverenitet i hybrid multicloud – 13. oktober
 
-<img src="./image-20260925161658448.png" alt="image-20260925161658448" style="float: right; width: 15%; max-width: 350px; margin: 0 0px 0px 10px;" />Hvem kontrollerer dataene – egentlig? Dette er en times tid; om å beholde workloads der de skal være, sikre edge mot ransomware, unngå lock-in og det å gjøre compliance enkelt. Dette er særlig relevant for **offentlig sektor, helse og finans**.
+<img title=" " src="./image-20260925161658448.png"  style="float: right; width: 15%; max-width: 350px; margin: 0 0px 0px 10px;" />Hvem kontrollerer dataene – egentlig? Dette er en times tid; om å beholde workloads der de skal være, sikre edge mot ransomware, unngå lock-in og det å gjøre compliance enkelt. Dette er særlig relevant for **offentlig sektor, helse og finans**.
 
-<img src="./image-20260925160338270.png" alt="image-20260925160338270" style="zoom:25%;" /> [Meld deg på](https://event.nutanix.com/navigatingdatasovereignty)
+<img title=" " src="./image-20260925160338270.png" style="zoom:25%;" /> [Meld deg på](https://event.nutanix.com/navigatingdatasovereignty)
 
 ## 4. The Future of Virtualization – 16. oktober
 
-<img src="./image-20260925162009153.png" alt="image-20260925162009153" style="float: right; width: 15%; max-width: 350px; margin: 0px 0px 0px 10px;" />To timer hands-on. Dette er ikke slides. Du får kjøre vår Hypervisor (AHV) selv, navigere i Admin verktøyene Prism Central og Prism Element, og **se hvordan VMware-workloads migreres**. Hensikten er at du skal fra total uvisshet til å planlegge en PoC.
+<img title=" " src="./image-20260925162009153.png" style="float: right; width: 15%; max-width: 350px; margin: 0px 0px 0px 10px;" />To timer hands-on. Dette er ikke slides. Du får kjøre vår Hypervisor (AHV) selv, navigere i Admin verktøyene Prism Central og Prism Element, og **se hvordan VMware-workloads migreres**. Hensikten er at du skal fra total uvisshet til å planlegge en PoC.
 
-<img src="./image-20260925160338270.png" alt="image-20260925160338270" style="zoom:25%;" /> [Meld deg på](https://event.nutanix.com/thefutureofvirtualizationoct)
+<img title=" " src="./image-20260925160338270.png"  style="zoom:25%;" /> [Meld deg på](https://event.nutanix.com/thefutureofvirtualizationoct)
 
 
 
@@ -106,13 +106,13 @@ Fra ditt første Kubernetes-cluster til en ekte enterprise-plattform, GitOps i p
 
 ## Bonus: Agent Gateway
 
-<img src="./image-20260925154417712.png" alt="image-20260925154417712" style="float: left; width: 40%; max-width: 350px; margin: 0 10px 0 0;" />Gikk du glipp av [Agent Gateway: Architecting the Future of AI](https://event.nutanix.com/theagenticgatewayarchitectingt)  den 4. september? Den handlet om kontrollplanet mellom AI-modeller og agenter – governance, kostnadskontroll   [aka. TOKENOMICS] og skalering av autonome agenter uten å gi slipp på datasuvereniteten. Sjekk siden for opptak. 
+<img title=" " src="./image-20260925154417712.png" style="float: left; width: 40%; max-width: 350px; margin: 0 10px 0 0;" />Gikk du glipp av [Agent Gateway: Architecting the Future of AI](https://event.nutanix.com/theagenticgatewayarchitectingt)  den 4. september? Den handlet om kontrollplanet mellom AI-modeller og agenter – governance, kostnadskontroll   [aka. TOKENOMICS] og skalering av autonome agenter uten å gi slipp på datasuvereniteten. Sjekk siden for opptak. 
 
 <div style="clear: both;"></div>
 
 
 
-## Vi ses - på skjermen <img src="./image-20260925160721706.png" alt="image-20260925160721706" style="zoom:33%;" />
+## Vi ses - på skjermen <img title=" " src="./image-20260925160721706.png" style="zoom:33%;" />
 
 Velg én. Eller velg alle fire. Ta med deg kollegaen som *«skal se på Kubernetes snart»* – og ta gjerne spørsmålene med til neste Nutanix User Group i Oslo. 
 

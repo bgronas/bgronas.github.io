@@ -823,6 +823,9 @@ function fileClosure(){
     let imagePosition = 0;
 
     images.forEach((image) => {
+      /* site-override: raw-img-guard */
+      if (!image.closest('figure')) { return; }
+
       let alt = image.alt;
       const figure = image.parentNode.parentNode;
 

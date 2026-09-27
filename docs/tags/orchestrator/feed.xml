@@ -1,65 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Orchestrator on Bengt Blog</title>
-    <link>https://bgronas.github.io/tags/orchestrator/feed.xml</link>
-    <description>Recent content in Orchestrator on Bengt Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>nb-NO</language>
-    <lastBuildDate>Fri, 24 Feb 2023 10:02:11 +0100</lastBuildDate><atom:link href="https://bgronas.github.io/tags/orchestrator/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Operations and Orchestrator</title>
-      <link>https://bgronas.github.io/post/2023-02-24/</link>
-      <pubDate>Fri, 24 Feb 2023 10:02:11 +0100</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2023-02-24/</guid>
-      <description>
-        
-          
-            &lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
-&lt;p&gt;The goal and purpose is to show how to connect vRealize Orchestrator to vRealize Operations to later be able to do actions and remedies based on alerts in vRealize Operations. You can then also run Orchestrator workflows directly from vRealize Operations objects.  I hope this little article with it’s two cruicial tips will save you time and hassle and to easily be successful.&lt;/p&gt;
-&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;vRealize Orchestrator&lt;/strong&gt; installed. My Orchestrator is installed with vRealize Automation or you can download your standalone version from &lt;a href=&#34;https://customerconnect.vmware.com/&#34;&gt;Customer Connect&lt;/a&gt; Look under &amp;ldquo;Download VMware vSphere&amp;rdquo; (vRO is free with vCenter).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;vRealize Operations&lt;/strong&gt; installed. I used vRealize Lifecycle Manager and deployed VROPS from there.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;vRealize Operations management pack&lt;/strong&gt; go to the marketplace and search for &amp;ldquo;Management Pack for vRealize Orchestrator&amp;rdquo;. I will be using version 3.2.1 of the Management Pack for vRealize Orchestrator. The file name is: &lt;em&gt;&amp;quot;&lt;a href=&#34;https://marketplace.cloud.vmware.com/services/details/management-pack-for-vrealize-orchestrator11-11?slug=true&#34;&gt;vmware-mpforvro-3-2-1-19171022-pak&lt;/a&gt;&amp;quot;&lt;/em&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;
-&lt;p&gt;I recommend to read this thoroughly, because not every step will be explained here. At least go to the &lt;a href=&#34;&#34;&gt;Overview to see all the steps&lt;/a&gt; and the &lt;a href=&#34;https://docs.vmware.com/en/VMware-vRealize-Operations-Management-Pack-for-vRealize-Orchestrator/3.2/vrealize-orchestrator/GUID-CE89A064-09D8-4412-9903-9604A09BD0EF.html&#34;&gt;Configure&lt;/a&gt; section.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Connect vROps to vRO</title>
-      <link>https://bgronas.github.io/post/2022-01-12/</link>
-      <pubDate>Wed, 12 Jan 2022 19:20:12 +0100</pubDate>
-      
-      <guid>https://bgronas.github.io/post/2022-01-12/</guid>
-      <description>
-        
-          
-            &lt;p&gt;&lt;strong&gt;Extending vRealize Operations with vRealize Orchestrator&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Sometimes it&amp;rsquo;s a good thing to connect vRealize Orchestrator to vRealize Operations to be able to do actions and remedies based on alerts in vRealize Operations. Another thing that this connection provides is the possibilities to run Orchestrator workflows directly from vRealize Operations objects.&lt;/p&gt;
-&lt;h3 id=&#34;how-we-do-this---in-details-now&#34;&gt;How we do this - in details, now!&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;You will need:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;vRealize Orchestrator&lt;/strong&gt; installed
-This can either be included together with vRealize Automation, or, a standalone Orchestrator solution. My Orchestrator is installed with vRealize Automation. I&amp;rsquo;ll use that! If you do not have it, download your standalone version from &lt;a href=&#34;https://customerconnect.vmware.com/&#34;&gt;Customer Connect&lt;/a&gt; (vRO is free with vCenter). Look under &amp;ldquo;Download VMware vSphere&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;vRealize Operations&lt;/strong&gt; installed. Well I have already used vRealize Lifecycle Manager and deployed mine. It is connected to vCenter,  to vRealize Log Insight, and to vRealize Automation. This helps with both a Last mile of troubleshooting as well as providing my deployments in vRealize automation with metrics from vRealize Operations, for example Cost / Price, Showback / Chargeback information&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Download&lt;/strong&gt; the vRealize Operations management pack from the marketplace. Basically, just go to the marketplace and search for &amp;ldquo;VMware vRealize Operations Management Pack for vRealize Orchestrator&amp;rdquo;. Since I will be showing this for vRealize Operations 8.6.x we need version 3.2 of the Management Pack for vRealize Orchestrator: &lt;a href=&#34;https://marketplace.cloud.vmware.com/services/details/management-pack-for-vrealize-orchestrator11?slug=true&#34;&gt;https://marketplace.cloud.vmware.com/services/details/management-pack-for-vrealize-orchestrator11?slug=true&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The file name would for example be: &lt;em&gt;&amp;ldquo;vmware-mpforvro-3-1634214904032.pak&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h5 id=&#34;note-if-you-cant-find-stuff--&#34;&gt;Note: If you can&amp;rsquo;t find stuff -&lt;/h5&gt;
-&lt;p&gt;Exit Broadcom and go see: &lt;a href=&#34;https://www.youtube.com/@Nutanix/videos&#34;&gt;NUTANIX videos&lt;/a&gt;&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Orchestrator on Bengt Blog</title><link>https://bgronas.github.io/tags/orchestrator/feed.xml</link><description>Recent content in Orchestrator on Bengt Blog</description><generator>Hugo -- gohugo.io</generator><language>nb-NO</language><lastBuildDate>Fri, 24 Feb 2023 10:02:11 +0100</lastBuildDate><atom:link href="https://bgronas.github.io/tags/orchestrator/feed.xml" rel="self" type="application/rss+xml"/><item><title>Operations and Orchestrator</title><link>https://bgronas.github.io/post/2023-02-24/</link><pubDate>Fri, 24 Feb 2023 10:02:11 +0100</pubDate><guid>https://bgronas.github.io/post/2023-02-24/</guid><description>
+&lt;h2 id="objectives">Objectives&lt;/h2>
+&lt;p>The goal and purpose is to show how to connect vRealize Orchestrator to vRealize Operations to later be able to do actions and remedies based on alerts in vRealize Operations. You can then also run Orchestrator workflows directly from vRealize Operations objects. I hope this little article with it’s two cruicial tips will save you time and hassle and to easily be successful.&lt;/p>
+&lt;h2 id="prerequisites">Prerequisites&lt;/h2>
+&lt;ol>
+&lt;li>&lt;strong>vRealize Orchestrator&lt;/strong> installed. My Orchestrator is installed with vRealize Automation or you can download your standalone version from &lt;a href="https://customerconnect.vmware.com/">Customer Connect&lt;/a> Look under &amp;ldquo;Download VMware vSphere&amp;rdquo; (vRO is free with vCenter).&lt;/li>
+&lt;li>&lt;strong>vRealize Operations&lt;/strong> installed. I used vRealize Lifecycle Manager and deployed VROPS from there.&lt;/li>
+&lt;li>&lt;strong>vRealize Operations management pack&lt;/strong> go to the marketplace and search for &amp;ldquo;Management Pack for vRealize Orchestrator&amp;rdquo;. I will be using version 3.2.1 of the Management Pack for vRealize Orchestrator. The file name is: &lt;em>&amp;quot;&lt;a href="https://marketplace.cloud.vmware.com/services/details/management-pack-for-vrealize-orchestrator11-11?slug=true">vmware-mpforvro-3-2-1-19171022-pak&lt;/a>&amp;quot;&lt;/em>&lt;/li>
+&lt;/ol>
+&lt;h2 id="documentation">Documentation&lt;/h2>
+&lt;p>I recommend to read this thoroughly, because not every step will be explained here. At least go to the &lt;a href="">Overview to see all the steps&lt;/a> and the &lt;a href="https://docs.vmware.com/en/VMware-vRealize-Operations-Management-Pack-for-vRealize-Orchestrator/3.2/vrealize-orchestrator/GUID-CE89A064-09D8-4412-9903-9604A09BD0EF.html">Configure&lt;/a> section.&lt;/p></description></item><item><title>Connect vROps to vRO</title><link>https://bgronas.github.io/post/2022-01-12/</link><pubDate>Wed, 12 Jan 2022 19:20:12 +0100</pubDate><guid>https://bgronas.github.io/post/2022-01-12/</guid><description>
+&lt;p>&lt;strong>Extending vRealize Operations with vRealize Orchestrator&lt;/strong>&lt;/p>
+&lt;p>Sometimes it&amp;rsquo;s a good thing to connect vRealize Orchestrator to vRealize Operations to be able to do actions and remedies based on alerts in vRealize Operations. Another thing that this connection provides is the possibilities to run Orchestrator workflows directly from vRealize Operations objects.&lt;/p>
+&lt;h3 id="how-we-do-this---in-details-now">How we do this - in details, now!&lt;/h3>
+&lt;p>&lt;strong>Prerequisites&lt;/strong>&lt;/p>
+&lt;p>You will need:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>vRealize Orchestrator&lt;/strong> installed
+This can either be included together with vRealize Automation, or, a standalone Orchestrator solution. My Orchestrator is installed with vRealize Automation. I&amp;rsquo;ll use that! If you do not have it, download your standalone version from &lt;a href="https://customerconnect.vmware.com/">Customer Connect&lt;/a> (vRO is free with vCenter). Look under &amp;ldquo;Download VMware vSphere&amp;rdquo;&lt;/li>
+&lt;li>&lt;strong>vRealize Operations&lt;/strong> installed. Well I have already used vRealize Lifecycle Manager and deployed mine. It is connected to vCenter, to vRealize Log Insight, and to vRealize Automation. This helps with both a Last mile of troubleshooting as well as providing my deployments in vRealize automation with metrics from vRealize Operations, for example Cost / Price, Showback / Chargeback information&lt;/li>
+&lt;li>&lt;strong>Download&lt;/strong> the vRealize Operations management pack from the marketplace. Basically, just go to the marketplace and search for &amp;ldquo;VMware vRealize Operations Management Pack for vRealize Orchestrator&amp;rdquo;. Since I will be showing this for vRealize Operations 8.6.x we need version 3.2 of the Management Pack for vRealize Orchestrator: &lt;a href="https://marketplace.cloud.vmware.com/services/details/management-pack-for-vrealize-orchestrator11?slug=true">https://marketplace.cloud.vmware.com/services/details/management-pack-for-vrealize-orchestrator11?slug=true&lt;/a>&lt;/li>
+&lt;li>The file name would for example be: &lt;em>&amp;ldquo;vmware-mpforvro-3-1634214904032.pak&amp;rdquo;&lt;/em>&lt;/li>
+&lt;/ol>
+&lt;h5 id="note-if-you-cant-find-stuff--">Note: If you can&amp;rsquo;t find stuff -&lt;/h5>
+&lt;p>Exit Broadcom and go see: &lt;a href="https://www.youtube.com/@Nutanix/videos">NUTANIX videos&lt;/a>&lt;/p></description></item></channel></rss>
