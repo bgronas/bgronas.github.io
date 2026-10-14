@@ -35,6 +35,11 @@ defaultContentLanguageInSubdir = false
 [params]
   author = "Bengt Grønås"
   email = "mail@bengt.no"
+
+[params.rssAuthor]
+  name = "Bengt Grønås"
+  email = "bgronas@gmail.com"
+
 #  description = "B-log"
 #  introDescription = "B-log"
   introURL = false

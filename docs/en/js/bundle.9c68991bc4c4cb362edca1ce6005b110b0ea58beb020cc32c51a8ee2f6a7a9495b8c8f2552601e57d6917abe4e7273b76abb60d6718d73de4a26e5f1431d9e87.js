@@ -18,11 +18,11 @@ const goBackClass = 'button_back';
 const lineClass = '.line';
 
 // defined in i18n / translation files
-const quickLinks = 'Resultater';
-const searchResultsLabel = 'Søkeresultater';
-const shortSearchQuery = 'Søket er for kort'
-const typeToSearch = 'Skriv for å søke';
-const noMatchesFound = 'Ingen resultater funnet';
+const quickLinks = 'Results';
+const searchResultsLabel = 'Search Results';
+const shortSearchQuery = 'Query is too short'
+const typeToSearch = 'Type to search';
+const noMatchesFound = 'No results found';
 
 
 ;
@@ -30,7 +30,7 @@ const noMatchesFound = 'Ingen resultater funnet';
 const doc = document.documentElement;
 const inline = ":inline";
 // variables read from your hugo configuration
-let showImagePosition = "true";
+let showImagePosition = "<no value>";
 
 const showImagePositionLabel = '<no value>';
 
