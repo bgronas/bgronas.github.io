@@ -4,7 +4,7 @@ title: "Google. Meta. NVIDIA. Nutanix. KubeCon connection."
 date: 2026-11-02T13:10:09+01:00
 description: "Nutanix joins Google, Meta and NVIDIA at KubeCon 2026. Explore three sessions, Diamond sponsorship, NKP 2.19 and Enterprise AI across clouds and bare metal."
 featured: false
-draft: true
+draft: false
 toc: false
 usePageBundles: true
 thumbnail: "thumbnail.png"
@@ -18,21 +18,17 @@ tags:
   - AI
   - Cloud Native
   - KubeCon
-  - Nutanix
   - NKP
   - Platform Engineering
 keywords:
   - KubeCon CloudNativeCon North America 2026
   - Nutanix Diamond Sponsor
-  - Nutanix Kubernetes Platform 2.19
+  - Nutanix Kubernetes Platform
   - Nutanix Enterprise AI
-  - Nutanix Cloud Platform
-  - Nutanix Cloud Infrastructure
   - NKP Metal
   - AI governance
   - GitOps recovery
   - Cluster API CAREN
-  - hybrid multicloud Kubernetes
 subjects:
   - Kubernetes and platform engineering
   - Enterprise AI and agent governance
