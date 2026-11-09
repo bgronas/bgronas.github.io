@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "C:/Users/bgron/Dropbox/HUGO/Sites/bgronas.github.io",
+	"sourceRoot": "E:/DATA/Dropbox (Personal)/HUGO/Sites/bgronas.github.io",
 	"sources": [
 		"themes/hugo-clarity/assets/sass/main.sass",
 		"themes/hugo-clarity/assets/sass/_variables.sass",
